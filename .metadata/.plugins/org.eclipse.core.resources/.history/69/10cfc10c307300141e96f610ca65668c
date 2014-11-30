@@ -1,0 +1,9 @@
+package memories
+public
+	memory system_memory
+	end system_memory;
+
+	memory implementation system_memory.impl
+	end system_memory.impl;
+
+end memories;

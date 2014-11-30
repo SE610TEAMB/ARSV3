@@ -1,0 +1,454 @@
+<?xml version="1.0" encoding="ASCII"?>
+<instance:SystemInstance xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:aadl2="http://aadl.info/AADL/2.0" xmlns:instance="http://aadl.info/AADL/2.0/instance" xmi:id="_y-3rwHgOEeSPiPV9Hvduxw" name="mission_processing_impl_Instance" category="system">
+  <featureInstance xmi:id="_y_Km5ngOEeSPiPV9Hvduxw" name="data_bus" category="busAccess" direction="in out">
+    <feature xsi:type="aadl2:BusAccess" href="../packages/ARR_subsystems.aadl#//@ownedPublicSection/@ownedClassifier.0/@ownedBusAccess.0"/>
+  </featureInstance>
+  <featureInstance xmi:id="_y_Km53gOEeSPiPV9Hvduxw" name="media_bus" category="busAccess" direction="in out">
+    <feature xsi:type="aadl2:BusAccess" href="../packages/ARR_subsystems.aadl#//@ownedPublicSection/@ownedClassifier.0/@ownedBusAccess.1"/>
+  </featureInstance>
+  <featureInstance xmi:id="_y_Km6HgOEeSPiPV9Hvduxw" name="power_bus" category="busAccess" direction="in out">
+    <feature xsi:type="aadl2:BusAccess" href="../packages/ARR_subsystems.aadl#//@ownedPublicSection/@ownedClassifier.0/@ownedBusAccess.2"/>
+  </featureInstance>
+  <featureInstance xmi:id="_y_Km6XgOEeSPiPV9Hvduxw" name="camera_in" srcFlowSpec="_y_KnBHgOEeSPiPV9Hvduxw">
+    <feature xsi:type="aadl2:DataPort" href="../packages/ARR_subsystems.aadl#//@ownedPublicSection/@ownedClassifier.0/@ownedDataPort.0"/>
+  </featureInstance>
+  <featureInstance xmi:id="_y_Km6ngOEeSPiPV9Hvduxw" name="microphone_in" srcFlowSpec="_y_KnBXgOEeSPiPV9Hvduxw">
+    <feature xsi:type="aadl2:DataPort" href="../packages/ARR_subsystems.aadl#//@ownedPublicSection/@ownedClassifier.0/@ownedDataPort.1"/>
+  </featureInstance>
+  <featureInstance xmi:id="_y_Km63gOEeSPiPV9Hvduxw" name="GPS_in" srcFlowSpec="_y_KnA3gOEeSPiPV9Hvduxw">
+    <feature xsi:type="aadl2:DataPort" href="../packages/ARR_subsystems.aadl#//@ownedPublicSection/@ownedClassifier.0/@ownedDataPort.2"/>
+  </featureInstance>
+  <featureInstance xmi:id="_y_Km7HgOEeSPiPV9Hvduxw" name="mission_data_agv" srcFlowSpec="_y_KnAHgOEeSPiPV9Hvduxw">
+    <feature xsi:type="aadl2:DataPort" href="../packages/ARR_subsystems.aadl#//@ownedPublicSection/@ownedClassifier.0/@ownedDataPort.3"/>
+  </featureInstance>
+  <featureInstance xmi:id="_y_Km7XgOEeSPiPV9Hvduxw" name="mission_results_agv" dstFlowSpec="_y_KnAXgOEeSPiPV9Hvduxw" direction="out">
+    <feature xsi:type="aadl2:DataPort" href="../packages/ARR_subsystems.aadl#//@ownedPublicSection/@ownedClassifier.0/@ownedDataPort.4"/>
+  </featureInstance>
+  <featureInstance xmi:id="_y_Km7ngOEeSPiPV9Hvduxw" name="battery_in" srcFlowSpec="_y_KnBngOEeSPiPV9Hvduxw">
+    <feature xsi:type="aadl2:DataPort" href="../packages/ARR_subsystems.aadl#//@ownedPublicSection/@ownedClassifier.0/@ownedDataPort.5"/>
+  </featureInstance>
+  <featureInstance xmi:id="_y_Km73gOEeSPiPV9Hvduxw" name="vehicle_state_agv" dstFlowSpec="_y_KnAngOEeSPiPV9Hvduxw" direction="out">
+    <feature xsi:type="aadl2:DataPort" href="../packages/ARR_subsystems.aadl#//@ownedPublicSection/@ownedClassifier.0/@ownedDataPort.6"/>
+  </featureInstance>
+  <featureInstance xmi:id="_y_Km8HgOEeSPiPV9Hvduxw" name="motor_feedback" srcFlowSpec="_y_Km-3gOEeSPiPV9Hvduxw">
+    <feature xsi:type="aadl2:DataPort" href="../packages/ARR_subsystems.aadl#//@ownedPublicSection/@ownedClassifier.0/@ownedDataPort.7"/>
+  </featureInstance>
+  <featureInstance xmi:id="_y_Km8XgOEeSPiPV9Hvduxw" name="arm_feedback" srcFlowSpec="_y_Km_ngOEeSPiPV9Hvduxw">
+    <feature xsi:type="aadl2:DataPort" href="../packages/ARR_subsystems.aadl#//@ownedPublicSection/@ownedClassifier.0/@ownedDataPort.8"/>
+  </featureInstance>
+  <featureInstance xmi:id="_y_Km8ngOEeSPiPV9Hvduxw" name="radar_in" srcFlowSpec="_y_Km-ngOEeSPiPV9Hvduxw">
+    <feature xsi:type="aadl2:DataPort" href="../packages/ARR_subsystems.aadl#//@ownedPublicSection/@ownedClassifier.0/@ownedDataPort.9"/>
+  </featureInstance>
+  <featureInstance xmi:id="_y_Km83gOEeSPiPV9Hvduxw" name="battery_backup" srcFlowSpec="_y_KnCngOEeSPiPV9Hvduxw">
+    <feature xsi:type="aadl2:DataPort" href="../packages/ARR_subsystems.aadl#//@ownedPublicSection/@ownedClassifier.0/@ownedDataPort.10"/>
+  </featureInstance>
+  <featureInstance xmi:id="_y_Km9HgOEeSPiPV9Hvduxw" name="disk_out" dstFlowSpec="_y_KnCXgOEeSPiPV9Hvduxw" direction="out">
+    <feature xsi:type="aadl2:DataPort" href="../packages/ARR_subsystems.aadl#//@ownedPublicSection/@ownedClassifier.0/@ownedDataPort.11"/>
+  </featureInstance>
+  <featureInstance xmi:id="_y_Km9XgOEeSPiPV9Hvduxw" name="weight_in" srcFlowSpec="_y_KnCHgOEeSPiPV9Hvduxw">
+    <feature xsi:type="aadl2:DataPort" href="../packages/ARR_subsystems.aadl#//@ownedPublicSection/@ownedClassifier.0/@ownedDataPort.12"/>
+  </featureInstance>
+  <featureInstance xmi:id="_y_Km9ngOEeSPiPV9Hvduxw" name="mission_control_agv" srcFlowSpec="_y_Km_3gOEeSPiPV9Hvduxw" category="eventPort">
+    <feature xsi:type="aadl2:EventPort" href="../packages/ARR_subsystems.aadl#//@ownedPublicSection/@ownedClassifier.0/@ownedEventPort.0"/>
+  </featureInstance>
+  <featureInstance xmi:id="_y_Km93gOEeSPiPV9Hvduxw" name="motor_signal" dstFlowSpec="_y_Km_XgOEeSPiPV9Hvduxw" category="eventPort" direction="out">
+    <feature xsi:type="aadl2:EventPort" href="../packages/ARR_subsystems.aadl#//@ownedPublicSection/@ownedClassifier.0/@ownedEventPort.1"/>
+  </featureInstance>
+  <featureInstance xmi:id="_y_Km-HgOEeSPiPV9Hvduxw" name="arm_singal" dstFlowSpec="_y_Km_HgOEeSPiPV9Hvduxw" category="eventPort" direction="out">
+    <feature xsi:type="aadl2:EventPort" href="../packages/ARR_subsystems.aadl#//@ownedPublicSection/@ownedClassifier.0/@ownedEventPort.2"/>
+  </featureInstance>
+  <featureInstance xmi:id="_y_Km-XgOEeSPiPV9Hvduxw" name="connection_state" srcFlowSpec="_y_KnB3gOEeSPiPV9Hvduxw" category="eventPort">
+    <feature xsi:type="aadl2:EventPort" href="../packages/ARR_subsystems.aadl#//@ownedPublicSection/@ownedClassifier.0/@ownedEventPort.3"/>
+  </featureInstance>
+  <componentInstance xmi:id="_y_A1sHgOEeSPiPV9Hvduxw" name="mission_controller" category="process">
+    <ownedPropertyAssociation xmi:id="_y_UX0ngOEeSPiPV9Hvduxw">
+      <property href="../../Plugin_Resources/Deployment_Properties.aadl#Deployment_Properties::Actual_Processor_Binding"/>
+      <ownedValue xmi:id="_y_UX03gOEeSPiPV9Hvduxw">
+        <ownedValue xsi:type="aadl2:ListValue" xmi:id="_y_UX1HgOEeSPiPV9Hvduxw">
+          <ownedListElement xsi:type="instance:InstanceReferenceValue" xmi:id="_y_UX1XgOEeSPiPV9Hvduxw" referencedInstanceObject="_y_Km5XgOEeSPiPV9Hvduxw"/>
+        </ownedValue>
+      </ownedValue>
+    </ownedPropertyAssociation>
+    <ownedPropertyAssociation xmi:id="_y_UX1ngOEeSPiPV9Hvduxw">
+      <property href="../../Plugin_Resources/Timing_Properties.aadl#Timing_Properties::Period"/>
+      <ownedValue xmi:id="_y_UX13gOEeSPiPV9Hvduxw">
+        <ownedValue xsi:type="aadl2:IntegerLiteral" xmi:id="_y_UX2HgOEeSPiPV9Hvduxw" value="10">
+          <unit href="../../Plugin_Resources/AADL_Project.aadl#//@ownedPropertyType.12/@ownedLiteral.3"/>
+        </ownedValue>
+      </ownedValue>
+    </ownedPropertyAssociation>
+    <featureInstance xmi:id="_y_Km03gOEeSPiPV9Hvduxw" name="mission_data" srcFlowSpec="_y_Km3XgOEeSPiPV9Hvduxw">
+      <feature xsi:type="aadl2:DataPort" href="../packages/processes.aadl#//@ownedPublicSection/@ownedClassifier.23/@ownedDataPort.0"/>
+    </featureInstance>
+    <featureInstance xmi:id="_y_Km1HgOEeSPiPV9Hvduxw" name="mission_result" dstConnectionInstance="_y_KnDHgOEeSPiPV9Hvduxw _y_KnEHgOEeSPiPV9Hvduxw _y_KnFHgOEeSPiPV9Hvduxw" dstFlowSpec="_y_Km4XgOEeSPiPV9Hvduxw" direction="out">
+      <feature xsi:type="aadl2:DataPort" href="../packages/processes.aadl#//@ownedPublicSection/@ownedClassifier.23/@ownedDataPort.1"/>
+    </featureInstance>
+    <featureInstance xmi:id="_y_Km1XgOEeSPiPV9Hvduxw" name="navigation_feedback" srcFlowSpec="_y_Km3ngOEeSPiPV9Hvduxw" category="eventDataPort">
+      <feature xsi:type="aadl2:EventDataPort" href="../packages/processes.aadl#//@ownedPublicSection/@ownedClassifier.23/@ownedEventDataPort.0"/>
+    </featureInstance>
+    <featureInstance xmi:id="_y_Km1ngOEeSPiPV9Hvduxw" name="identification_feedback" srcFlowSpec="_y_Km33gOEeSPiPV9Hvduxw" category="eventDataPort">
+      <feature xsi:type="aadl2:EventDataPort" href="../packages/processes.aadl#//@ownedPublicSection/@ownedClassifier.23/@ownedEventDataPort.1"/>
+    </featureInstance>
+    <featureInstance xmi:id="_y_Km13gOEeSPiPV9Hvduxw" name="operation_feedback" srcFlowSpec="_y_Km4HgOEeSPiPV9Hvduxw" category="eventDataPort">
+      <feature xsi:type="aadl2:EventDataPort" href="../packages/processes.aadl#//@ownedPublicSection/@ownedClassifier.23/@ownedEventDataPort.2"/>
+    </featureInstance>
+    <featureInstance xmi:id="_y_Km2HgOEeSPiPV9Hvduxw" name="mission_cotrol" srcFlowSpec="_y_Km3HgOEeSPiPV9Hvduxw" category="eventPort">
+      <feature xsi:type="aadl2:EventPort" href="../packages/processes.aadl#//@ownedPublicSection/@ownedClassifier.23/@ownedEventPort.0"/>
+    </featureInstance>
+    <featureInstance xmi:id="_y_Km2XgOEeSPiPV9Hvduxw" name="navigation_control" dstConnectionInstance="_y_KnEngOEeSPiPV9Hvduxw" dstFlowSpec="_y_Km5HgOEeSPiPV9Hvduxw" category="eventPort" direction="out">
+      <feature xsi:type="aadl2:EventPort" href="../packages/processes.aadl#//@ownedPublicSection/@ownedClassifier.23/@ownedEventPort.1"/>
+    </featureInstance>
+    <featureInstance xmi:id="_y_Km2ngOEeSPiPV9Hvduxw" name="identification_control" dstConnectionInstance="_y_KnDngOEeSPiPV9Hvduxw" dstFlowSpec="_y_Km43gOEeSPiPV9Hvduxw" category="eventPort" direction="out">
+      <feature xsi:type="aadl2:EventPort" href="../packages/processes.aadl#//@ownedPublicSection/@ownedClassifier.23/@ownedEventPort.2"/>
+    </featureInstance>
+    <featureInstance xmi:id="_y_Km23gOEeSPiPV9Hvduxw" name="operation_control" dstConnectionInstance="_y_KnFngOEeSPiPV9Hvduxw" dstFlowSpec="_y_Km4ngOEeSPiPV9Hvduxw" category="eventPort" direction="out">
+      <feature xsi:type="aadl2:EventPort" href="../packages/processes.aadl#//@ownedPublicSection/@ownedClassifier.23/@ownedEventPort.3"/>
+    </featureInstance>
+    <componentInstance xmi:id="_y_A1sXgOEeSPiPV9Hvduxw" name="identification" category="thread">
+      <ownedPropertyAssociation xmi:id="_y_UX2XgOEeSPiPV9Hvduxw">
+        <property href="../../Plugin_Resources/Deployment_Properties.aadl#Deployment_Properties::Actual_Processor_Binding"/>
+        <ownedValue xmi:id="_y_UX2ngOEeSPiPV9Hvduxw">
+          <ownedValue xsi:type="aadl2:ListValue" xmi:id="_y_UX23gOEeSPiPV9Hvduxw">
+            <ownedListElement xsi:type="instance:InstanceReferenceValue" xmi:id="_y_UX3HgOEeSPiPV9Hvduxw" referencedInstanceObject="_y_Km5XgOEeSPiPV9Hvduxw"/>
+          </ownedValue>
+        </ownedValue>
+      </ownedPropertyAssociation>
+      <ownedPropertyAssociation xmi:id="_y_dhoHgOEeSPiPV9Hvduxw">
+        <property href="../../Plugin_Resources/Timing_Properties.aadl#Timing_Properties::Period"/>
+        <ownedValue xmi:id="_y_dhoXgOEeSPiPV9Hvduxw">
+          <ownedValue xsi:type="aadl2:IntegerLiteral" xmi:id="_y_dhongOEeSPiPV9Hvduxw" value="10">
+            <unit href="../../Plugin_Resources/AADL_Project.aadl#//@ownedPropertyType.12/@ownedLiteral.3"/>
+          </ownedValue>
+        </ownedValue>
+      </ownedPropertyAssociation>
+      <ownedPropertyAssociation xmi:id="_y_dho3gOEeSPiPV9Hvduxw">
+        <property href="../../Plugin_Resources/SEI.aadl#SEI::MIPSBudget"/>
+        <ownedValue xmi:id="_y_dhpHgOEeSPiPV9Hvduxw">
+          <ownedValue xsi:type="aadl2:RealLiteral" xmi:id="_y_dhpXgOEeSPiPV9Hvduxw" value="2.0">
+            <unit href="../../Plugin_Resources/SEI.aadl#//@ownedPropertyType.4/@ownedLiteral.1"/>
+          </ownedValue>
+        </ownedValue>
+      </ownedPropertyAssociation>
+      <ownedPropertyAssociation xmi:id="_y_dhpngOEeSPiPV9Hvduxw">
+        <property href="../../Plugin_Resources/Timing_Properties.aadl#Timing_Properties::Compute_Execution_Time"/>
+        <ownedValue xmi:id="_y_dhp3gOEeSPiPV9Hvduxw">
+          <ownedValue xsi:type="aadl2:RangeValue" xmi:id="_y_dhqHgOEeSPiPV9Hvduxw">
+            <minimum xsi:type="aadl2:IntegerLiteral" xmi:id="_y_dhqXgOEeSPiPV9Hvduxw" value="2">
+              <unit href="../../Plugin_Resources/AADL_Project.aadl#//@ownedPropertyType.12/@ownedLiteral.3"/>
+            </minimum>
+            <maximum xsi:type="aadl2:IntegerLiteral" xmi:id="_y_dhqngOEeSPiPV9Hvduxw" value="2">
+              <unit href="../../Plugin_Resources/AADL_Project.aadl#//@ownedPropertyType.12/@ownedLiteral.3"/>
+            </maximum>
+          </ownedValue>
+        </ownedValue>
+      </ownedPropertyAssociation>
+      <featureInstance xmi:id="_y_KmsHgOEeSPiPV9Hvduxw" name="mission_data" srcFlowSpec="_y_KmtngOEeSPiPV9Hvduxw">
+        <feature xsi:type="aadl2:DataPort" href="../packages/threads.aadl#//@ownedPublicSection/@ownedClassifier.1/@ownedDataPort.0"/>
+      </featureInstance>
+      <featureInstance xmi:id="_y_KmsXgOEeSPiPV9Hvduxw" name="mission_result" srcConnectionInstance="_y_KnDHgOEeSPiPV9Hvduxw" dstFlowSpec="_y_KmungOEeSPiPV9Hvduxw" direction="out">
+        <feature xsi:type="aadl2:DataPort" href="../packages/threads.aadl#//@ownedPublicSection/@ownedClassifier.1/@ownedDataPort.1"/>
+      </featureInstance>
+      <featureInstance xmi:id="_y_KmsngOEeSPiPV9Hvduxw" name="identification_feedback" srcFlowSpec="_y_Kmt3gOEeSPiPV9Hvduxw" category="eventDataPort">
+        <feature xsi:type="aadl2:EventDataPort" href="../packages/threads.aadl#//@ownedPublicSection/@ownedClassifier.1/@ownedEventDataPort.0"/>
+      </featureInstance>
+      <featureInstance xmi:id="_y_Kms3gOEeSPiPV9Hvduxw" name="mission_cotrol" srcFlowSpec="_y_KmuHgOEeSPiPV9Hvduxw" category="eventPort">
+        <feature xsi:type="aadl2:EventPort" href="../packages/threads.aadl#//@ownedPublicSection/@ownedClassifier.1/@ownedEventPort.0"/>
+      </featureInstance>
+      <featureInstance xmi:id="_y_KmtHgOEeSPiPV9Hvduxw" name="identification_control" srcConnectionInstance="_y_KnDngOEeSPiPV9Hvduxw" dstFlowSpec="_y_KmuXgOEeSPiPV9Hvduxw" category="eventPort" direction="out">
+        <feature xsi:type="aadl2:EventPort" href="../packages/threads.aadl#//@ownedPublicSection/@ownedClassifier.1/@ownedEventPort.1"/>
+      </featureInstance>
+      <featureInstance xmi:id="_y_KmtXgOEeSPiPV9Hvduxw" name="data_bus_require" category="dataAccess" direction="in out">
+        <feature xsi:type="aadl2:DataAccess" href="../packages/threads.aadl#//@ownedPublicSection/@ownedClassifier.1/@ownedDataAccess.0"/>
+      </featureInstance>
+      <flowSpecification xmi:id="_y_KmtngOEeSPiPV9Hvduxw" name="new_flow_spec" source="_y_KmsHgOEeSPiPV9Hvduxw">
+        <flowSpecification href="../packages/threads.aadl#//@ownedPublicSection/@ownedClassifier.1/@ownedFlowSpecification.0"/>
+      </flowSpecification>
+      <flowSpecification xmi:id="_y_Kmt3gOEeSPiPV9Hvduxw" name="new_flow_spec2" source="_y_KmsngOEeSPiPV9Hvduxw">
+        <flowSpecification href="../packages/threads.aadl#//@ownedPublicSection/@ownedClassifier.1/@ownedFlowSpecification.1"/>
+      </flowSpecification>
+      <flowSpecification xmi:id="_y_KmuHgOEeSPiPV9Hvduxw" name="new_flow_spec3" source="_y_Kms3gOEeSPiPV9Hvduxw">
+        <flowSpecification href="../packages/threads.aadl#//@ownedPublicSection/@ownedClassifier.1/@ownedFlowSpecification.2"/>
+      </flowSpecification>
+      <flowSpecification xmi:id="_y_KmuXgOEeSPiPV9Hvduxw" name="new_flow_spec4" destination="_y_KmtHgOEeSPiPV9Hvduxw">
+        <flowSpecification href="../packages/threads.aadl#//@ownedPublicSection/@ownedClassifier.1/@ownedFlowSpecification.3"/>
+      </flowSpecification>
+      <flowSpecification xmi:id="_y_KmungOEeSPiPV9Hvduxw" name="new_flow_spec5" destination="_y_KmsXgOEeSPiPV9Hvduxw">
+        <flowSpecification href="../packages/threads.aadl#//@ownedPublicSection/@ownedClassifier.1/@ownedFlowSpecification.4"/>
+      </flowSpecification>
+      <subcomponent xsi:type="aadl2:ThreadSubcomponent" href="../packages/processes.aadl#//@ownedPublicSection/@ownedClassifier.24/@ownedThreadSubcomponent.0"/>
+      <index>0</index>
+    </componentInstance>
+    <componentInstance xmi:id="_y_Kmu3gOEeSPiPV9Hvduxw" name="navigation" category="thread">
+      <ownedPropertyAssociation xmi:id="_y_dhq3gOEeSPiPV9Hvduxw">
+        <property href="../../Plugin_Resources/Deployment_Properties.aadl#Deployment_Properties::Actual_Processor_Binding"/>
+        <ownedValue xmi:id="_y_dhrHgOEeSPiPV9Hvduxw">
+          <ownedValue xsi:type="aadl2:ListValue" xmi:id="_y_dhrXgOEeSPiPV9Hvduxw">
+            <ownedListElement xsi:type="instance:InstanceReferenceValue" xmi:id="_y_dhrngOEeSPiPV9Hvduxw" referencedInstanceObject="_y_Km5XgOEeSPiPV9Hvduxw"/>
+          </ownedValue>
+        </ownedValue>
+      </ownedPropertyAssociation>
+      <ownedPropertyAssociation xmi:id="_y_dhr3gOEeSPiPV9Hvduxw">
+        <property href="../../Plugin_Resources/Timing_Properties.aadl#Timing_Properties::Period"/>
+        <ownedValue xmi:id="_y_dhsHgOEeSPiPV9Hvduxw">
+          <ownedValue xsi:type="aadl2:IntegerLiteral" xmi:id="_y_dhsXgOEeSPiPV9Hvduxw" value="10">
+            <unit href="../../Plugin_Resources/AADL_Project.aadl#//@ownedPropertyType.12/@ownedLiteral.3"/>
+          </ownedValue>
+        </ownedValue>
+      </ownedPropertyAssociation>
+      <ownedPropertyAssociation xmi:id="_y_dhsngOEeSPiPV9Hvduxw">
+        <property href="../../Plugin_Resources/SEI.aadl#SEI::MIPSBudget"/>
+        <ownedValue xmi:id="_y_dhs3gOEeSPiPV9Hvduxw">
+          <ownedValue xsi:type="aadl2:RealLiteral" xmi:id="_y_dhtHgOEeSPiPV9Hvduxw" value="2.0">
+            <unit href="../../Plugin_Resources/SEI.aadl#//@ownedPropertyType.4/@ownedLiteral.1"/>
+          </ownedValue>
+        </ownedValue>
+      </ownedPropertyAssociation>
+      <ownedPropertyAssociation xmi:id="_y_dhtXgOEeSPiPV9Hvduxw">
+        <property href="../../Plugin_Resources/Timing_Properties.aadl#Timing_Properties::Compute_Execution_Time"/>
+        <ownedValue xmi:id="_y_dhtngOEeSPiPV9Hvduxw">
+          <ownedValue xsi:type="aadl2:RangeValue" xmi:id="_y_dht3gOEeSPiPV9Hvduxw">
+            <minimum xsi:type="aadl2:IntegerLiteral" xmi:id="_y_dhuHgOEeSPiPV9Hvduxw" value="2">
+              <unit href="../../Plugin_Resources/AADL_Project.aadl#//@ownedPropertyType.12/@ownedLiteral.3"/>
+            </minimum>
+            <maximum xsi:type="aadl2:IntegerLiteral" xmi:id="_y_dhuXgOEeSPiPV9Hvduxw" value="2">
+              <unit href="../../Plugin_Resources/AADL_Project.aadl#//@ownedPropertyType.12/@ownedLiteral.3"/>
+            </maximum>
+          </ownedValue>
+        </ownedValue>
+      </ownedPropertyAssociation>
+      <featureInstance xmi:id="_y_KmvHgOEeSPiPV9Hvduxw" name="mission_data" srcFlowSpec="_y_KmwngOEeSPiPV9Hvduxw">
+        <feature xsi:type="aadl2:DataPort" href="../packages/threads.aadl#//@ownedPublicSection/@ownedClassifier.0/@ownedDataPort.0"/>
+      </featureInstance>
+      <featureInstance xmi:id="_y_KmvXgOEeSPiPV9Hvduxw" name="mission_result" srcConnectionInstance="_y_KnEHgOEeSPiPV9Hvduxw" dstFlowSpec="_y_Kmw3gOEeSPiPV9Hvduxw" direction="out">
+        <feature xsi:type="aadl2:DataPort" href="../packages/threads.aadl#//@ownedPublicSection/@ownedClassifier.0/@ownedDataPort.1"/>
+      </featureInstance>
+      <featureInstance xmi:id="_y_KmvngOEeSPiPV9Hvduxw" name="navigation_feedback" srcFlowSpec="_y_KmxHgOEeSPiPV9Hvduxw" category="eventDataPort">
+        <feature xsi:type="aadl2:EventDataPort" href="../packages/threads.aadl#//@ownedPublicSection/@ownedClassifier.0/@ownedEventDataPort.0"/>
+      </featureInstance>
+      <featureInstance xmi:id="_y_Kmv3gOEeSPiPV9Hvduxw" name="mission_cotrol" srcFlowSpec="_y_KmxXgOEeSPiPV9Hvduxw" category="eventPort">
+        <feature xsi:type="aadl2:EventPort" href="../packages/threads.aadl#//@ownedPublicSection/@ownedClassifier.0/@ownedEventPort.0"/>
+      </featureInstance>
+      <featureInstance xmi:id="_y_KmwHgOEeSPiPV9Hvduxw" name="navigation_control" srcConnectionInstance="_y_KnEngOEeSPiPV9Hvduxw" dstFlowSpec="_y_KmxngOEeSPiPV9Hvduxw" category="eventPort" direction="out">
+        <feature xsi:type="aadl2:EventPort" href="../packages/threads.aadl#//@ownedPublicSection/@ownedClassifier.0/@ownedEventPort.1"/>
+      </featureInstance>
+      <featureInstance xmi:id="_y_KmwXgOEeSPiPV9Hvduxw" name="data_bus_require" category="dataAccess" direction="in out">
+        <feature xsi:type="aadl2:DataAccess" href="../packages/threads.aadl#//@ownedPublicSection/@ownedClassifier.0/@ownedDataAccess.0"/>
+      </featureInstance>
+      <flowSpecification xmi:id="_y_KmwngOEeSPiPV9Hvduxw" name="new_flow_spec" source="_y_KmvHgOEeSPiPV9Hvduxw">
+        <flowSpecification href="../packages/threads.aadl#//@ownedPublicSection/@ownedClassifier.0/@ownedFlowSpecification.0"/>
+      </flowSpecification>
+      <flowSpecification xmi:id="_y_Kmw3gOEeSPiPV9Hvduxw" name="new_flow_spec2" destination="_y_KmvXgOEeSPiPV9Hvduxw">
+        <flowSpecification href="../packages/threads.aadl#//@ownedPublicSection/@ownedClassifier.0/@ownedFlowSpecification.1"/>
+      </flowSpecification>
+      <flowSpecification xmi:id="_y_KmxHgOEeSPiPV9Hvduxw" name="new_flow_spec3" source="_y_KmvngOEeSPiPV9Hvduxw">
+        <flowSpecification href="../packages/threads.aadl#//@ownedPublicSection/@ownedClassifier.0/@ownedFlowSpecification.2"/>
+      </flowSpecification>
+      <flowSpecification xmi:id="_y_KmxXgOEeSPiPV9Hvduxw" name="new_flow_spec4" source="_y_Kmv3gOEeSPiPV9Hvduxw">
+        <flowSpecification href="../packages/threads.aadl#//@ownedPublicSection/@ownedClassifier.0/@ownedFlowSpecification.3"/>
+      </flowSpecification>
+      <flowSpecification xmi:id="_y_KmxngOEeSPiPV9Hvduxw" name="new_flow_spec5" destination="_y_KmwHgOEeSPiPV9Hvduxw">
+        <flowSpecification href="../packages/threads.aadl#//@ownedPublicSection/@ownedClassifier.0/@ownedFlowSpecification.4"/>
+      </flowSpecification>
+      <subcomponent xsi:type="aadl2:ThreadSubcomponent" href="../packages/processes.aadl#//@ownedPublicSection/@ownedClassifier.24/@ownedThreadSubcomponent.1"/>
+      <index>0</index>
+    </componentInstance>
+    <componentInstance xmi:id="_y_Kmx3gOEeSPiPV9Hvduxw" name="operation" category="thread">
+      <ownedPropertyAssociation xmi:id="_y_dhungOEeSPiPV9Hvduxw">
+        <property href="../../Plugin_Resources/Deployment_Properties.aadl#Deployment_Properties::Actual_Processor_Binding"/>
+        <ownedValue xmi:id="_y_dhu3gOEeSPiPV9Hvduxw">
+          <ownedValue xsi:type="aadl2:ListValue" xmi:id="_y_dhvHgOEeSPiPV9Hvduxw">
+            <ownedListElement xsi:type="instance:InstanceReferenceValue" xmi:id="_y_dhvXgOEeSPiPV9Hvduxw" referencedInstanceObject="_y_Km5XgOEeSPiPV9Hvduxw"/>
+          </ownedValue>
+        </ownedValue>
+      </ownedPropertyAssociation>
+      <ownedPropertyAssociation xmi:id="_y_dhvngOEeSPiPV9Hvduxw">
+        <property href="../../Plugin_Resources/Timing_Properties.aadl#Timing_Properties::Period"/>
+        <ownedValue xmi:id="_y_dhv3gOEeSPiPV9Hvduxw">
+          <ownedValue xsi:type="aadl2:IntegerLiteral" xmi:id="_y_dhwHgOEeSPiPV9Hvduxw" value="10">
+            <unit href="../../Plugin_Resources/AADL_Project.aadl#//@ownedPropertyType.12/@ownedLiteral.3"/>
+          </ownedValue>
+        </ownedValue>
+      </ownedPropertyAssociation>
+      <ownedPropertyAssociation xmi:id="_y_dhwXgOEeSPiPV9Hvduxw">
+        <property href="../../Plugin_Resources/SEI.aadl#SEI::MIPSBudget"/>
+        <ownedValue xmi:id="_y_dhwngOEeSPiPV9Hvduxw">
+          <ownedValue xsi:type="aadl2:RealLiteral" xmi:id="_y_dhw3gOEeSPiPV9Hvduxw" value="2.0">
+            <unit href="../../Plugin_Resources/SEI.aadl#//@ownedPropertyType.4/@ownedLiteral.1"/>
+          </ownedValue>
+        </ownedValue>
+      </ownedPropertyAssociation>
+      <ownedPropertyAssociation xmi:id="_y_dhxHgOEeSPiPV9Hvduxw">
+        <property href="../../Plugin_Resources/Timing_Properties.aadl#Timing_Properties::Compute_Execution_Time"/>
+        <ownedValue xmi:id="_y_dhxXgOEeSPiPV9Hvduxw">
+          <ownedValue xsi:type="aadl2:RangeValue" xmi:id="_y_dhxngOEeSPiPV9Hvduxw">
+            <minimum xsi:type="aadl2:IntegerLiteral" xmi:id="_y_dhx3gOEeSPiPV9Hvduxw" value="2">
+              <unit href="../../Plugin_Resources/AADL_Project.aadl#//@ownedPropertyType.12/@ownedLiteral.3"/>
+            </minimum>
+            <maximum xsi:type="aadl2:IntegerLiteral" xmi:id="_y_dhyHgOEeSPiPV9Hvduxw" value="2">
+              <unit href="../../Plugin_Resources/AADL_Project.aadl#//@ownedPropertyType.12/@ownedLiteral.3"/>
+            </maximum>
+          </ownedValue>
+        </ownedValue>
+      </ownedPropertyAssociation>
+      <featureInstance xmi:id="_y_KmyHgOEeSPiPV9Hvduxw" name="mission_data" srcFlowSpec="_y_KmzngOEeSPiPV9Hvduxw">
+        <feature xsi:type="aadl2:DataPort" href="../packages/threads.aadl#//@ownedPublicSection/@ownedClassifier.2/@ownedDataPort.0"/>
+      </featureInstance>
+      <featureInstance xmi:id="_y_KmyXgOEeSPiPV9Hvduxw" name="mission_result" srcConnectionInstance="_y_KnFHgOEeSPiPV9Hvduxw" dstFlowSpec="_y_Kmz3gOEeSPiPV9Hvduxw" direction="out">
+        <feature xsi:type="aadl2:DataPort" href="../packages/threads.aadl#//@ownedPublicSection/@ownedClassifier.2/@ownedDataPort.1"/>
+      </featureInstance>
+      <featureInstance xmi:id="_y_KmyngOEeSPiPV9Hvduxw" name="operation_feedback" srcFlowSpec="_y_Km0HgOEeSPiPV9Hvduxw" category="eventDataPort">
+        <feature xsi:type="aadl2:EventDataPort" href="../packages/threads.aadl#//@ownedPublicSection/@ownedClassifier.2/@ownedEventDataPort.0"/>
+      </featureInstance>
+      <featureInstance xmi:id="_y_Kmy3gOEeSPiPV9Hvduxw" name="mission_cotrol" srcFlowSpec="_y_Km0XgOEeSPiPV9Hvduxw" category="eventPort">
+        <feature xsi:type="aadl2:EventPort" href="../packages/threads.aadl#//@ownedPublicSection/@ownedClassifier.2/@ownedEventPort.0"/>
+      </featureInstance>
+      <featureInstance xmi:id="_y_KmzHgOEeSPiPV9Hvduxw" name="operation_control" srcConnectionInstance="_y_KnFngOEeSPiPV9Hvduxw" dstFlowSpec="_y_Km0ngOEeSPiPV9Hvduxw" category="eventPort" direction="out">
+        <feature xsi:type="aadl2:EventPort" href="../packages/threads.aadl#//@ownedPublicSection/@ownedClassifier.2/@ownedEventPort.1"/>
+      </featureInstance>
+      <featureInstance xmi:id="_y_KmzXgOEeSPiPV9Hvduxw" name="data_bus_require" category="dataAccess" direction="in out">
+        <feature xsi:type="aadl2:DataAccess" href="../packages/threads.aadl#//@ownedPublicSection/@ownedClassifier.2/@ownedDataAccess.0"/>
+      </featureInstance>
+      <flowSpecification xmi:id="_y_KmzngOEeSPiPV9Hvduxw" name="new_flow_spec" source="_y_KmyHgOEeSPiPV9Hvduxw">
+        <flowSpecification href="../packages/threads.aadl#//@ownedPublicSection/@ownedClassifier.2/@ownedFlowSpecification.0"/>
+      </flowSpecification>
+      <flowSpecification xmi:id="_y_Kmz3gOEeSPiPV9Hvduxw" name="new_flow_spec2" destination="_y_KmyXgOEeSPiPV9Hvduxw">
+        <flowSpecification href="../packages/threads.aadl#//@ownedPublicSection/@ownedClassifier.2/@ownedFlowSpecification.1"/>
+      </flowSpecification>
+      <flowSpecification xmi:id="_y_Km0HgOEeSPiPV9Hvduxw" name="new_flow_spec3" source="_y_KmyngOEeSPiPV9Hvduxw">
+        <flowSpecification href="../packages/threads.aadl#//@ownedPublicSection/@ownedClassifier.2/@ownedFlowSpecification.2"/>
+      </flowSpecification>
+      <flowSpecification xmi:id="_y_Km0XgOEeSPiPV9Hvduxw" name="new_flow_spec4" source="_y_Kmy3gOEeSPiPV9Hvduxw">
+        <flowSpecification href="../packages/threads.aadl#//@ownedPublicSection/@ownedClassifier.2/@ownedFlowSpecification.3"/>
+      </flowSpecification>
+      <flowSpecification xmi:id="_y_Km0ngOEeSPiPV9Hvduxw" name="new_flow_spec5" destination="_y_KmzHgOEeSPiPV9Hvduxw">
+        <flowSpecification href="../packages/threads.aadl#//@ownedPublicSection/@ownedClassifier.2/@ownedFlowSpecification.4"/>
+      </flowSpecification>
+      <subcomponent xsi:type="aadl2:ThreadSubcomponent" href="../packages/processes.aadl#//@ownedPublicSection/@ownedClassifier.24/@ownedThreadSubcomponent.2"/>
+      <index>0</index>
+    </componentInstance>
+    <flowSpecification xmi:id="_y_Km3HgOEeSPiPV9Hvduxw" name="new_flow_spec" source="_y_Km2HgOEeSPiPV9Hvduxw">
+      <flowSpecification href="../packages/processes.aadl#//@ownedPublicSection/@ownedClassifier.23/@ownedFlowSpecification.0"/>
+    </flowSpecification>
+    <flowSpecification xmi:id="_y_Km3XgOEeSPiPV9Hvduxw" name="new_flow_spec2" source="_y_Km03gOEeSPiPV9Hvduxw">
+      <flowSpecification href="../packages/processes.aadl#//@ownedPublicSection/@ownedClassifier.23/@ownedFlowSpecification.1"/>
+    </flowSpecification>
+    <flowSpecification xmi:id="_y_Km3ngOEeSPiPV9Hvduxw" name="new_flow_spec3" source="_y_Km1XgOEeSPiPV9Hvduxw">
+      <flowSpecification href="../packages/processes.aadl#//@ownedPublicSection/@ownedClassifier.23/@ownedFlowSpecification.2"/>
+    </flowSpecification>
+    <flowSpecification xmi:id="_y_Km33gOEeSPiPV9Hvduxw" name="new_flow_spec4" source="_y_Km1ngOEeSPiPV9Hvduxw">
+      <flowSpecification href="../packages/processes.aadl#//@ownedPublicSection/@ownedClassifier.23/@ownedFlowSpecification.3"/>
+    </flowSpecification>
+    <flowSpecification xmi:id="_y_Km4HgOEeSPiPV9Hvduxw" name="new_flow_spec5" source="_y_Km13gOEeSPiPV9Hvduxw">
+      <flowSpecification href="../packages/processes.aadl#//@ownedPublicSection/@ownedClassifier.23/@ownedFlowSpecification.4"/>
+    </flowSpecification>
+    <flowSpecification xmi:id="_y_Km4XgOEeSPiPV9Hvduxw" name="new_flow_spec6" destination="_y_Km1HgOEeSPiPV9Hvduxw">
+      <flowSpecification href="../packages/processes.aadl#//@ownedPublicSection/@ownedClassifier.23/@ownedFlowSpecification.5"/>
+    </flowSpecification>
+    <flowSpecification xmi:id="_y_Km4ngOEeSPiPV9Hvduxw" name="new_flow_spec7" destination="_y_Km23gOEeSPiPV9Hvduxw">
+      <flowSpecification href="../packages/processes.aadl#//@ownedPublicSection/@ownedClassifier.23/@ownedFlowSpecification.6"/>
+    </flowSpecification>
+    <flowSpecification xmi:id="_y_Km43gOEeSPiPV9Hvduxw" name="new_flow_spec8" destination="_y_Km2ngOEeSPiPV9Hvduxw">
+      <flowSpecification href="../packages/processes.aadl#//@ownedPublicSection/@ownedClassifier.23/@ownedFlowSpecification.7"/>
+    </flowSpecification>
+    <flowSpecification xmi:id="_y_Km5HgOEeSPiPV9Hvduxw" name="new_flow_spec9" destination="_y_Km2XgOEeSPiPV9Hvduxw">
+      <flowSpecification href="../packages/processes.aadl#//@ownedPublicSection/@ownedClassifier.23/@ownedFlowSpecification.8"/>
+    </flowSpecification>
+    <subcomponent xsi:type="aadl2:ProcessSubcomponent" href="../packages/ARR_subsystems.aadl#//@ownedPublicSection/@ownedClassifier.1/@ownedProcessSubcomponent.0"/>
+    <index>0</index>
+  </componentInstance>
+  <componentInstance xmi:id="_y_Km5XgOEeSPiPV9Hvduxw" name="CPU" category="processor">
+    <ownedPropertyAssociation xmi:id="_y_dhyXgOEeSPiPV9Hvduxw">
+      <property href="../../Plugin_Resources/SEI.aadl#SEI::MIPSCapacity"/>
+      <ownedValue xmi:id="_y_dhyngOEeSPiPV9Hvduxw">
+        <ownedValue xsi:type="aadl2:RealLiteral" xmi:id="_y_dhy3gOEeSPiPV9Hvduxw" value="30.0">
+          <unit href="../../Plugin_Resources/SEI.aadl#//@ownedPropertyType.4/@ownedLiteral.1"/>
+        </ownedValue>
+      </ownedValue>
+    </ownedPropertyAssociation>
+    <subcomponent xsi:type="aadl2:ProcessorSubcomponent" href="../packages/ARR_subsystems.aadl#//@ownedPublicSection/@ownedClassifier.1/@ownedProcessorSubcomponent.0"/>
+    <index>0</index>
+  </componentInstance>
+  <flowSpecification xmi:id="_y_Km-ngOEeSPiPV9Hvduxw" name="new_flow_spec" source="_y_Km8ngOEeSPiPV9Hvduxw">
+    <flowSpecification href="../packages/ARR_subsystems.aadl#//@ownedPublicSection/@ownedClassifier.0/@ownedFlowSpecification.0"/>
+  </flowSpecification>
+  <flowSpecification xmi:id="_y_Km-3gOEeSPiPV9Hvduxw" name="new_flow_spec2" source="_y_Km8HgOEeSPiPV9Hvduxw">
+    <flowSpecification href="../packages/ARR_subsystems.aadl#//@ownedPublicSection/@ownedClassifier.0/@ownedFlowSpecification.1"/>
+  </flowSpecification>
+  <flowSpecification xmi:id="_y_Km_HgOEeSPiPV9Hvduxw" name="new_flow_spec3" destination="_y_Km-HgOEeSPiPV9Hvduxw">
+    <flowSpecification href="../packages/ARR_subsystems.aadl#//@ownedPublicSection/@ownedClassifier.0/@ownedFlowSpecification.2"/>
+  </flowSpecification>
+  <flowSpecification xmi:id="_y_Km_XgOEeSPiPV9Hvduxw" name="new_flow_spec4" destination="_y_Km93gOEeSPiPV9Hvduxw">
+    <flowSpecification href="../packages/ARR_subsystems.aadl#//@ownedPublicSection/@ownedClassifier.0/@ownedFlowSpecification.3"/>
+  </flowSpecification>
+  <flowSpecification xmi:id="_y_Km_ngOEeSPiPV9Hvduxw" name="new_flow_spec5" source="_y_Km8XgOEeSPiPV9Hvduxw">
+    <flowSpecification href="../packages/ARR_subsystems.aadl#//@ownedPublicSection/@ownedClassifier.0/@ownedFlowSpecification.4"/>
+  </flowSpecification>
+  <flowSpecification xmi:id="_y_Km_3gOEeSPiPV9Hvduxw" name="new_flow_spec6" source="_y_Km9ngOEeSPiPV9Hvduxw">
+    <flowSpecification href="../packages/ARR_subsystems.aadl#//@ownedPublicSection/@ownedClassifier.0/@ownedFlowSpecification.5"/>
+  </flowSpecification>
+  <flowSpecification xmi:id="_y_KnAHgOEeSPiPV9Hvduxw" name="new_flow_spec7" source="_y_Km7HgOEeSPiPV9Hvduxw">
+    <flowSpecification href="../packages/ARR_subsystems.aadl#//@ownedPublicSection/@ownedClassifier.0/@ownedFlowSpecification.6"/>
+  </flowSpecification>
+  <flowSpecification xmi:id="_y_KnAXgOEeSPiPV9Hvduxw" name="new_flow_spec8" destination="_y_Km7XgOEeSPiPV9Hvduxw">
+    <flowSpecification href="../packages/ARR_subsystems.aadl#//@ownedPublicSection/@ownedClassifier.0/@ownedFlowSpecification.7"/>
+  </flowSpecification>
+  <flowSpecification xmi:id="_y_KnAngOEeSPiPV9Hvduxw" name="new_flow_spec9" destination="_y_Km73gOEeSPiPV9Hvduxw">
+    <flowSpecification href="../packages/ARR_subsystems.aadl#//@ownedPublicSection/@ownedClassifier.0/@ownedFlowSpecification.8"/>
+  </flowSpecification>
+  <flowSpecification xmi:id="_y_KnA3gOEeSPiPV9Hvduxw" name="new_flow_spec10" source="_y_Km63gOEeSPiPV9Hvduxw">
+    <flowSpecification href="../packages/ARR_subsystems.aadl#//@ownedPublicSection/@ownedClassifier.0/@ownedFlowSpecification.9"/>
+  </flowSpecification>
+  <flowSpecification xmi:id="_y_KnBHgOEeSPiPV9Hvduxw" name="new_flow_spec11" source="_y_Km6XgOEeSPiPV9Hvduxw">
+    <flowSpecification href="../packages/ARR_subsystems.aadl#//@ownedPublicSection/@ownedClassifier.0/@ownedFlowSpecification.10"/>
+  </flowSpecification>
+  <flowSpecification xmi:id="_y_KnBXgOEeSPiPV9Hvduxw" name="new_flow_spec12" source="_y_Km6ngOEeSPiPV9Hvduxw">
+    <flowSpecification href="../packages/ARR_subsystems.aadl#//@ownedPublicSection/@ownedClassifier.0/@ownedFlowSpecification.11"/>
+  </flowSpecification>
+  <flowSpecification xmi:id="_y_KnBngOEeSPiPV9Hvduxw" name="new_flow_spec13" source="_y_Km7ngOEeSPiPV9Hvduxw">
+    <flowSpecification href="../packages/ARR_subsystems.aadl#//@ownedPublicSection/@ownedClassifier.0/@ownedFlowSpecification.12"/>
+  </flowSpecification>
+  <flowSpecification xmi:id="_y_KnB3gOEeSPiPV9Hvduxw" name="new_flow_spec14" source="_y_Km-XgOEeSPiPV9Hvduxw">
+    <flowSpecification href="../packages/ARR_subsystems.aadl#//@ownedPublicSection/@ownedClassifier.0/@ownedFlowSpecification.13"/>
+  </flowSpecification>
+  <flowSpecification xmi:id="_y_KnCHgOEeSPiPV9Hvduxw" name="new_flow_spec15" source="_y_Km9XgOEeSPiPV9Hvduxw">
+    <flowSpecification href="../packages/ARR_subsystems.aadl#//@ownedPublicSection/@ownedClassifier.0/@ownedFlowSpecification.14"/>
+  </flowSpecification>
+  <flowSpecification xmi:id="_y_KnCXgOEeSPiPV9Hvduxw" name="new_flow_spec16" destination="_y_Km9HgOEeSPiPV9Hvduxw">
+    <flowSpecification href="../packages/ARR_subsystems.aadl#//@ownedPublicSection/@ownedClassifier.0/@ownedFlowSpecification.15"/>
+  </flowSpecification>
+  <flowSpecification xmi:id="_y_KnCngOEeSPiPV9Hvduxw" name="new_flow_spec17" source="_y_Km83gOEeSPiPV9Hvduxw">
+    <flowSpecification href="../packages/ARR_subsystems.aadl#//@ownedPublicSection/@ownedClassifier.0/@ownedFlowSpecification.16"/>
+  </flowSpecification>
+  <connectionInstance xmi:id="_y_KnDHgOEeSPiPV9Hvduxw" name="mission_controller.identification.mission_result -> mission_controller.mission_result" kind="portConnection" destination="_y_Km1HgOEeSPiPV9Hvduxw" source="_y_KmsXgOEeSPiPV9Hvduxw">
+    <connectionReference xmi:id="_y_KnDXgOEeSPiPV9Hvduxw" context="_y_A1sHgOEeSPiPV9Hvduxw" source="_y_KmsXgOEeSPiPV9Hvduxw" destination="_y_Km1HgOEeSPiPV9Hvduxw">
+      <connection xsi:type="aadl2:PortConnection" href="../packages/processes.aadl#//@ownedPublicSection/@ownedClassifier.24/@ownedPortConnection.13"/>
+    </connectionReference>
+  </connectionInstance>
+  <connectionInstance xmi:id="_y_KnDngOEeSPiPV9Hvduxw" name="mission_controller.identification.identification_control -> mission_controller.identification_control" kind="portConnection" destination="_y_Km2ngOEeSPiPV9Hvduxw" source="_y_KmtHgOEeSPiPV9Hvduxw">
+    <connectionReference xmi:id="_y_KnD3gOEeSPiPV9Hvduxw" context="_y_A1sHgOEeSPiPV9Hvduxw" source="_y_KmtHgOEeSPiPV9Hvduxw" destination="_y_Km2ngOEeSPiPV9Hvduxw">
+      <connection xsi:type="aadl2:PortConnection" href="../packages/processes.aadl#//@ownedPublicSection/@ownedClassifier.24/@ownedPortConnection.9"/>
+    </connectionReference>
+  </connectionInstance>
+  <connectionInstance xmi:id="_y_KnEHgOEeSPiPV9Hvduxw" name="mission_controller.navigation.mission_result -> mission_controller.mission_result" kind="portConnection" destination="_y_Km1HgOEeSPiPV9Hvduxw" source="_y_KmvXgOEeSPiPV9Hvduxw">
+    <connectionReference xmi:id="_y_KnEXgOEeSPiPV9Hvduxw" context="_y_A1sHgOEeSPiPV9Hvduxw" source="_y_KmvXgOEeSPiPV9Hvduxw" destination="_y_Km1HgOEeSPiPV9Hvduxw">
+      <connection xsi:type="aadl2:PortConnection" href="../packages/processes.aadl#//@ownedPublicSection/@ownedClassifier.24/@ownedPortConnection.12"/>
+    </connectionReference>
+  </connectionInstance>
+  <connectionInstance xmi:id="_y_KnEngOEeSPiPV9Hvduxw" name="mission_controller.navigation.navigation_control -> mission_controller.navigation_control" kind="portConnection" destination="_y_Km2XgOEeSPiPV9Hvduxw" source="_y_KmwHgOEeSPiPV9Hvduxw">
+    <connectionReference xmi:id="_y_KnE3gOEeSPiPV9Hvduxw" context="_y_A1sHgOEeSPiPV9Hvduxw" source="_y_KmwHgOEeSPiPV9Hvduxw" destination="_y_Km2XgOEeSPiPV9Hvduxw">
+      <connection xsi:type="aadl2:PortConnection" href="../packages/processes.aadl#//@ownedPublicSection/@ownedClassifier.24/@ownedPortConnection.7"/>
+    </connectionReference>
+  </connectionInstance>
+  <connectionInstance xmi:id="_y_KnFHgOEeSPiPV9Hvduxw" name="mission_controller.operation.mission_result -> mission_controller.mission_result" kind="portConnection" destination="_y_Km1HgOEeSPiPV9Hvduxw" source="_y_KmyXgOEeSPiPV9Hvduxw">
+    <connectionReference xmi:id="_y_KnFXgOEeSPiPV9Hvduxw" context="_y_A1sHgOEeSPiPV9Hvduxw" source="_y_KmyXgOEeSPiPV9Hvduxw" destination="_y_Km1HgOEeSPiPV9Hvduxw">
+      <connection xsi:type="aadl2:PortConnection" href="../packages/processes.aadl#//@ownedPublicSection/@ownedClassifier.24/@ownedPortConnection.14"/>
+    </connectionReference>
+  </connectionInstance>
+  <connectionInstance xmi:id="_y_KnFngOEeSPiPV9Hvduxw" name="mission_controller.operation.operation_control -> mission_controller.operation_control" kind="portConnection" destination="_y_Km23gOEeSPiPV9Hvduxw" source="_y_KmzHgOEeSPiPV9Hvduxw">
+    <connectionReference xmi:id="_y_KnF3gOEeSPiPV9Hvduxw" context="_y_A1sHgOEeSPiPV9Hvduxw" source="_y_KmzHgOEeSPiPV9Hvduxw" destination="_y_Km23gOEeSPiPV9Hvduxw">
+      <connection xsi:type="aadl2:PortConnection" href="../packages/processes.aadl#//@ownedPublicSection/@ownedClassifier.24/@ownedPortConnection.11"/>
+    </connectionReference>
+  </connectionInstance>
+  <systemOperationMode xmi:id="_y_KnC3gOEeSPiPV9Hvduxw" name="No Modes"/>
+  <systemImplementation href="../packages/ARR_subsystems.aadl#ARR_subsystems::mission_processing.impl"/>
+</instance:SystemInstance>

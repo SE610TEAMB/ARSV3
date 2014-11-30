@@ -1,0 +1,87 @@
+package ARR_subsystems
+public
+with processes;
+with processors;
+with memories;
+with buses;
+with SEI;
+	system mission_processing
+	features
+		camera_in : in data port;
+		microphone_in : in data port;
+		GPS_in : in data port;
+		mission_data_agv : in data port;
+		mission_results_agv : out data port;
+		battery_in : in data port;
+		vehicle_state_agv : out data port;
+		motor_feedback : in data port;
+		arm_feedback : in data port;
+		radar_in : in data port;
+		battery_backup : in data port;
+		disk_out : out data port;
+		weight_in : in data port;
+		mission_control_agv : in event port;
+		motor_signal : out event port;
+		arm_singal : out event port;
+		connection_state : in event port;
+		data_bus : requires bus access buses::device_bus;
+		media_bus : requires bus access buses::media_bus;
+		power_bus : requires bus access buses::power_bus;
+	flows
+		new_flow_spec : flow sink radar_in;
+		new_flow_spec2 : flow sink motor_feedback;
+		new_flow_spec3 : flow source arm_singal;
+		new_flow_spec4 : flow source motor_signal;
+		new_flow_spec5 : flow sink arm_feedback;
+		new_flow_spec6 : flow sink mission_control_agv;
+		new_flow_spec7 : flow sink mission_data_agv;
+		new_flow_spec8 : flow source mission_results_agv;
+		new_flow_spec9 : flow source vehicle_state_agv;
+		new_flow_spec10 : flow sink GPS_in;
+		new_flow_spec11 : flow sink camera_in;
+		new_flow_spec12 : flow sink microphone_in;
+		new_flow_spec13 : flow sink battery_in;
+		new_flow_spec14 : flow sink connection_state;
+		new_flow_spec15 : flow sink weight_in;
+		new_flow_spec16 : flow source disk_out;
+		new_flow_spec17 : flow sink battery_backup;
+	end mission_processing;
+
+	system implementation mission_processing.impl
+	subcomponents
+		mission_controller : process processes::mission_controller_arr.impl;
+		battery_handler : process processes::battery_handler.impl;
+
+		CPU : processor processors::system_processor.arr;
+
+connections
+
+		new_connection3 : port battery_in -> battery_handler.main_in;
+		new_connection4 : port battery_backup -> battery_handler.backup_in;
+
+	  properties
+	SEI::MIPSCapacity => 30.0 MIPS applies to CPU;	  
+	Actual_Processor_Binding =>  (reference (CPU)) applies to mission_controller;
+   	--Actual_Memory_Binding =>  (reference (system_memory)) applies to mission_controller;
+
+   	
+
+	
+   	--SEI::RAMBudget =>  10.0 MByte applies to mission_controller;
+	Period => 10 ms applies to mission_controller;
+	SEI::MIPSBudget => 2.0 MIPS applies to mission_controller.identification;
+   	Compute_Execution_Time => 2 ms .. 2 ms applies to mission_controller.identification;
+	SEI::MIPSBudget => 2.0 MIPS applies to mission_controller.navigation;
+   	Compute_Execution_Time => 2 ms .. 2 ms applies to mission_controller.navigation;
+	SEI::MIPSBudget => 2.0 MIPS applies to mission_controller.operation;
+   	Compute_Execution_Time => 2 ms .. 2 ms applies to mission_controller.operation;
+	
+	
+
+	--SEI::RAMCapacity => 256.0 MByte applies to system_memory;
+	--SEI::RAMCapacity => 512.0 MByte applies to media_memory;
+	--SEI::MIPSCapacity => 30.0 MIPS applies to encoder;
+	
+end mission_processing.impl;
+
+end ARR_subsystems;

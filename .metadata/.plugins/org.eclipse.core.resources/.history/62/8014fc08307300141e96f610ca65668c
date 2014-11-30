@@ -1,0 +1,6 @@
+package memories
+public
+	memory system_memory
+	end system_memory;
+
+end memories;

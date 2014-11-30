@@ -1,0 +1,6 @@
+package memories
+public
+	memory new_classifier
+	end new_classifier;
+
+end memories;

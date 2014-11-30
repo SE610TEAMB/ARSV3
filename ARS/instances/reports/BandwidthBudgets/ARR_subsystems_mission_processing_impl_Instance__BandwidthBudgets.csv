@@ -1,0 +1,55 @@
+Bus Bandwidth Analysis Report
+
+Connection bandwidth budget total: 0.0 KBytesps
+
+
+Connection Budget Details for mode No Modes
+
+Connection,Budget,Actual (Data Size * Sender Rate),Note
+calculate.direction -> drive.direction, 0.0 KBytesps,0.0 KBytesps,No bandwidth budget or actual
+calculate.speed -> drive.speed, 0.0 KBytesps,0.0 KBytesps,No bandwidth budget or actual
+receive.queue -> queue_management.queue, 0.0 KBytesps,0.0 KBytesps,No bandwidth budget or actual
+queue_management.queue -> forward.queue, 0.0 KBytesps,0.0 KBytesps,No bandwidth budget or actual
+mission_controller.identification.mission_result -> mission_result_handler.text_results_in, 0.0 KBytesps,0.0 KBytesps,No bandwidth budget or actual
+mission_controller.identification.identification_control -> target_identification.identification_control, 0.0 KBytesps,0.0 KBytesps,No bandwidth budget or actual
+mission_controller.navigation.mission_result -> mission_result_handler.text_results_in, 0.0 KBytesps,0.0 KBytesps,No bandwidth budget or actual
+mission_controller.navigation.navigation_control -> navigation.calculate.nav_control, 0.0 KBytesps,0.0 KBytesps,No bandwidth budget or actual
+mission_controller.navigation.navigation_control -> navigation.drive.nav_control, 0.0 KBytesps,0.0 KBytesps,No bandwidth budget or actual
+mission_controller.operation.mission_result -> mission_result_handler.text_results_in, 0.0 KBytesps,0.0 KBytesps,No bandwidth budget or actual
+mission_controller.operation.operation_control -> target_operation.operation_control, 0.0 KBytesps,0.0 KBytesps,No bandwidth budget or actual
+battery_handler.battery.info_out -> system_controller.result.battery_in, 0.0 KBytesps,0.0 KBytesps,No bandwidth budget or actual
+media_handler.media.media_out -> target_identification.media_in, 0.0 KBytesps,0.0 KBytesps,No bandwidth budget or actual
+media_handler.media.media_out -> mission_result_handler.media_streaming_in, 0.0 KBytesps,0.0 KBytesps,No bandwidth budget or actual
+media_handler.media.media_out -> disk_handler.media_in, 0.0 KBytesps,0.0 KBytesps,No bandwidth budget or actual
+GPS_handler.sensor_GPS.data_out -> navigation.calculate.GPS_in, 0.0 KBytesps,0.0 KBytesps,No bandwidth budget or actual
+GPS_handler.sensor_GPS.data_out -> system_controller.result.GPS_in, 0.0 KBytesps,0.0 KBytesps,No bandwidth budget or actual
+navigation.calculate.nav_feedback -> mission_controller.navigation.navigation_feedback, 0.0 KBytesps,0.0 KBytesps,No bandwidth budget or actual
+navigation.drive.nav_feedback -> mission_controller.navigation.navigation_feedback, 0.0 KBytesps,0.0 KBytesps,No bandwidth budget or actual
+navigation.drive.motor_cmd -> motor_handler.motor_cmd.cmd_in, 0.0 KBytesps,0.0 KBytesps,No bandwidth budget or actual
+motor_handler.motor_cmd.signal_out -> motor_signal, 0.0 KBytesps,0.0 KBytesps,No bandwidth budget or actual
+motor_handler.motor_feedback.feedback -> navigation.calculate.motor_feedback, 0.0 KBytesps,0.0 KBytesps,No bandwidth budget or actual
+arm_handler.arm_cmd.signal_out -> arm_singal, 0.0 KBytesps,0.0 KBytesps,No bandwidth budget or actual
+arm_handler.arm_feedback.feedback -> target_operation.arm_feedback, 0.0 KBytesps,0.0 KBytesps,No bandwidth budget or actual
+mission_result_handler.mission_results -> mission_results_agv, 0.0 KBytesps,0.0 KBytesps,No bandwidth budget or actual
+mission_result_handler.streaming_states -> system_controller.decision.local_recording, 0.0 KBytesps,0.0 KBytesps,No bandwidth budget or actual
+target_identification.identification_feedback -> mission_controller.identification.identification_feedback, 0.0 KBytesps,0.0 KBytesps,No bandwidth budget or actual
+radar_handler.radar.data_out -> navigation.calculate.radar_in, 0.0 KBytesps,0.0 KBytesps,No bandwidth budget or actual
+mission_handler.forward.mission_data_out -> navigation.calculate.mission_position, 0.0 KBytesps,0.0 KBytesps,No bandwidth budget or actual
+mission_handler.forward.mission_data_out -> mission_controller.navigation.mission_data, 0.0 KBytesps,0.0 KBytesps,No bandwidth budget or actual
+mission_handler.forward.mission_data_out -> mission_controller.identification.mission_data, 0.0 KBytesps,0.0 KBytesps,No bandwidth budget or actual
+mission_handler.forward.mission_data_out -> mission_controller.operation.mission_data, 0.0 KBytesps,0.0 KBytesps,No bandwidth budget or actual
+mission_handler.forward.mission_data_out -> target_identification.mission_in, 0.0 KBytesps,0.0 KBytesps,No bandwidth budget or actual
+mission_handler.forward.mission_data_out -> target_operation.mission_data_in, 0.0 KBytesps,0.0 KBytesps,No bandwidth budget or actual
+mission_handler.forward.mission_control_out -> mission_controller.navigation.mission_cotrol, 0.0 KBytesps,0.0 KBytesps,No bandwidth budget or actual
+mission_handler.forward.mission_control_out -> mission_controller.identification.mission_cotrol, 0.0 KBytesps,0.0 KBytesps,No bandwidth budget or actual
+mission_handler.forward.mission_control_out -> mission_controller.operation.mission_cotrol, 0.0 KBytesps,0.0 KBytesps,No bandwidth budget or actual
+target_operation.arm_cmd -> arm_handler.arm_cmd.cmd_in, 0.0 KBytesps,0.0 KBytesps,No bandwidth budget or actual
+target_operation.operation_feedback -> mission_controller.operation.operation_feedback, 0.0 KBytesps,0.0 KBytesps,No bandwidth budget or actual
+system_controller.decision.local_recording -> mission_result_handler.streaming_states, 0.0 KBytesps,0.0 KBytesps,No bandwidth budget or actual
+system_controller.decision.streaming_states -> disk_handler.local_recording, 0.0 KBytesps,0.0 KBytesps,No bandwidth budget or actual
+system_controller.result.state_result -> state_result_handler.state_result_in, 0.0 KBytesps,0.0 KBytesps,No bandwidth budget or actual
+state_result_handler.state_result_out -> vehicle_state_agv, 0.0 KBytesps,0.0 KBytesps,No bandwidth budget or actual
+disk_handler.data_out -> disk_out, 0.0 KBytesps,0.0 KBytesps,No bandwidth budget or actual
+disk_handler.local_recording -> system_controller.decision.streaming_states, 0.0 KBytesps,0.0 KBytesps,No bandwidth budget or actual
+weight_handler.weight.data_out -> system_controller.result.weight_in, 0.0 KBytesps,0.0 KBytesps,No bandwidth budget or actual
+

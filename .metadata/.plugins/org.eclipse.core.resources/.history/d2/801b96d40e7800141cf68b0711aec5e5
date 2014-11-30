@@ -1,0 +1,14 @@
+Bind threads to processors Report
+
+Binpacker Analysis Report
+
+Warning: Thread battery_handler.battery is missing compute_execution_time or InstructionsPerDispatch property. Using default of 0 ns
+
+Binpacking results: Success
+Processor mission_processing_impl_Instance.CPU (30.0 MIPS) Load: 20% Available: 80%
+
+Thread to Processor Bindings
+Thread mission_processing_impl_Instance.battery_handler.battery ==> Processor mission_processing_impl_Instance.CPU Utilization 0.0%
+Thread mission_processing_impl_Instance.mission_controller.operation ==> Processor mission_processing_impl_Instance.CPU Utilization 0.0%
+Thread mission_processing_impl_Instance.mission_controller.navigation ==> Processor mission_processing_impl_Instance.CPU Utilization 0.0%
+Thread mission_processing_impl_Instance.mission_controller.identification ==> Processor mission_processing_impl_Instance.CPU Utilization 0.0%

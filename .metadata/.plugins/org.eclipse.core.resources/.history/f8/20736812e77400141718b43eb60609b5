@@ -1,0 +1,57 @@
+package buses
+public
+	bus power_bus
+	end power_bus;
+
+	bus media_bus
+	end media_bus;
+
+	bus implementation media_bus.agv
+	end media_bus.agv;
+
+	bus implementation power_bus.agv
+	end power_bus.agv;
+
+	bus implementation media_bus.arr
+	end media_bus.arr;
+
+	bus implementation power_bus.arr
+	end power_bus.arr;
+
+	bus device_bus
+	end device_bus;
+
+	bus implementation device_bus.arr
+	end device_bus.arr;
+
+	bus implementation device_bus.agv
+	end device_bus.agv;
+
+	bus system_bus
+	end system_bus;
+
+	bus implementation system_bus.arr
+	end system_bus.arr;
+
+	bus implementation system_bus.agv
+	end system_bus.agv;
+
+	bus H264_encoder_bus
+	end H264_encoder_bus;
+
+	bus implementation H264_encoder_bus.arr
+	end H264_encoder_bus.arr;
+
+	bus implementation H264_encoder_bus.agv
+	end H264_encoder_bus.agv;
+
+	bus network
+	end network;
+
+	bus implementation network.amc
+	end network.amc;
+
+	bus implementation network.agv
+	end network.agv;
+
+end buses;

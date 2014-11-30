@@ -1,0 +1,5 @@
+Bound Resource Budget Analysis Report
+
+Component Instance: identification,"ERROR: Thread instance mission_controller.identification has execution time, but no Reference_Processor. Please this property."
+Component Instance: navigation,"ERROR: Thread instance mission_controller.navigation has execution time, but no Reference_Processor. Please this property."
+Component Instance: operation,"ERROR: Thread instance mission_controller.operation has execution time, but no Reference_Processor. Please this property."

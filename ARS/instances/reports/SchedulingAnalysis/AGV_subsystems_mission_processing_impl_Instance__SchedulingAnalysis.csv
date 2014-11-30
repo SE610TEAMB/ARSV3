@@ -1,0 +1,30 @@
+Test scheduability Report
+
+Processor Utilization/Scheduling Results
+Warning: Processor mission_processing_impl_Instance.CPU has capacity, but has no bound threads
+Warning: Processor mission_processing_impl_Instance.encoder has capacity, but has no bound threads
+
+Thread binding report
+thread battery_handler.battery(0.000 MIPS) ==> processor CPU(30.0MIPS) Utilization 0.0%
+thread GPS_handler.sensor_GPS(0.000 MIPS) ==> processor CPU(30.0MIPS) Utilization 0.0%
+thread radar_handler.radar(0.000 MIPS) ==> processor CPU(30.0MIPS) Utilization 0.0%
+thread mission_handler.receive(0.000 MIPS) ==> processor CPU(30.0MIPS) Utilization 0.0%
+thread mission_handler.queue_management(0.000 MIPS) ==> processor CPU(30.0MIPS) Utilization 0.0%
+thread mission_handler.forward(0.000 MIPS) ==> processor CPU(30.0MIPS) Utilization 0.0%
+thread mission_splitter.mission_splitter(0.000 MIPS) ==> processor CPU(30.0MIPS) Utilization 0.0%
+thread mission_result_mixer.mission_result_mixer(0.000 MIPS) ==> processor CPU(30.0MIPS) Utilization 0.0%
+thread door_handler.door_cmd(0.000 MIPS) ==> processor CPU(30.0MIPS) Utilization 0.0%
+thread door_handler.door_feedback(0.000 MIPS) ==> processor CPU(30.0MIPS) Utilization 0.0%
+thread weight_handler.weight(0.000 MIPS) ==> processor CPU(30.0MIPS) Utilization 0.0%
+thread media_handler.media(0.000 MIPS) ==> processor encoder(30.0MIPS) Utilization 0.0%
+thread system_controller.decision(0.000 MIPS) ==> processor CPU(30.0MIPS) Utilization 0.0%
+thread system_controller.result(0.000 MIPS) ==> processor CPU(30.0MIPS) Utilization 0.0%
+thread mission_result_handler.mission_result_handler(0.000 MIPS) ==> processor encoder(30.0MIPS) Utilization 0.0%
+thread navigation.calculate(0.000 MIPS) ==> processor CPU(30.0MIPS) Utilization 0.0%
+thread navigation.drive(0.000 MIPS) ==> processor CPU(30.0MIPS) Utilization 0.0%
+thread status_handler.state_result_handler(0.000 MIPS) ==> processor CPU(30.0MIPS) Utilization 0.0%
+thread disk_handler.disk_handler(0.000 MIPS) ==> processor CPU(30.0MIPS) Utilization 0.0%
+thread motor_handler.motor_cmd(0.000 MIPS) ==> processor CPU(30.0MIPS) Utilization 0.0%
+thread motor_handler.motor_feedback(0.000 MIPS) ==> processor CPU(30.0MIPS) Utilization 0.0%
+thread mission_controler.navigation(0.000 MIPS) ==> processor CPU(30.0MIPS) Utilization 0.0%
+thread state_result_mixer.state_result_mixer(0.000 MIPS) ==> processor CPU(30.0MIPS) Utilization 0.0%

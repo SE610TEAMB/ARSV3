@@ -1,0 +1,129 @@
+package AGV_subsystems
+public
+with processes;
+with processors;
+with memories;
+with buses;
+	system mission_processing
+	features
+		radar_in : in data port;
+		GPS_in : in data port;
+		mission_data_amc : in data port;
+		battery_in : in data port;
+		mission_results_amc : out data port;
+		vehicle_state_amc : out data port;
+		motor_feedback : in data port;
+		mission_data_arr : out data port;
+		mission_results_arr : in data port;
+		vehicle_state_arr : in data port;
+		door_feedback : in data port;
+		weight_in : in data port;
+		camera_in : in data port;
+		microphone_in : in data port;
+		data_out_disk : out data port;
+		battery_backup : in data port;
+		mission_control_amc : in event port;
+		motor_signal : out event port;
+		mission_control_arr : out event port;
+		door_signal : out event port;
+		connection_state : in event port;
+	flows
+		mission_control : flow path mission_control_amc -> mission_control_arr;
+		mission_data : flow path mission_data_amc -> mission_data_arr;
+		new_flow_spec3 : flow path mission_results_arr -> mission_results_amc;
+		new_flow_spec4 : flow path vehicle_state_arr -> vehicle_state_amc;
+		radar_sink : flow sink radar_in;
+		new_flow_spec6 : flow sink GPS_in;
+		new_flow_spec7 : flow sink battery_in;
+		new_flow_spec8 : flow source motor_signal;
+		new_flow_spec9 : flow sink motor_feedback;
+		new_flow_spec10 : flow sink weight_in;
+		new_flow_spec11 : flow source door_signal;
+		new_flow_spec12 : flow sink door_feedback;
+		battery_backup_status : flow sink battery_backup;
+		weight_loaded_in : flow sink weight_in; 
+		camera_source : flow sink camera_in; 
+		microphone_source : flow sink microphone_in; 
+	end mission_processing;
+
+	system implementation mission_processing.impl
+	subcomponents
+	battery_handler : process processes::battery_handler.impl;
+	
+		GPS_handler : process processes::sensor_handler.GPS;
+		radar_handler : process processes::sensor_handler.radar;
+		mission_handler : process processes::mission_handler.impl;
+
+		mission_splitter : process processes::mission_splitter.impl;
+		mission_result_mixer : process processes::mission_result_mixer.impl;
+		door_handler : process processes::actuator_handler.door;
+		weight_handler : process processes::sensor_handler.weight;
+		media_handler : process processes::media_handler.impl;
+		system_controller : process processes::system_controller.impl;
+		mission_result_handler : process processes::mission_result_handler.impl;
+		navigation : process processes::navigation.impl;
+		status_handler : process processes::state_result_handler.impl;
+		disk_handler : process processes::disk_handler.impl;
+		motor_handler : process processes::actuator_handler.motor;
+		mission_controler : process processes::mission_controller_agv.impl;
+		CPU : processor processors::system_processor.agv;
+		encoder : processor processors::H264_encoder.agv;
+		state_result_mixer : process processes::state_result_mixer.impl;
+		system_memory : memory memories::system_memory.agv;
+		new_subcomponent : bus buses::H264_encoder_bus.agv;
+		new_subcomponent2 : bus buses::system_bus.agv;
+		space_hoder : data;
+	connections
+		new_connection : port radar_in -> radar_handler.sensor_data;
+		new_connection2 : port GPS_in -> GPS_handler.sensor_data;
+		new_connection3 : port weight_in -> weight_handler.sensor_data;
+		new_connection4 : port battery_in -> battery_handler.main_in;
+		new_connection5 : port battery_backup -> battery_handler.backup_in;
+		new_connection6 : port mission_data_amc -> mission_handler.mission_data_in;
+		new_connection7 : port mission_control_amc -> mission_handler.mission_control_in;
+		new_connection8 : port camera_in -> media_handler.vedio_in;
+		new_connection9 : port microphone_in -> media_handler.audio_in;
+		new_connection10 : port vehicle_state_arr -> state_result_mixer.arr_results;
+		new_connection11 : port mission_results_arr -> mission_result_mixer.arr_results;
+		new_connection12 : port motor_handler.actuator_signal -> motor_signal;
+		new_connection13 : port motor_feedback -> motor_handler.actuator_feedback;
+		new_connection14 : port state_result_mixer.results -> vehicle_state_amc;
+		new_connection15 : port disk_handler.data_out -> data_out_disk;
+		new_connection16 : port status_handler.state_result_out -> state_result_mixer.agv_results;
+		new_connection17 : port system_controller.state_result_out -> status_handler.state_result_in;
+		new_connection18 : port system_controller.local_recording -> disk_handler.local_recording;
+		new_connection19 : port system_controller.streaming_states -> mission_result_handler.streaming_states;
+		new_connection20 : port mission_handler.mission_data_out -> mission_controler.mission_data;
+		new_connection21 : port mission_handler.mission_control_out -> mission_controler.mission_control;
+		new_connection22 : port mission_handler.mission_data_out -> mission_splitter.mission_data_in;
+		new_connection23 : port mission_handler.mission_control_out -> mission_splitter.mission_control_in;
+		new_connection24 : port media_handler.media_out -> mission_result_handler.media_streaming_in;
+		new_connection25 : port mission_controler.mission_result -> mission_result_handler.text_results_in;
+		new_connection26 : port mission_controler.cmd_door -> door_handler.cmd;
+		new_connection27 : port door_handler.feedback -> mission_controler.door_feedback;
+		new_connection28 : port mission_splitter.mission_data_out -> mission_data_arr;
+		new_connection29 : port mission_splitter.mission_control_out -> mission_control_arr;
+		new_connection30 : port mission_result_handler.mission_results -> mission_result_mixer.agv_results;
+		new_connection31 : port media_handler.media_out -> disk_handler.media_in;
+		new_connection32 : port navigation.motor_cmd -> motor_handler.cmd;
+		new_connection33 : port motor_handler.feedback -> navigation.motor_feedback;
+		new_connection34 : port GPS_handler.data_out -> system_controller.GPS_in;
+		new_connection35 : port radar_handler.data_out -> navigation.radar_in;
+		new_connection36 : port GPS_handler.data_out -> navigation.GPS_in;
+		new_connection37 : port weight_handler.data_out -> system_controller.weight_in;
+		new_connection38 : port battery_handler.info_out -> system_controller.battery_in;
+		new_connection39 : port mission_handler.mission_data_out -> navigation.mission_position;
+		new_connection40 : port navigation.nav_feedback -> mission_controler.navigation_feedback;
+		new_connection41 : port mission_controler.navigation_control -> navigation.nav_control;
+		new_connection42 : port door_handler.actuator_signal -> door_signal;
+		new_connection43 : port door_feedback -> door_handler.actuator_feedback;
+		new_connection44 : port mission_result_mixer.results -> mission_results_amc;
+		new_connection45 : port disk_handler.local_recording -> system_controller.local_recording;
+		new_connection46 : port mission_result_handler.streaming_states -> system_controller.streaming_states;
+		new_connection47 : port connection_state -> mission_result_handler.connection_state;
+		new_connection48 : data access mission_handler.data_bus_require -> new_subcomponent2;
+		new_connection49 : data access mission_splitter.data_bus_require -> new_subcomponent2;
+		new_connection50 : data access media_handler.encoder_bus_require -> new_subcomponent;
+	end mission_processing.impl;
+
+end AGV_subsystems;

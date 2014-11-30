@@ -1,0 +1,34 @@
+Bind threads to processors Report
+
+Binpacker Analysis Report
+
+
+Binpacking results: Success
+Processor mission_processing_impl_Instance.CPU (30.0 MIPS) Load: 54% Available: 46%
+Processor mission_processing_impl_Instance.encoder (30.0 MIPS) Load: 37% Available: 63%
+
+Thread to Processor Bindings
+Thread mission_processing_impl_Instance.target_operation.target_operation ==> Processor mission_processing_impl_Instance.CPU Utilization 0.0%
+Thread mission_processing_impl_Instance.state_result_handler.state_result_handler ==> Processor mission_processing_impl_Instance.CPU Utilization 0.0%
+Thread mission_processing_impl_Instance.GPS_handler.sensor_GPS ==> Processor mission_processing_impl_Instance.CPU Utilization 0.0%
+Thread mission_processing_impl_Instance.motor_handler.motor_cmd ==> Processor mission_processing_impl_Instance.CPU Utilization 0.0%
+Thread mission_processing_impl_Instance.mission_result_handler.mission_result_handler ==> Processor mission_processing_impl_Instance.encoder Utilization 0.0%
+Thread mission_processing_impl_Instance.battery_handler.battery ==> Processor mission_processing_impl_Instance.CPU Utilization 0.0%
+Thread mission_processing_impl_Instance.navigation.calculate ==> Processor mission_processing_impl_Instance.CPU Utilization 0.0%
+Thread mission_processing_impl_Instance.target_identification.target_identification ==> Processor mission_processing_impl_Instance.encoder Utilization 0.0%
+Thread mission_processing_impl_Instance.system_controller.result ==> Processor mission_processing_impl_Instance.CPU Utilization 0.0%
+Thread mission_processing_impl_Instance.arm_handler.arm_cmd ==> Processor mission_processing_impl_Instance.CPU Utilization 0.0%
+Thread mission_processing_impl_Instance.mission_controller.operation ==> Processor mission_processing_impl_Instance.CPU Utilization 0.0%
+Thread mission_processing_impl_Instance.mission_handler.forward ==> Processor mission_processing_impl_Instance.CPU Utilization 0.0%
+Thread mission_processing_impl_Instance.system_controller.decision ==> Processor mission_processing_impl_Instance.CPU Utilization 0.0%
+Thread mission_processing_impl_Instance.radar_handler.radar ==> Processor mission_processing_impl_Instance.CPU Utilization 0.0%
+Thread mission_processing_impl_Instance.media_handler.media ==> Processor mission_processing_impl_Instance.encoder Utilization 0.0%
+Thread mission_processing_impl_Instance.arm_handler.arm_feedback ==> Processor mission_processing_impl_Instance.CPU Utilization 0.0%
+Thread mission_processing_impl_Instance.mission_handler.receive ==> Processor mission_processing_impl_Instance.CPU Utilization 0.0%
+Thread mission_processing_impl_Instance.mission_handler.queue_management ==> Processor mission_processing_impl_Instance.CPU Utilization 0.0%
+Thread mission_processing_impl_Instance.disk_handler.disk_handler ==> Processor mission_processing_impl_Instance.CPU Utilization 0.0%
+Thread mission_processing_impl_Instance.mission_controller.navigation ==> Processor mission_processing_impl_Instance.CPU Utilization 0.0%
+Thread mission_processing_impl_Instance.weight_handler.weight ==> Processor mission_processing_impl_Instance.CPU Utilization 0.0%
+Thread mission_processing_impl_Instance.motor_handler.motor_feedback ==> Processor mission_processing_impl_Instance.CPU Utilization 0.0%
+Thread mission_processing_impl_Instance.mission_controller.identification ==> Processor mission_processing_impl_Instance.CPU Utilization 0.0%
+Thread mission_processing_impl_Instance.navigation.drive ==> Processor mission_processing_impl_Instance.CPU Utilization 0.0%

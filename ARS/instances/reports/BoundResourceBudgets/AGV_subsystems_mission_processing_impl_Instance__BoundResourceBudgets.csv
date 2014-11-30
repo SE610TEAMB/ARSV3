@@ -1,0 +1,91 @@
+Bound Resource Budget Analysis Report
+
+Processor Report
+Total MIPS 13.700 MIPS of bound tasks within MIPS capacity 30.000 MIPS of CPU
+Total MIPS 6.000 MIPS of bound tasks within MIPS capacity 30.000 MIPS of encoder
+
+Virtual Processor Report
+
+RAM/ROM Report
+Total RAM memory 98000.0 KB of bound tasks within Memory capacity 256000.0 KB of system_memory
+Total RAM memory 70000.0 KB of bound tasks within Memory capacity 512000.0 KB of media_memory
+
+
+Detailed Workload Report for Processor CPU with Capacity 30.000 MIPS
+
+Component,Budget,Actual
+*thread battery_handler.battery, *0.100 MIPS,*0.000 MIPS,
+process battery_handler, 0.000 MIPS,0.100 MIPS,
+*thread GPS_handler.sensor_GPS, *0.100 MIPS,*0.000 MIPS,
+process GPS_handler, 0.000 MIPS,0.100 MIPS,
+*thread radar_handler.radar, *0.100 MIPS,*0.000 MIPS,
+process radar_handler, 0.000 MIPS,0.100 MIPS,
+*data mission_handler.mission_queue, *0.000 MIPS,*0.000 MIPS,
+*thread mission_handler.receive, *0.100 MIPS,*0.000 MIPS,
+*thread mission_handler.queue_management, *0.500 MIPS,*0.000 MIPS,
+*thread mission_handler.forward, *0.200 MIPS,*0.000 MIPS,
+process mission_handler, 0.000 MIPS,0.800 MIPS,
+*thread mission_splitter.mission_splitter, *1.000 MIPS,*0.000 MIPS,
+process mission_splitter, 0.000 MIPS,1.000 MIPS,
+*thread mission_result_mixer.mission_result_mixer, *1.000 MIPS,*0.000 MIPS,
+process mission_result_mixer, 0.000 MIPS,1.000 MIPS,
+*thread door_handler.door_cmd, *0.500 MIPS,*0.000 MIPS,
+*thread door_handler.door_feedback, *0.500 MIPS,*0.000 MIPS,
+process door_handler, 0.000 MIPS,1.000 MIPS,
+*thread weight_handler.weight, *0.100 MIPS,*0.000 MIPS,
+process weight_handler, 0.000 MIPS,0.100 MIPS,
+*thread system_controller.decision, *2.000 MIPS,*0.000 MIPS,
+*thread system_controller.result, *1.000 MIPS,*0.000 MIPS,
+process system_controller, 0.000 MIPS,3.000 MIPS,
+*thread navigation.calculate, *1.000 MIPS,*0.000 MIPS,
+*thread navigation.drive, *1.000 MIPS,*0.000 MIPS,
+process navigation, 0.000 MIPS,2.000 MIPS,
+*thread status_handler.state_result_handler, *0.000 MIPS,*0.000 MIPS,
+process status_handler, 0.000 MIPS,0.000 MIPS,
+*thread disk_handler.disk_handler, *0.500 MIPS,*0.000 MIPS,
+process disk_handler, 0.000 MIPS,0.500 MIPS,
+*thread motor_handler.motor_cmd, *0.500 MIPS,*0.000 MIPS,
+*thread motor_handler.motor_feedback, *0.500 MIPS,*0.000 MIPS,
+process motor_handler, 0.000 MIPS,1.000 MIPS,
+*thread mission_controler.navigation, *2.000 MIPS,*0.000 MIPS,
+process mission_controler, 0.000 MIPS,2.000 MIPS,
+*thread state_result_mixer.state_result_mixer, *1.000 MIPS,*0.000 MIPS,
+process state_result_mixer, 0.000 MIPS,1.000 MIPS,
+Total,13.700 MIPS
+
+
+Detailed Workload Report for Processor encoder with Capacity 30.000 MIPS
+
+Component,Budget,Actual
+*thread media_handler.media, *5.000 MIPS,*0.000 MIPS,
+process media_handler, 0.000 MIPS,5.000 MIPS,
+*thread mission_result_handler.mission_result_handler, *1.000 MIPS,*0.000 MIPS,
+process mission_result_handler, 0.000 MIPS,1.000 MIPS,
+Total,6.000 MIPS
+
+
+Detailed Workload Report for memory system_memory with Capacity 256.000 MByte
+
+Component,Budget,Actual
+process battery_handler, 500.000 KByte,
+process GPS_handler, 500.000 KByte,
+process radar_handler, 500.000 KByte,
+process mission_handler, 3.000 MByte,
+process mission_splitter, 20.000 MByte,
+process mission_result_mixer, 20.000 MByte,
+process door_handler, 500.000 KByte,
+process weight_handler, 500.000 KByte,
+process system_controller, 10.000 MByte,
+process navigation, 5.000 MByte,
+process status_handler, 5.000 MByte,
+process disk_handler, 2.000 MByte,
+process motor_handler, 500.000 KByte,
+process mission_controler, 10.000 MByte,
+process state_result_mixer, 20.000 MByte,
+
+
+Detailed Workload Report for memory media_memory with Capacity 512.000 MByte
+
+Component,Budget,Actual
+process media_handler, 50.000 MByte,
+process mission_result_handler, 20.000 MByte,

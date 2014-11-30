@@ -1,0 +1,268 @@
+package processes_ARR_AGV
+
+public
+	process sensor_handler
+	features
+		sensor_data : in data port;
+		data_out : out data port;
+	flows
+		new_flow_spec : flow path sensor_data -> data_out;
+	end sensor_handler;
+	process implementation sensor_handler.GPS
+	end sensor_handler.GPS;
+
+	process implementation sensor_handler.radar
+	end sensor_handler.radar;
+	
+   process mission_result_arr
+	features
+		mission_results : in data port;
+		vehicle_state : in data port;
+		results : out data port;
+	flows
+		new_flow_spec : flow path mission_results -> results;
+		new_flow_spec2 : flow path vehicle_state -> results;
+	end mission_result_arr;
+
+	process implementation mission_result_arr.impl
+	end mission_result_arr.impl;
+
+	process mission_provider_arr
+	features
+		mission_data_in : in data port;
+		mission_data_out : out data port;
+		mission_control_out : out event port;
+		mission_control_in : in event port;
+	flows
+		new_flow_spec : flow path mission_data_in -> mission_data_out;
+		new_flow_spec2 : flow path mission_control_in -> mission_control_out;
+	end mission_provider_arr;
+	
+	process implementation mission_provider_arr.impl
+	end mission_provider_arr.impl;
+	
+	process battery_handler
+	features
+		main_in : in data port;
+		backup_in : in data port;
+		info_out : out data port;
+	flows
+		new_flow_spec : flow path main_in -> info_out;
+		new_flow_spec2 : flow path backup_in -> info_out;
+	end battery_handler;
+	
+	process implementation battery_handler.impl
+	end battery_handler.impl;
+	
+	process media_handler
+	features
+		vedio_in : in data port;
+		audio_in : in data port;
+		media_out: out data port;
+	flows
+		new_flow_spec : flow path vedio_in -> media_out;
+		new_flow_spec2 : flow path audio_in -> media_out;
+	end media_handler;
+	
+	process implementation media_handler.impl
+	end media_handler.impl;
+	
+	process mission_handler
+	features
+		mission_data_in : in data port;
+		mission_data_out : out data port;
+		mission_control_in : in event port;
+		mission_control_out : out event port;
+	flows
+		new_flow_spec : flow path mission_data_in -> mission_data_out;
+		new_flow_spec2 : flow path mission_control_in -> mission_control_out;
+	end mission_handler;
+
+	process implementation mission_handler.impl
+	subcomponents
+		mission_queue : data;
+	end mission_handler.impl;
+	
+	process implementation mission_handler.agv
+	subcomponents
+		mission_queue : data;
+	end mission_handler.agv;
+	
+	process actuator_handler
+	features
+		actuator_feedback : in data port;
+		actuator_signal : out event port;
+	cmd : in event data port;
+	feedback : out event data port;
+flows
+	new_flow_spec : flow path cmd -> actuator_signal;
+		new_flow_spec2 : flow path actuator_feedback -> feedback;
+	end actuator_handler;
+
+	process implementation actuator_handler.arm
+	end actuator_handler.arm;
+	
+	process implementation actuator_handler.door
+	end actuator_handler.door;
+	
+	process implementation actuator_handler.motor
+	end actuator_handler.motor;
+	
+	process navigation
+	features
+		GPS_in : in data port;
+		radar_in : in data port;
+		mission_position : in data port;
+	nav_control : in event port;
+		nav_feedback : out event data port;
+	motor_cmd : out event data port;
+			motor_feedback : in event data port;
+flows
+	new_flow_spec : flow path GPS_in -> motor_cmd;
+		new_flow_spec2 : flow path radar_in -> motor_cmd;
+		new_flow_spec3 : flow path mission_position -> motor_cmd;
+		new_flow_spec4 : flow sink nav_control;
+		new_flow_spec5 : flow source nav_feedback;
+	end navigation;
+
+	process implementation navigation.impl
+	end navigation.impl;
+	
+	process implementation navigation.agv
+	end navigation.agv;
+
+	process mission_controller
+	features
+		mission_data_agv : in data port;
+		mission_result : out data port;
+		mission_cotrol_agv : in event port;
+		navigation_control : out event port;
+		identification_control : out event port;
+		operation_control : out event port;
+		navigation_feedback : in event data port;
+		identification_feedback : in event data port;
+		operation_feedback : in event data port;
+	flows
+		new_flow_spec : flow sink mission_cotrol_agv;
+		new_flow_spec2 : flow sink mission_data_agv;
+	end mission_controller;
+	
+	process implementation mission_controller.impl
+	end mission_controller.impl;
+	
+	process mission_controller_agv
+	features
+		mission_data_amc : in data port;
+		mission_result : out data port;
+		mission_data_arr : out data port;
+		mission_result_arr : in data port;
+		mission_control_amc : in event port;
+		navigation_control : out event port;
+		mission_control_arr : out event port;
+		door_feedback : in event port;
+		navigation_feedback : in event data port;
+		cmd_door : out event data port;
+	flows
+		new_flow_spec : flow sink mission_control_amc;
+		new_fow_spec2 : flow sink mission_data_amc;
+	end mission_controller_agv;
+	
+	process implementation mission_controller_agv.impl
+	end mission_controller_agv.impl;
+	
+	
+	process system_controller
+	features
+		battery_in : in data port;
+		GPS_in : in data port;
+		state_result_out : out data port;
+		streaming_states : in out event port;
+		local_recording : in out event port;
+	end system_controller;
+
+	process implementation system_controller.impl
+	end system_controller.impl;
+
+	process target_identification
+	features
+	media_in : in data port;
+	mission_in : in data port;
+	identification_control : in event port;
+	identification_feedback : out event data port;
+flows
+	new_flow_spec : flow sink media_in;
+		new_flow_spec3 : flow sink identification_control;
+		new_flow_spec4 : flow source identification_feedback;
+	end target_identification;
+
+	process implementation target_identification.impl
+	end target_identification.impl;
+
+	process target_operation
+	features
+	mission_data_in : in data port;
+		operation_control : in event port;
+		arm_feedback : in event data port;
+		arm_cmd : out event data port;
+		operation_feedback : out event data port;
+	flows
+		new_flow_spec : flow sink mission_data_in;
+	end target_operation;
+
+	process implementation target_operation.impl
+	end target_operation.impl;
+
+	process mission_result_handler
+	features
+		mission_results : out data port;
+	text_results_in : in data port;
+	media_streaming_in : in data port;
+		streaming_states : in out event port;
+	flows
+		new_flow_spec : flow path text_results_in -> mission_results;
+	new_flow_spec2 : flow path media_streaming_in -> mission_results;
+end mission_result_handler;
+
+	process implementation mission_result_handler.impl
+	end mission_result_handler.impl;
+
+	process implementation mission_result_handler.agv
+	end mission_result_handler.agv;
+
+	process vehicle_state_result_handler
+	features
+		state_result_in : in data port;
+		state_result_out : out data port;
+	end vehicle_state_result_handler;
+
+	process implementation vehicle_state_result_handler.impl
+	end vehicle_state_result_handler.impl;
+
+	process implementation vehicle_state_result_handler.agv
+	end vehicle_state_result_handler.agv;
+
+	process disk_handler
+	features
+		media_in : in data port;
+	data_out : out data port;
+	local_recording : in out event port;
+	end disk_handler;
+
+	process implementation disk_handler.impl
+	end disk_handler.impl;
+
+	process implementation disk_handler.agv
+	end disk_handler.agv;
+
+	process system_controller_agv extends system_controller
+	features
+		weight_in : in data port;
+	end system_controller_agv;
+
+	process implementation system_controller_agv.impl
+	end system_controller_agv.impl;
+
+	process implementation sensor_handler.weight
+	end sensor_handler.weight;
+
+end processes_ARR_AGV;

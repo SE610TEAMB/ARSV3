@@ -1,0 +1,34 @@
+Bind threads to processors Report
+
+Binpacker Analysis Report
+
+Warning: Thread status_handler.state_result_handler is missing compute_execution_time or InstructionsPerDispatch property. Using default of 0 ns
+
+Binpacking results: Success
+Processor mission_processing_impl_Instance.CPU (30.0 MIPS) Load: 46% Available: 54%
+Processor mission_processing_impl_Instance.encoder (30.0 MIPS) Load: 20% Available: 80%
+
+Thread to Processor Bindings
+Thread mission_processing_impl_Instance.mission_result_handler.mission_result_handler ==> Processor mission_processing_impl_Instance.encoder Utilization 0.0%
+Thread mission_processing_impl_Instance.mission_handler.forward ==> Processor mission_processing_impl_Instance.CPU Utilization 0.0%
+Thread mission_processing_impl_Instance.mission_splitter.mission_splitter ==> Processor mission_processing_impl_Instance.CPU Utilization 0.0%
+Thread mission_processing_impl_Instance.motor_handler.motor_cmd ==> Processor mission_processing_impl_Instance.CPU Utilization 0.0%
+Thread mission_processing_impl_Instance.door_handler.door_cmd ==> Processor mission_processing_impl_Instance.CPU Utilization 0.0%
+Thread mission_processing_impl_Instance.mission_controler.navigation ==> Processor mission_processing_impl_Instance.CPU Utilization 0.0%
+Thread mission_processing_impl_Instance.system_controller.result ==> Processor mission_processing_impl_Instance.CPU Utilization 0.0%
+Thread mission_processing_impl_Instance.disk_handler.disk_handler ==> Processor mission_processing_impl_Instance.CPU Utilization 0.0%
+Thread mission_processing_impl_Instance.system_controller.decision ==> Processor mission_processing_impl_Instance.CPU Utilization 0.0%
+Thread mission_processing_impl_Instance.state_result_mixer.state_result_mixer ==> Processor mission_processing_impl_Instance.CPU Utilization 0.0%
+Thread mission_processing_impl_Instance.navigation.calculate ==> Processor mission_processing_impl_Instance.CPU Utilization 0.0%
+Thread mission_processing_impl_Instance.media_handler.media ==> Processor mission_processing_impl_Instance.encoder Utilization 0.0%
+Thread mission_processing_impl_Instance.navigation.drive ==> Processor mission_processing_impl_Instance.CPU Utilization 0.0%
+Thread mission_processing_impl_Instance.door_handler.door_feedback ==> Processor mission_processing_impl_Instance.CPU Utilization 0.0%
+Thread mission_processing_impl_Instance.radar_handler.radar ==> Processor mission_processing_impl_Instance.CPU Utilization 0.0%
+Thread mission_processing_impl_Instance.mission_result_mixer.mission_result_mixer ==> Processor mission_processing_impl_Instance.CPU Utilization 0.0%
+Thread mission_processing_impl_Instance.motor_handler.motor_feedback ==> Processor mission_processing_impl_Instance.CPU Utilization 0.0%
+Thread mission_processing_impl_Instance.weight_handler.weight ==> Processor mission_processing_impl_Instance.CPU Utilization 0.0%
+Thread mission_processing_impl_Instance.mission_handler.receive ==> Processor mission_processing_impl_Instance.CPU Utilization 0.0%
+Thread mission_processing_impl_Instance.battery_handler.battery ==> Processor mission_processing_impl_Instance.CPU Utilization 0.0%
+Thread mission_processing_impl_Instance.GPS_handler.sensor_GPS ==> Processor mission_processing_impl_Instance.CPU Utilization 0.0%
+Thread mission_processing_impl_Instance.mission_handler.queue_management ==> Processor mission_processing_impl_Instance.CPU Utilization 0.0%
+Thread mission_processing_impl_Instance.status_handler.state_result_handler ==> Processor mission_processing_impl_Instance.CPU Utilization 0.0%

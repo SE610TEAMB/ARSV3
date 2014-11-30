@@ -1,0 +1,12 @@
+package memories
+public
+	memory system_memory
+	end system_memory;
+
+	memory implementation system_memory.arr
+	end system_memory.arr;
+
+	memory implementation system_memory.agv
+	end system_memory.agv;
+
+end memories;

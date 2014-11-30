@@ -1,0 +1,53 @@
+Bind threads to processors Report
+
+Binpacker Analysis Report
+
+Warning: Thread battery_handler.battery is missing compute_execution_time or InstructionsPerDispatch property. Using default of 0 ns
+Warning: Thread media_handler.media is missing compute_execution_time or InstructionsPerDispatch property. Using default of 0 ns
+Warning: Thread GPS_handler.sensor_GPS is missing compute_execution_time or InstructionsPerDispatch property. Using default of 0 ns
+Warning: Thread navigation.calculate is missing compute_execution_time or InstructionsPerDispatch property. Using default of 0 ns
+Warning: Thread navigation.drive is missing compute_execution_time or InstructionsPerDispatch property. Using default of 0 ns
+Warning: Thread motor_handler.motor_cmd is missing compute_execution_time or InstructionsPerDispatch property. Using default of 0 ns
+Warning: Thread motor_handler.motor_feedback is missing compute_execution_time or InstructionsPerDispatch property. Using default of 0 ns
+Warning: Thread arm_handler.arm_cmd is missing compute_execution_time or InstructionsPerDispatch property. Using default of 0 ns
+Warning: Thread arm_handler.arm_feedback is missing compute_execution_time or InstructionsPerDispatch property. Using default of 0 ns
+Warning: Thread mission_result_handler.mission_result_handler is missing compute_execution_time or InstructionsPerDispatch property. Using default of 0 ns
+Warning: Thread target_identification.target_identification is missing compute_execution_time or InstructionsPerDispatch property. Using default of 0 ns
+Warning: Thread radar_handler.radar is missing compute_execution_time or InstructionsPerDispatch property. Using default of 0 ns
+Warning: Thread mission_handler.receive is missing compute_execution_time or InstructionsPerDispatch property. Using default of 0 ns
+Warning: Thread mission_handler.queue_management is missing compute_execution_time or InstructionsPerDispatch property. Using default of 0 ns
+Warning: Thread mission_handler.forward is missing compute_execution_time or InstructionsPerDispatch property. Using default of 0 ns
+Warning: Thread target_operation.target_operation is missing compute_execution_time or InstructionsPerDispatch property. Using default of 0 ns
+Warning: Thread system_controller.decision is missing compute_execution_time or InstructionsPerDispatch property. Using default of 0 ns
+Warning: Thread system_controller.result is missing compute_execution_time or InstructionsPerDispatch property. Using default of 0 ns
+Warning: Thread state_result_handler.state_result_handler is missing compute_execution_time or InstructionsPerDispatch property. Using default of 0 ns
+Warning: Thread disk_handler.disk_handler is missing compute_execution_time or InstructionsPerDispatch property. Using default of 0 ns
+
+Binpacking results: Success
+Processor mission_processing_impl_Instance.CPU (30.0 MIPS) Load: 51% Available: 49%
+Processor mission_processing_impl_Instance.encoder (30.0 MIPS) Load: 37% Available: 63%
+
+Thread to Processor Bindings
+Thread mission_processing_impl_Instance.GPS_handler.sensor_GPS ==> Processor mission_processing_impl_Instance.CPU Utilization 0.0%
+Thread mission_processing_impl_Instance.mission_handler.forward ==> Processor mission_processing_impl_Instance.CPU Utilization 0.0%
+Thread mission_processing_impl_Instance.mission_result_handler.mission_result_handler ==> Processor mission_processing_impl_Instance.encoder Utilization 0.0%
+Thread mission_processing_impl_Instance.mission_handler.queue_management ==> Processor mission_processing_impl_Instance.CPU Utilization 0.0%
+Thread mission_processing_impl_Instance.system_controller.result ==> Processor mission_processing_impl_Instance.CPU Utilization 0.0%
+Thread mission_processing_impl_Instance.system_controller.decision ==> Processor mission_processing_impl_Instance.CPU Utilization 0.0%
+Thread mission_processing_impl_Instance.battery_handler.battery ==> Processor mission_processing_impl_Instance.CPU Utilization 0.0%
+Thread mission_processing_impl_Instance.target_identification.target_identification ==> Processor mission_processing_impl_Instance.encoder Utilization 0.0%
+Thread mission_processing_impl_Instance.navigation.drive ==> Processor mission_processing_impl_Instance.CPU Utilization 0.0%
+Thread mission_processing_impl_Instance.mission_controller.identification ==> Processor mission_processing_impl_Instance.CPU Utilization 0.0%
+Thread mission_processing_impl_Instance.media_handler.media ==> Processor mission_processing_impl_Instance.encoder Utilization 0.0%
+Thread mission_processing_impl_Instance.radar_handler.radar ==> Processor mission_processing_impl_Instance.CPU Utilization 0.0%
+Thread mission_processing_impl_Instance.state_result_handler.state_result_handler ==> Processor mission_processing_impl_Instance.CPU Utilization 0.0%
+Thread mission_processing_impl_Instance.arm_handler.arm_feedback ==> Processor mission_processing_impl_Instance.CPU Utilization 0.0%
+Thread mission_processing_impl_Instance.mission_controller.operation ==> Processor mission_processing_impl_Instance.CPU Utilization 0.0%
+Thread mission_processing_impl_Instance.disk_handler.disk_handler ==> Processor mission_processing_impl_Instance.CPU Utilization 0.0%
+Thread mission_processing_impl_Instance.motor_handler.motor_feedback ==> Processor mission_processing_impl_Instance.CPU Utilization 0.0%
+Thread mission_processing_impl_Instance.target_operation.target_operation ==> Processor mission_processing_impl_Instance.CPU Utilization 0.0%
+Thread mission_processing_impl_Instance.mission_controller.navigation ==> Processor mission_processing_impl_Instance.CPU Utilization 0.0%
+Thread mission_processing_impl_Instance.arm_handler.arm_cmd ==> Processor mission_processing_impl_Instance.CPU Utilization 0.0%
+Thread mission_processing_impl_Instance.mission_handler.receive ==> Processor mission_processing_impl_Instance.CPU Utilization 0.0%
+Thread mission_processing_impl_Instance.navigation.calculate ==> Processor mission_processing_impl_Instance.CPU Utilization 0.0%
+Thread mission_processing_impl_Instance.motor_handler.motor_cmd ==> Processor mission_processing_impl_Instance.CPU Utilization 0.0%

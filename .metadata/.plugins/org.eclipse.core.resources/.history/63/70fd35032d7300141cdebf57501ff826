@@ -1,0 +1,6 @@
+package processors
+public
+	processor new_classifier
+	end new_classifier;
+
+end processors;

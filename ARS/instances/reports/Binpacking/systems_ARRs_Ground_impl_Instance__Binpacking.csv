@@ -1,0 +1,49 @@
+Bind threads to processors Report
+
+Binpacker Analysis Report
+
+Warning: Bus system_bus is missing Transmission Time property. Using default of 1.0E-5
+Warning: Bus media is missing Transmission Time property. Using default of 1.0E-5
+Warning: Bus power_bus is missing Transmission Time property. Using default of 1.0E-5
+Warning: Device GPS is missing period property. Using default of 1 ns
+Warning: Device camera is missing period property. Using default of 1 ns
+Warning: Device microphone is missing period property. Using default of 1 ns
+Warning: Device battery is missing period property. Using default of 1 ns
+Warning: Device arm is missing period property. Using default of 1 ns
+Warning: Device motor is missing period property. Using default of 1 ns
+Warning: Device transceiver is missing period property. Using default of 1 ns
+Warning: Device radar is missing period property. Using default of 1 ns
+Warning: Device disk is missing period property. Using default of 1 ns
+Warning: Device battery_backup is missing period property. Using default of 1 ns
+Warning: Device weight is missing period property. Using default of 1 ns
+Warning: Thread mission_processing.battery_handler.battery is missing compute_execution_time or InstructionsPerDispatch property. Using default of 0 ns
+Warning: Thread mission_processing.media_handler.media is missing compute_execution_time or InstructionsPerDispatch property. Using default of 0 ns
+Warning: Thread mission_processing.GPS_handler.sensor_GPS is missing compute_execution_time or InstructionsPerDispatch property. Using default of 0 ns
+Warning: Thread mission_processing.navigation.calculate is missing compute_execution_time or InstructionsPerDispatch property. Using default of 0 ns
+Warning: Thread mission_processing.navigation.drive is missing compute_execution_time or InstructionsPerDispatch property. Using default of 0 ns
+Warning: Thread mission_processing.radar_handler.radar is missing compute_execution_time or InstructionsPerDispatch property. Using default of 0 ns
+Warning: Thread mission_processing.mission_handler.receive is missing compute_execution_time or InstructionsPerDispatch property. Using default of 0 ns
+Warning: Thread mission_processing.mission_handler.queue_management is missing compute_execution_time or InstructionsPerDispatch property. Using default of 0 ns
+Warning: Thread mission_processing.mission_handler.forward is missing compute_execution_time or InstructionsPerDispatch property. Using default of 0 ns
+Warning: Thread mission_processing.system_controller.decision is missing compute_execution_time or InstructionsPerDispatch property. Using default of 0 ns
+Warning: Thread mission_processing.system_controller.result is missing compute_execution_time or InstructionsPerDispatch property. Using default of 0 ns
+
+Binpacking results: Success
+Processor ARRs_Ground_impl_Instance.mission_processing.CPU (30.0 MIPS) Load: 20% Available: 80%
+Processor ARRs_Ground_impl_Instance.mission_processing.encoder (30.0 MIPS) Load: 0% Available: 100%
+
+Thread to Processor Bindings
+Thread ARRs_Ground_impl_Instance.mission_processing.mission_handler.receive ==> Processor ARRs_Ground_impl_Instance.mission_processing.CPU Utilization 0.0%
+Thread ARRs_Ground_impl_Instance.mission_processing.mission_handler.forward ==> Processor ARRs_Ground_impl_Instance.mission_processing.CPU Utilization 0.0%
+Thread ARRs_Ground_impl_Instance.mission_processing.mission_controller.identification ==> Processor ARRs_Ground_impl_Instance.mission_processing.CPU Utilization 0.0%
+Thread ARRs_Ground_impl_Instance.mission_processing.system_controller.decision ==> Processor ARRs_Ground_impl_Instance.mission_processing.CPU Utilization 0.0%
+Thread ARRs_Ground_impl_Instance.mission_processing.GPS_handler.sensor_GPS ==> Processor ARRs_Ground_impl_Instance.mission_processing.CPU Utilization 0.0%
+Thread ARRs_Ground_impl_Instance.mission_processing.mission_controller.navigation ==> Processor ARRs_Ground_impl_Instance.mission_processing.CPU Utilization 0.0%
+Thread ARRs_Ground_impl_Instance.mission_processing.mission_handler.queue_management ==> Processor ARRs_Ground_impl_Instance.mission_processing.CPU Utilization 0.0%
+Thread ARRs_Ground_impl_Instance.mission_processing.media_handler.media ==> Processor ARRs_Ground_impl_Instance.mission_processing.encoder Utilization 0.0%
+Thread ARRs_Ground_impl_Instance.mission_processing.mission_controller.operation ==> Processor ARRs_Ground_impl_Instance.mission_processing.CPU Utilization 0.0%
+Thread ARRs_Ground_impl_Instance.mission_processing.radar_handler.radar ==> Processor ARRs_Ground_impl_Instance.mission_processing.CPU Utilization 0.0%
+Thread ARRs_Ground_impl_Instance.mission_processing.navigation.drive ==> Processor ARRs_Ground_impl_Instance.mission_processing.CPU Utilization 0.0%
+Thread ARRs_Ground_impl_Instance.mission_processing.navigation.calculate ==> Processor ARRs_Ground_impl_Instance.mission_processing.CPU Utilization 0.0%
+Thread ARRs_Ground_impl_Instance.mission_processing.battery_handler.battery ==> Processor ARRs_Ground_impl_Instance.mission_processing.CPU Utilization 0.0%
+Thread ARRs_Ground_impl_Instance.mission_processing.system_controller.result ==> Processor ARRs_Ground_impl_Instance.mission_processing.CPU Utilization 0.0%

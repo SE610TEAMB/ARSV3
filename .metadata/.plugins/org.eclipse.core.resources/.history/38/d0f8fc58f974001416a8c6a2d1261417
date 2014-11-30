@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="ASCII"?>
+<instance:SystemInstance xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:instance="http://aadl.info/AADL/2.0/instance" xmi:id="_WMh7UHT5EeSNFPQmMCI06g" name="ARRs_Ground_impl_Instance" category="system">
+  <systemImplementation href="../packages/systems.aadl#systems::ARRs_Ground.impl"/>
+</instance:SystemInstance>

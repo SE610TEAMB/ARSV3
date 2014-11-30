@@ -1,0 +1,21 @@
+package processors
+public
+	processor arm_processor
+	end arm_processor;
+
+	processor H264_encoder
+	end H264_encoder;
+
+	processor implementation arm_processor.arr
+	end arm_processor.arr;
+
+	processor implementation arm_processor.agv
+	end arm_processor.agv;
+
+	processor implementation H264_encoder.impl
+	end H264_encoder.impl;
+
+	processor implementation H264_encoder.impl2
+	end H264_encoder.impl2;
+
+end processors;

@@ -1,0 +1,117 @@
+package threads
+public
+	thread control_navigation
+	end control_navigation;
+
+	thread control_identification
+	end control_identification;
+
+	thread control_operate
+	end control_operate;
+
+	thread implementation control_navigation.impl
+	end control_navigation.impl;
+
+	thread implementation control_identification.impl
+	end control_identification.impl;
+
+	thread implementation control_operate.impl
+	end control_operate.impl;
+
+	thread sensor_GPS
+	end sensor_GPS;
+
+	thread implementation sensor_GPS.impl
+	end sensor_GPS.impl;
+
+	thread sensor_radar
+	end sensor_radar;
+
+	thread implementation sensor_radar.impl
+	end sensor_radar.impl;
+
+	thread media_audio
+	end media_audio;
+
+	thread media_video
+	end media_video;
+
+	thread implementation media_audio.impl
+	end media_audio.impl;
+
+	thread implementation media_video.impl
+	end media_video.impl;
+
+	thread battery_dual
+	end battery_dual;
+
+	thread implementation battery_dual.impl
+	end battery_dual.impl;
+
+	thread mission_queue_management
+	end mission_queue_management;
+
+	thread mission_receive
+	end mission_receive;
+
+	thread mission_forward
+	end mission_forward;
+
+	thread implementation mission_receive.impl
+	end mission_receive.impl;
+
+	thread implementation mission_queue_management.impl
+	end mission_queue_management.impl;
+
+	thread implementation mission_forward.impl
+	end mission_forward.impl;
+
+	thread state_receive
+	end state_receive;
+
+	thread implementation state_receive.impl
+	end state_receive.impl;
+
+	thread state_local
+	end state_local;
+
+	thread state_stream
+	end state_stream;
+
+	thread implementation state_local.impl
+	end state_local.impl;
+
+	thread implementation state_stream.impl
+	end state_stream.impl;
+
+	thread navigation_receive
+	features
+			GPS_in : in data port;
+			radar_in : in data port;
+			mission_position : in data port;
+			nav_control : in event port;
+	end navigation_receive;
+
+	thread navigation_calculate
+	
+	end navigation_calculate;
+
+	thread navigation_drive
+	end navigation_drive;
+
+	thread navigation_feedback
+	end navigation_feedback;
+
+	thread implementation navigation_calculate.impl
+	end navigation_calculate.impl;
+
+	thread implementation navigation_receive.impl
+	end navigation_receive.impl;
+
+	thread implementation navigation_drive.impl
+	end navigation_drive.impl;
+
+	thread implementation navigation_feedback.impl
+	end navigation_feedback.impl;
+
+end threads;

@@ -1,0 +1,2053 @@
+!SESSION 2014-11-25 17:35:59.992 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=1.7.0_60
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  --launcher.XXPermSize 64M
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 --launcher.XXPermSize 64M
+
+This is a continuation of log file D:\Library\Desktop\NEW_ARS_V2\.metadata\.bak_0.log
+Created Time: 2014-11-25 18:16:37.484
+
+!ENTRY org.osate.ge 1 0 2014-11-25 18:16:37.484
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram synchronously - current thread is the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-25 18:16:37.484
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram synchronously - current thread is the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-25 18:16:37.484
+!MESSAGE org.osate.ge.diagrams.type.features.TypeUpdateDiagramFeature.update(): called with context: UpdateContext pictogramElement: org.eclipse.graphiti.mm.pictograms.impl.DiagramImpl@5938fe65 (visible: true, active: false) (gridUnit: 10, diagramTypeId: AADL Type, name: devices::Sensor, snapToGrid: true, showGuides: false, verticalGridUnit: -1, version: 0.10.0)
+
+!ENTRY org.osate.ge 1 0 2014-11-25 18:16:38.188
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-25 18:16:38.188
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-25 18:16:38.188
+!MESSAGE org.osate.ge.diagrams.type.features.TypeUpdateDiagramFeature.update(): called with context: UpdateContext pictogramElement: org.eclipse.graphiti.mm.pictograms.impl.DiagramImpl@5938fe65 (visible: true, active: false) (gridUnit: 10, diagramTypeId: AADL Type, name: devices::Sensor, snapToGrid: true, showGuides: false, verticalGridUnit: -1, version: 0.10.0)
+
+!ENTRY org.osate.ge 1 0 2014-11-25 18:16:39.485
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram synchronously - current thread is the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-25 18:16:39.485
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram synchronously - current thread is the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-25 18:16:39.485
+!MESSAGE org.osate.ge.diagrams.type.features.TypeUpdateDiagramFeature.update(): called with context: UpdateContext pictogramElement: org.eclipse.graphiti.mm.pictograms.impl.DiagramImpl@5938fe65 (visible: true, active: false) (gridUnit: 10, diagramTypeId: AADL Type, name: devices::Sensor, snapToGrid: true, showGuides: false, verticalGridUnit: -1, version: 0.10.0)
+
+!ENTRY org.osate.ge 1 0 2014-11-25 18:16:39.563
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram synchronously - current thread is the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-25 18:16:39.563
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram synchronously - current thread is the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-25 18:16:39.563
+!MESSAGE org.osate.ge.diagrams.type.features.TypeUpdateDiagramFeature.update(): called with context: UpdateContext pictogramElement: org.eclipse.graphiti.mm.pictograms.impl.DiagramImpl@5938fe65 (visible: true, active: false) (gridUnit: 10, diagramTypeId: AADL Type, name: devices::Sensor, snapToGrid: true, showGuides: false, verticalGridUnit: -1, version: 0.10.0)
+
+!ENTRY org.osate.ge 1 0 2014-11-25 18:16:39.657
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram synchronously - current thread is the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-25 18:16:39.657
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram synchronously - current thread is the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-25 18:16:39.657
+!MESSAGE org.osate.ge.diagrams.type.features.TypeUpdateDiagramFeature.update(): called with context: UpdateContext pictogramElement: org.eclipse.graphiti.mm.pictograms.impl.DiagramImpl@5938fe65 (visible: true, active: false) (gridUnit: 10, diagramTypeId: AADL Type, name: devices::Sensor, snapToGrid: true, showGuides: false, verticalGridUnit: -1, version: 0.10.0)
+
+!ENTRY org.osate.ge 1 0 2014-11-25 18:16:40.204
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-25 18:16:40.204
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-25 18:16:40.204
+!MESSAGE org.osate.ge.diagrams.type.features.TypeUpdateDiagramFeature.update(): called with context: UpdateContext pictogramElement: org.eclipse.graphiti.mm.pictograms.impl.DiagramImpl@5938fe65 (visible: true, active: false) (gridUnit: 10, diagramTypeId: AADL Type, name: devices::Sensor, snapToGrid: true, showGuides: false, verticalGridUnit: -1, version: 0.10.0)
+
+!ENTRY org.osate.ge 1 0 2014-11-25 18:16:40.469
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram synchronously - current thread is the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-25 18:16:40.469
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram synchronously - current thread is the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-25 18:16:40.469
+!MESSAGE org.osate.ge.diagrams.type.features.TypeUpdateDiagramFeature.update(): called with context: UpdateContext pictogramElement: org.eclipse.graphiti.mm.pictograms.impl.DiagramImpl@5938fe65 (visible: true, active: false) (gridUnit: 10, diagramTypeId: AADL Type, name: devices::Sensor, snapToGrid: true, showGuides: false, verticalGridUnit: -1, version: 0.10.0)
+
+!ENTRY org.osate.ge 1 0 2014-11-25 18:16:40.547
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram synchronously - current thread is the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-25 18:16:40.563
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram synchronously - current thread is the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-25 18:16:40.563
+!MESSAGE org.osate.ge.diagrams.type.features.TypeUpdateDiagramFeature.update(): called with context: UpdateContext pictogramElement: org.eclipse.graphiti.mm.pictograms.impl.DiagramImpl@5938fe65 (visible: true, active: false) (gridUnit: 10, diagramTypeId: AADL Type, name: devices::Sensor, snapToGrid: true, showGuides: false, verticalGridUnit: -1, version: 0.10.0)
+
+!ENTRY org.osate.ge 1 0 2014-11-25 18:16:41.329
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-25 18:16:41.329
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-25 18:16:41.329
+!MESSAGE org.osate.ge.diagrams.type.features.TypeUpdateDiagramFeature.update(): called with context: UpdateContext pictogramElement: org.eclipse.graphiti.mm.pictograms.impl.DiagramImpl@5938fe65 (visible: true, active: false) (gridUnit: 10, diagramTypeId: AADL Type, name: devices::Sensor, snapToGrid: true, showGuides: false, verticalGridUnit: -1, version: 0.10.0)
+
+!ENTRY org.osate.ge 1 0 2014-11-25 18:16:45.345
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-25 18:16:45.345
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-25 18:16:45.345
+!MESSAGE org.osate.ge.diagrams.type.features.TypeUpdateDiagramFeature.update(): called with context: UpdateContext pictogramElement: org.eclipse.graphiti.mm.pictograms.impl.DiagramImpl@5938fe65 (visible: true, active: false) (gridUnit: 10, diagramTypeId: AADL Type, name: devices::Sensor, snapToGrid: true, showGuides: false, verticalGridUnit: -1, version: 0.10.0)
+
+!ENTRY org.osate.ge 1 0 2014-11-25 18:16:46.330
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-25 18:16:46.330
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-25 18:16:46.330
+!MESSAGE org.osate.ge.diagrams.type.features.TypeUpdateDiagramFeature.update(): called with context: UpdateContext pictogramElement: org.eclipse.graphiti.mm.pictograms.impl.DiagramImpl@5938fe65 (visible: true, active: false) (gridUnit: 10, diagramTypeId: AADL Type, name: devices::Sensor, snapToGrid: true, showGuides: false, verticalGridUnit: -1, version: 0.10.0)
+
+!ENTRY org.osate.ge 1 0 2014-11-25 18:16:49.565
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-25 18:16:49.565
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-25 18:16:49.565
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-25 18:16:50.925
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram synchronously - current thread is the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-25 18:16:50.925
+!MESSAGE org.osate.ge.diagrams.componentImplementation.features.ComponentImplementationUpdateDiagramFeature.update(): called with context: UpdateContext pictogramElement: org.eclipse.graphiti.mm.pictograms.impl.DiagramImpl@1774fd9c (visible: true, active: false) (gridUnit: 10, diagramTypeId: AADL Component Implementation, name: systems::ARRs_Ground.impl, snapToGrid: true, showGuides: false, verticalGridUnit: -1, version: 0.10.0)
+
+!ENTRY org.osate.ge 1 0 2014-11-25 18:17:25.435
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-25 18:17:25.450
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-25 18:17:27.670
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram synchronously - current thread is the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-25 18:17:27.685
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram synchronously - current thread is the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-25 18:17:27.716
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram synchronously - current thread is the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-25 18:17:27.716
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram synchronously - current thread is the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-25 18:17:28.217
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-25 18:17:28.217
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-25 18:17:29.420
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-25 18:17:29.420
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-25 18:17:31.358
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-25 18:17:31.358
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-25 18:17:32.718
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-25 18:17:32.718
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-25 18:17:47.989
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram synchronously - current thread is the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-25 18:17:47.989
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram synchronously - current thread is the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-25 18:17:48.536
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-25 18:17:48.536
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-25 18:17:49.818
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-25 18:17:49.833
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-25 18:17:50.552
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-25 18:17:50.552
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-25 18:17:50.552
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-25 18:17:51.521
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-25 18:17:51.521
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-25 18:17:51.521
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-25 18:17:53.162
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram synchronously - current thread is the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-25 18:17:53.162
+!MESSAGE org.osate.ge.diagrams.componentImplementation.features.ComponentImplementationUpdateDiagramFeature.update(): called with context: UpdateContext pictogramElement: org.eclipse.graphiti.mm.pictograms.impl.DiagramImpl@1774fd9c (visible: true, active: false) (gridUnit: 10, diagramTypeId: AADL Component Implementation, name: systems::ARRs_Ground.impl, snapToGrid: true, showGuides: false, verticalGridUnit: -1, version: 0.10.0)
+
+!ENTRY org.osate.ge 1 0 2014-11-25 18:19:34.150
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram synchronously - current thread is the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-25 18:19:34.150
+!MESSAGE org.osate.ge.diagrams.pkg.features.PackageUpdateDiagramFeature.update(): called with context: UpdateContext pictogramElement: org.eclipse.graphiti.mm.pictograms.impl.DiagramImpl@889bb6f (visible: true, active: false) (gridUnit: 10, diagramTypeId: AADL Package, name: devices, snapToGrid: true, showGuides: false, verticalGridUnit: -1, version: 0.10.0)
+
+!ENTRY org.osate.ge 1 0 2014-11-25 18:20:01.287
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram synchronously - current thread is the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-25 18:20:01.287
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram synchronously - current thread is the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-25 18:20:01.287
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram synchronously - current thread is the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-25 18:20:01.834
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-25 18:20:01.834
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-25 18:20:01.849
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-25 18:20:10.147
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram synchronously - current thread is the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-25 18:20:10.147
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram synchronously - current thread is the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-25 18:20:10.147
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram synchronously - current thread is the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-25 18:20:10.647
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-25 18:20:10.647
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-25 18:20:10.647
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-25 18:20:12.804
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-25 18:20:12.804
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-25 18:20:12.804
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-25 18:23:57.676
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram synchronously - current thread is the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-25 18:23:57.676
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram synchronously - current thread is the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-25 18:23:57.676
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram synchronously - current thread is the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-25 18:23:58.832
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-25 18:23:58.832
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-25 18:23:58.832
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-25 18:24:02.770
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-25 18:24:02.770
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-25 18:24:02.770
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-25 18:24:08.381
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-25 18:24:08.381
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-25 18:24:08.381
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-25 18:24:09.271
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-25 18:24:09.271
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-25 18:24:09.271
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-25 18:24:12.648
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram synchronously - current thread is the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-25 18:24:12.648
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram synchronously - current thread is the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-25 18:24:12.663
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram synchronously - current thread is the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-25 18:24:13.007
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-25 18:24:13.007
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-25 18:24:13.007
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-25 18:24:25.386
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram synchronously - current thread is the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-25 18:24:25.386
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram synchronously - current thread is the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-25 18:24:25.386
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram synchronously - current thread is the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-25 18:24:25.871
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-25 18:24:25.871
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-25 18:24:25.871
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-25 18:24:28.590
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-25 18:24:28.590
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-25 18:24:28.590
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-25 18:24:30.449
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-25 18:24:30.449
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-25 18:24:30.465
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-25 18:24:58.287
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-25 18:24:58.287
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-25 18:24:58.287
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-25 18:25:03.507
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-25 18:25:03.507
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-25 18:25:03.507
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-25 18:25:04.101
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-25 18:25:04.101
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-25 18:25:04.101
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-25 18:25:05.257
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-25 18:25:05.257
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-25 18:25:05.257
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-25 18:25:09.157
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-25 18:25:09.157
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-25 18:25:09.157
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-25 18:25:13.658
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-25 18:25:13.658
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-25 18:25:13.658
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-25 18:26:44.118
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram synchronously - current thread is the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-25 18:26:44.118
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram synchronously - current thread is the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-25 18:26:44.118
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram synchronously - current thread is the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-25 18:26:44.649
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-25 18:26:44.649
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-25 18:26:44.649
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-25 18:26:47.009
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-25 18:26:47.009
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-25 18:26:47.009
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-25 18:26:47.040
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-25 18:26:47.040
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-25 18:26:47.040
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-25 18:26:47.322
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram synchronously - current thread is the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-25 18:26:47.337
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram synchronously - current thread is the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-25 18:26:47.337
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram synchronously - current thread is the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-25 18:26:47.869
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-25 18:26:47.869
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-25 18:26:47.869
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-25 18:26:49.025
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-25 18:26:49.025
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-25 18:26:49.025
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-25 18:26:51.541
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-25 18:26:51.541
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-25 18:26:51.541
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-25 18:26:56.933
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-25 18:26:56.949
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-25 18:28:05.372
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-25 18:28:05.372
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-25 18:28:05.372
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-25 18:28:06.184
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram synchronously - current thread is the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-25 18:28:06.184
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram synchronously - current thread is the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-25 18:28:06.184
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram synchronously - current thread is the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-25 18:28:06.200
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-25 18:28:06.200
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-25 18:28:06.200
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-25 18:28:08.044
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-25 18:28:08.044
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-25 18:28:08.060
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-25 18:28:10.560
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-25 18:28:10.560
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-25 18:28:10.576
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-25 18:29:48.520
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram synchronously - current thread is the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-25 18:29:48.520
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram synchronously - current thread is the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-25 18:29:49.020
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-25 18:29:49.020
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-25 18:29:50.239
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-25 18:29:50.239
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-25 18:29:50.239
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-25 18:33:19.524
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram synchronously - current thread is the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-25 18:33:19.524
+!MESSAGE org.osate.ge.diagrams.componentImplementation.features.ComponentImplementationUpdateDiagramFeature.update(): called with context: UpdateContext pictogramElement: org.eclipse.graphiti.mm.pictograms.impl.DiagramImpl@1774fd9c (visible: true, active: false) (gridUnit: 10, diagramTypeId: AADL Component Implementation, name: systems::ARRs_Ground.impl, snapToGrid: true, showGuides: false, verticalGridUnit: -1, version: 0.10.0)
+
+!ENTRY org.osate.ge 1 0 2014-11-25 18:33:30.840
+!MESSAGE org.osate.ge.services.impl.DefaultDiagramService.openOrCreateDiagramForRootBusinessObject(): Existing diagram found. Opening...
+
+!ENTRY org.osate.ge 1 0 2014-11-25 18:33:30.871
+!MESSAGE org.osate.ge.diagrams.componentImplementation.features.ComponentImplementationUpdateDiagramFeature.update(): called with context: UpdateContext pictogramElement: org.eclipse.graphiti.mm.pictograms.impl.DiagramImpl@1b13a9e5 (visible: true, active: false) (gridUnit: 10, diagramTypeId: AADL Component Implementation, name: ARR_subsystems::mission_processing.impl, snapToGrid: true, showGuides: false, verticalGridUnit: -1, version: 0.10.0)
+
+!ENTRY org.osate.ge 1 0 2014-11-25 18:33:41.155
+!MESSAGE org.osate.ge.services.impl.DefaultDiagramService.openOrCreateDiagramForRootBusinessObject(): Existing diagram not found.
+
+!ENTRY org.osate.ge 1 0 2014-11-25 18:33:41.155
+!MESSAGE org.osate.ge.services.impl.DefaultDiagramService.createNewDiagram(): Creating diagram of type 'AADL Component Implementation' for model element 'system_memory.arr'
+
+!ENTRY org.osate.ge 1 0 2014-11-25 18:33:41.155
+!MESSAGE org.osate.ge.services.impl.DefaultDiagramService.createNewDiagram(): Creating a editing domain
+
+!ENTRY org.osate.ge 1 0 2014-11-25 18:33:41.186
+!MESSAGE org.osate.ge.diagrams.componentImplementation.features.ComponentImplementationUpdateDiagramFeature.update(): called with context: UpdateContext pictogramElement: org.eclipse.graphiti.mm.pictograms.impl.DiagramImpl@79bd5969 (visible: true, active: false) (gridUnit: 10, diagramTypeId: AADL Component Implementation, name: memories::system_memory.arr, snapToGrid: true, showGuides: false, verticalGridUnit: -1, version: 0.10.0)
+
+!ENTRY org.osate.ge 1 0 2014-11-25 18:33:49.407
+!MESSAGE org.osate.ge.services.impl.DefaultDiagramService.openOrCreateDiagramForRootBusinessObject(): Existing diagram not found.
+
+!ENTRY org.osate.ge 1 0 2014-11-25 18:33:49.422
+!MESSAGE org.osate.ge.services.impl.DefaultDiagramService.createNewDiagram(): Creating diagram of type 'AADL Component Implementation' for model element 'system_processor.arr'
+
+!ENTRY org.osate.ge 1 0 2014-11-25 18:33:49.422
+!MESSAGE org.osate.ge.services.impl.DefaultDiagramService.createNewDiagram(): Creating a editing domain
+
+!ENTRY org.osate.ge 1 0 2014-11-25 18:33:49.438
+!MESSAGE org.osate.ge.diagrams.componentImplementation.features.ComponentImplementationUpdateDiagramFeature.update(): called with context: UpdateContext pictogramElement: org.eclipse.graphiti.mm.pictograms.impl.DiagramImpl@58712e01 (visible: true, active: false) (gridUnit: 10, diagramTypeId: AADL Component Implementation, name: processors::system_processor.arr, snapToGrid: true, showGuides: false, verticalGridUnit: -1, version: 0.10.0)
+
+!ENTRY org.osate.ge 1 0 2014-11-25 18:34:59.059
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram synchronously - current thread is the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-25 18:34:59.059
+!MESSAGE org.osate.ge.diagrams.type.features.TypeUpdateDiagramFeature.update(): called with context: UpdateContext pictogramElement: org.eclipse.graphiti.mm.pictograms.impl.DiagramImpl@5938fe65 (visible: true, active: false) (gridUnit: 10, diagramTypeId: AADL Type, name: devices::Sensor, snapToGrid: true, showGuides: false, verticalGridUnit: -1, version: 0.10.0)
+
+!ENTRY org.osate.ge 1 0 2014-11-25 22:35:02.165
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram synchronously - current thread is the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-25 22:35:02.165
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram synchronously - current thread is the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-25 22:35:02.165
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram synchronously - current thread is the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-25 22:35:02.384
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram synchronously - current thread is the display thread
+!SESSION 2014-11-29 09:31:59.172 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=1.7.0_60
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  --launcher.XXPermSize 64M
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 --launcher.XXPermSize 64M
+
+!ENTRY org.osate.ge 0 0 2014-11-29 09:43:31.034
+!MESSAGE org.osate.ge.ui.handlers.OpenPackageDiagramHandler.execute(): OpenPackageDiagramHandler Started
+
+!ENTRY org.osate.ge 1 0 2014-11-29 09:43:37.598
+!MESSAGE org.osate.ge.services.impl.DefaultDiagramService.openOrCreateDiagramForRootBusinessObject(): Existing diagram found. Opening...
+
+!ENTRY org.osate.ge 1 0 2014-11-29 09:43:38.160
+!MESSAGE org.osate.ge.diagrams.pkg.features.PackageUpdateDiagramFeature.update(): called with context: UpdateContext pictogramElement: org.eclipse.graphiti.mm.pictograms.impl.DiagramImpl@d20f862 (visible: true, active: false) (gridUnit: 10, diagramTypeId: AADL Package, name: systems, snapToGrid: true, showGuides: false, verticalGridUnit: -1, version: 0.10.0)
+
+!ENTRY org.osate.ge 0 0 2014-11-29 09:43:39.817
+!MESSAGE org.osate.ge.ui.handlers.OpenPackageDiagramHandler.execute(): OpenPackageDiagramHandler Finished
+
+!ENTRY org.osate.ge 1 0 2014-11-29 09:43:44.036
+!MESSAGE org.osate.ge.services.impl.DefaultDiagramService.openOrCreateDiagramForRootBusinessObject(): Existing diagram found. Opening...
+
+!ENTRY org.osate.ge 1 0 2014-11-29 09:43:44.083
+!MESSAGE org.osate.ge.diagrams.componentImplementation.features.ComponentImplementationUpdateDiagramFeature.update(): called with context: UpdateContext pictogramElement: org.eclipse.graphiti.mm.pictograms.impl.DiagramImpl@7cb2a86b (visible: true, active: false) (gridUnit: 10, diagramTypeId: AADL Component Implementation, name: systems::ARRs_Amphibious.impl, snapToGrid: true, showGuides: false, verticalGridUnit: -1, version: 0.10.0)
+
+!ENTRY org.osate.ge 1 0 2014-11-29 09:43:50.152
+!MESSAGE org.osate.ge.services.impl.DefaultDiagramService.openOrCreateDiagramForRootBusinessObject(): Existing diagram found. Opening...
+
+!ENTRY org.osate.ge 1 0 2014-11-29 09:43:50.183
+!MESSAGE org.osate.ge.diagrams.componentImplementation.features.ComponentImplementationUpdateDiagramFeature.update(): called with context: UpdateContext pictogramElement: org.eclipse.graphiti.mm.pictograms.impl.DiagramImpl@6289fd8 (visible: true, active: false) (gridUnit: 10, diagramTypeId: AADL Component Implementation, name: systems::ARRs_Ground.impl, snapToGrid: true, showGuides: false, verticalGridUnit: -1, version: 0.10.0)
+
+!ENTRY org.osate.ge 1 0 2014-11-29 09:44:25.114
+!MESSAGE org.osate.ge.services.impl.DefaultDiagramService.openOrCreateDiagramForRootBusinessObject(): Existing diagram found. Opening...
+
+!ENTRY org.osate.ge 1 0 2014-11-29 09:44:25.160
+!MESSAGE org.osate.ge.diagrams.type.features.TypeUpdateDiagramFeature.update(): called with context: UpdateContext pictogramElement: org.eclipse.graphiti.mm.pictograms.impl.DiagramImpl@15360eeb (visible: true, active: false) (gridUnit: 10, diagramTypeId: AADL Type, name: systems::ARRs_Ground, snapToGrid: true, showGuides: false, verticalGridUnit: -1, version: 0.10.0)
+
+!ENTRY org.osate.ge 1 0 2014-11-29 09:44:33.243
+!MESSAGE org.osate.ge.services.impl.DefaultDiagramService.openOrCreateDiagramForRootBusinessObject(): Existing diagram found. Opening...
+
+!ENTRY org.osate.ge 1 0 2014-11-29 09:44:33.290
+!MESSAGE org.osate.ge.diagrams.componentImplementation.features.ComponentImplementationUpdateDiagramFeature.update(): called with context: UpdateContext pictogramElement: org.eclipse.graphiti.mm.pictograms.impl.DiagramImpl@55bd9279 (visible: true, active: false) (gridUnit: 10, diagramTypeId: AADL Component Implementation, name: systems::AGVs.impl, snapToGrid: true, showGuides: false, verticalGridUnit: -1, version: 0.10.0)
+
+!ENTRY org.osate.ge 1 0 2014-11-29 09:51:42.873
+!MESSAGE org.osate.ge.services.impl.DefaultDiagramService.openOrCreateDiagramForRootBusinessObject(): Existing diagram found. Opening...
+
+!ENTRY org.osate.ge 1 0 2014-11-29 09:51:42.905
+!MESSAGE org.osate.ge.diagrams.componentImplementation.features.ComponentImplementationUpdateDiagramFeature.update(): called with context: UpdateContext pictogramElement: org.eclipse.graphiti.mm.pictograms.impl.DiagramImpl@1617abe1 (visible: true, active: false) (gridUnit: 10, diagramTypeId: AADL Component Implementation, name: systems::AGVs.impl, snapToGrid: true, showGuides: false, verticalGridUnit: -1, version: 0.10.0)
+
+!ENTRY org.eclipse.jface 2 0 2014-11-29 09:56:54.435
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2014-11-29 09:56:54.435
+!MESSAGE A conflict occurred for CTRL+O:
+Binding(CTRL+O,
+	ParameterizedCommand(Command(org.eclipse.graphiti.ui.internal.action.SaveImageAction,Export Diagram,
+		Export Diagram,
+		Category(org.eclipse.graphiti.ui.Graphiti_Category,Edit,Graphiti Diagram Editor,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@7290e097,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.graphiti.ui.diagramEditor,,,system)
+Binding(CTRL+O,
+	ParameterizedCommand(Command(org.eclipse.xtext.ui.editor.outline.QuickOutline,Quick Outline,
+		Open the quick outline.,
+		Category(org.eclipse.core.commands.categories.autogenerated,Uncategorized,Commands that were either auto-generated or have no category,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@2eef66cb,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.xtext.ui.XtextEditorScope,,,system)
+
+!ENTRY org.osate.ge 1 0 2014-11-29 09:57:00.907
+!MESSAGE org.osate.ge.services.impl.DefaultDiagramService.openOrCreateDiagramForRootBusinessObject(): Existing diagram found. Opening...
+
+!ENTRY org.osate.ge 1 0 2014-11-29 09:57:00.938
+!MESSAGE org.osate.ge.diagrams.componentImplementation.features.ComponentImplementationUpdateDiagramFeature.update(): called with context: UpdateContext pictogramElement: org.eclipse.graphiti.mm.pictograms.impl.DiagramImpl@62238425 (visible: true, active: false) (gridUnit: 10, diagramTypeId: AADL Component Implementation, name: systems::AMC.impl, snapToGrid: true, showGuides: false, verticalGridUnit: -1, version: 0.10.0)
+
+!ENTRY org.osate.ge 1 0 2014-11-29 09:57:09.566
+!MESSAGE org.osate.ge.services.impl.DefaultDiagramService.openOrCreateDiagramForRootBusinessObject(): Existing diagram found. Opening...
+
+!ENTRY org.osate.ge 1 0 2014-11-29 09:57:09.582
+!MESSAGE org.osate.ge.diagrams.componentImplementation.features.ComponentImplementationUpdateDiagramFeature.update(): called with context: UpdateContext pictogramElement: org.eclipse.graphiti.mm.pictograms.impl.DiagramImpl@6b8ea037 (visible: true, active: false) (gridUnit: 10, diagramTypeId: AADL Component Implementation, name: systems::ARS.impl, snapToGrid: true, showGuides: false, verticalGridUnit: -1, version: 0.10.0)
+
+!ENTRY org.osate.ge 1 0 2014-11-29 09:57:16.710
+!MESSAGE org.osate.ge.services.impl.DefaultDiagramService.openOrCreateDiagramForRootBusinessObject(): Existing diagram found. Opening...
+
+!ENTRY org.osate.ge 1 0 2014-11-29 09:57:16.726
+!MESSAGE org.osate.ge.diagrams.componentImplementation.features.ComponentImplementationUpdateDiagramFeature.update(): called with context: UpdateContext pictogramElement: org.eclipse.graphiti.mm.pictograms.impl.DiagramImpl@e75ee5c (visible: true, active: false) (gridUnit: 10, diagramTypeId: AADL Component Implementation, name: systems::ARS.impl, snapToGrid: true, showGuides: false, verticalGridUnit: -1, version: 0.10.0)
+
+!ENTRY org.osate.ge 1 0 2014-11-29 10:00:28.321
+!MESSAGE org.osate.ge.diagrams.type.features.TypeUpdateDiagramFeature.update(): called with context: UpdateContext pictogramElement: org.eclipse.graphiti.mm.pictograms.impl.DiagramImpl@7c68ddb4 (visible: true, active: false) (gridUnit: 10, diagramTypeId: AADL Type, name: processes::mission_result_mixer, snapToGrid: true, showGuides: false, verticalGridUnit: -1, version: 0.10.0)
+
+!ENTRY org.osate.ge 1 0 2014-11-29 10:00:29.196
+!MESSAGE org.osate.ge.diagrams.componentImplementation.features.ComponentImplementationUpdateDiagramFeature.update(): called with context: UpdateContext pictogramElement: org.eclipse.graphiti.mm.pictograms.impl.DiagramImpl@2f37367a (visible: true, active: false) (gridUnit: 10, diagramTypeId: AADL Component Implementation, name: processes::mission_controller_agv.impl, snapToGrid: true, showGuides: false, verticalGridUnit: -1, version: 0.10.0)
+
+!ENTRY org.osate.ge 0 0 2014-11-29 10:05:19.942
+!MESSAGE org.osate.ge.ui.handlers.OpenPackageDiagramHandler.execute(): OpenPackageDiagramHandler Started
+
+!ENTRY org.osate.ge 1 0 2014-11-29 10:05:20.458
+!MESSAGE org.osate.ge.services.impl.DefaultDiagramService.openOrCreateDiagramForRootBusinessObject(): Existing diagram found. Opening...
+
+!ENTRY org.osate.ge 1 0 2014-11-29 10:05:20.489
+!MESSAGE org.osate.ge.diagrams.pkg.features.PackageUpdateDiagramFeature.update(): called with context: UpdateContext pictogramElement: org.eclipse.graphiti.mm.pictograms.impl.DiagramImpl@4bfaabb (visible: true, active: false) (gridUnit: 10, diagramTypeId: AADL Package, name: processes, snapToGrid: true, showGuides: false, verticalGridUnit: -1, version: 0.10.0)
+
+!ENTRY org.eclipse.ui.views.properties.tabbed 4 4 2014-11-29 10:05:21.755
+!MESSAGE Contributor org.osate.ge.editor.AgeDiagramEditor cannot be created.
+
+!ENTRY org.osate.ge 0 0 2014-11-29 10:05:21.786
+!MESSAGE org.osate.ge.ui.handlers.OpenPackageDiagramHandler.execute(): OpenPackageDiagramHandler Finished
+
+!ENTRY org.osate.ge 0 0 2014-11-29 10:06:12.015
+!MESSAGE org.osate.ge.ui.handlers.OpenClassifierDiagramHandler.execute(): OpenClassifierDiagramHandler Started
+
+!ENTRY org.osate.ge 1 0 2014-11-29 10:06:12.469
+!MESSAGE org.osate.ge.services.impl.DefaultDiagramService.openOrCreateDiagramForRootBusinessObject(): Existing diagram found. Opening...
+
+!ENTRY org.osate.ge 1 0 2014-11-29 10:06:12.500
+!MESSAGE org.osate.ge.diagrams.type.features.TypeUpdateDiagramFeature.update(): called with context: UpdateContext pictogramElement: org.eclipse.graphiti.mm.pictograms.impl.DiagramImpl@285e9814 (visible: true, active: false) (gridUnit: 10, diagramTypeId: AADL Type, name: processes::mission_controller_arr, snapToGrid: true, showGuides: false, verticalGridUnit: -1, version: 0.10.0)
+
+!ENTRY org.eclipse.ui.views.properties.tabbed 4 4 2014-11-29 10:06:12.984
+!MESSAGE Contributor org.osate.ge.editor.AgeDiagramEditor cannot be created.
+
+!ENTRY org.osate.ge 0 0 2014-11-29 10:06:13.000
+!MESSAGE org.osate.ge.ui.handlers.OpenClassifierDiagramHandler.execute(): OpenClassifierDiagramHandler Finished
+
+!ENTRY org.osate.ge 1 0 2014-11-29 10:06:41.464
+!MESSAGE org.osate.ge.diagrams.componentImplementation.features.ComponentImplementationUpdateDiagramFeature.update(): called with context: UpdateContext pictogramElement: org.eclipse.graphiti.mm.pictograms.impl.DiagramImpl@3d24458e (visible: true, active: false) (gridUnit: 10, diagramTypeId: AADL Component Implementation, name: processes::mission_controller_arr.impl, snapToGrid: true, showGuides: false, verticalGridUnit: -1, version: 0.10.0)
+
+!ENTRY org.eclipse.ui.views.properties.tabbed 4 4 2014-11-29 10:06:42.979
+!MESSAGE Contributor org.osate.ge.editor.AgeDiagramEditor cannot be created.
+
+!ENTRY org.osate.ge 1 0 2014-11-29 10:06:48.857
+!MESSAGE org.osate.ge.services.impl.DefaultAadlModificationService.modify(): Executing modification without a thread switch
+
+!ENTRY org.osate.ge 1 0 2014-11-29 10:06:52.154
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram synchronously - current thread is the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-29 10:06:52.154
+!MESSAGE org.osate.ge.diagrams.componentImplementation.features.ComponentImplementationUpdateDiagramFeature.update(): called with context: UpdateContext pictogramElement: org.eclipse.graphiti.mm.pictograms.impl.DiagramImpl@3d24458e (visible: true, active: false) (gridUnit: 10, diagramTypeId: AADL Component Implementation, name: processes::mission_controller_arr.impl, snapToGrid: true, showGuides: false, verticalGridUnit: -1, version: 0.10.0)
+
+!ENTRY org.osate.ge 0 0 2014-11-29 10:09:46.850
+!MESSAGE org.osate.ge.ui.handlers.OpenPackageDiagramHandler.execute(): OpenPackageDiagramHandler Started
+
+!ENTRY org.osate.ge 1 0 2014-11-29 10:09:48.194
+!MESSAGE org.osate.ge.services.impl.DefaultDiagramService.openOrCreateDiagramForRootBusinessObject(): Existing diagram found. Opening...
+
+!ENTRY org.osate.ge 1 0 2014-11-29 10:09:48.209
+!MESSAGE org.osate.ge.diagrams.pkg.features.PackageUpdateDiagramFeature.update(): called with context: UpdateContext pictogramElement: org.eclipse.graphiti.mm.pictograms.impl.DiagramImpl@75439a63 (visible: true, active: false) (gridUnit: 10, diagramTypeId: AADL Package, name: systems, snapToGrid: true, showGuides: false, verticalGridUnit: -1, version: 0.10.0)
+
+!ENTRY org.eclipse.ui.views.properties.tabbed 4 4 2014-11-29 10:09:48.741
+!MESSAGE Contributor org.osate.ge.editor.AgeDiagramEditor cannot be created.
+
+!ENTRY org.osate.ge 0 0 2014-11-29 10:09:48.756
+!MESSAGE org.osate.ge.ui.handlers.OpenPackageDiagramHandler.execute(): OpenPackageDiagramHandler Finished
+
+!ENTRY org.osate.ge 1 0 2014-11-29 10:09:51.929
+!MESSAGE org.osate.ge.services.impl.DefaultDiagramService.openOrCreateDiagramForRootBusinessObject(): Existing diagram found. Opening...
+
+!ENTRY org.osate.ge 1 0 2014-11-29 10:09:51.960
+!MESSAGE org.osate.ge.diagrams.componentImplementation.features.ComponentImplementationUpdateDiagramFeature.update(): called with context: UpdateContext pictogramElement: org.eclipse.graphiti.mm.pictograms.impl.DiagramImpl@56d141b4 (visible: true, active: false) (gridUnit: 10, diagramTypeId: AADL Component Implementation, name: systems::ARRs_Ground.impl, snapToGrid: true, showGuides: false, verticalGridUnit: -1, version: 0.10.0)
+
+!ENTRY org.osate.ge 1 0 2014-11-29 10:11:20.303
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-29 10:11:20.318
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-29 10:11:24.882
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram synchronously - current thread is the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-29 10:11:24.882
+!MESSAGE org.osate.ge.diagrams.componentImplementation.features.ComponentImplementationUpdateDiagramFeature.update(): called with context: UpdateContext pictogramElement: org.eclipse.graphiti.mm.pictograms.impl.DiagramImpl@56d141b4 (visible: true, active: false) (gridUnit: 10, diagramTypeId: AADL Component Implementation, name: systems::ARRs_Ground.impl, snapToGrid: true, showGuides: false, verticalGridUnit: -1, version: 0.10.0)
+
+!ENTRY org.osate.ge 1 0 2014-11-29 10:11:53.438
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram synchronously - current thread is the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-29 10:11:53.438
+!MESSAGE org.osate.ge.diagrams.pkg.features.PackageUpdateDiagramFeature.update(): called with context: UpdateContext pictogramElement: org.eclipse.graphiti.mm.pictograms.impl.DiagramImpl@75439a63 (visible: true, active: false) (gridUnit: 10, diagramTypeId: AADL Package, name: systems, snapToGrid: true, showGuides: false, verticalGridUnit: -1, version: 0.10.0)
+
+!ENTRY org.osate.ge 1 0 2014-11-29 10:12:12.774
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-29 10:12:12.774
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-29 10:13:04.449
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram synchronously - current thread is the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-29 10:13:04.449
+!MESSAGE org.osate.ge.diagrams.componentImplementation.features.ComponentImplementationUpdateDiagramFeature.update(): called with context: UpdateContext pictogramElement: org.eclipse.graphiti.mm.pictograms.impl.DiagramImpl@56d141b4 (visible: true, active: false) (gridUnit: 10, diagramTypeId: AADL Component Implementation, name: systems::ARRs_Ground.impl, snapToGrid: true, showGuides: false, verticalGridUnit: -1, version: 0.10.0)
+
+!ENTRY org.osate.ge 1 0 2014-11-29 10:13:19.327
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-29 10:13:19.327
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-29 10:13:25.828
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-29 10:13:25.844
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-29 10:13:28.580
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-29 10:13:28.580
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-29 10:14:40.685
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram synchronously - current thread is the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-29 10:14:40.685
+!MESSAGE org.osate.ge.diagrams.componentImplementation.features.ComponentImplementationUpdateDiagramFeature.update(): called with context: UpdateContext pictogramElement: org.eclipse.graphiti.mm.pictograms.impl.DiagramImpl@56d141b4 (visible: true, active: false) (gridUnit: 10, diagramTypeId: AADL Component Implementation, name: systems::ARRs_Ground.impl, snapToGrid: true, showGuides: false, verticalGridUnit: -1, version: 0.10.0)
+
+!ENTRY org.osate.ge 1 0 2014-11-29 10:15:05.787
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-29 10:15:05.802
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-29 10:15:06.475
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-29 10:15:06.490
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-29 10:15:17.776
+!MESSAGE org.osate.ge.diagrams.componentImplementation.features.ComponentImplementationUpdateDiagramFeature.update(): called with context: UpdateContext pictogramElement: org.eclipse.graphiti.mm.pictograms.impl.DiagramImpl@407d9688 (visible: true, active: false) (gridUnit: 10, diagramTypeId: AADL Component Implementation, name: AGV_subsystems::mission_processing.impl, snapToGrid: true, showGuides: false, verticalGridUnit: -1, version: 0.10.0)
+
+!ENTRY org.osate.ge 1 0 2014-11-29 10:15:23.964
+!MESSAGE org.osate.ge.diagrams.componentImplementation.features.ComponentImplementationUpdateDiagramFeature.update(): called with context: UpdateContext pictogramElement: org.eclipse.graphiti.mm.pictograms.impl.DiagramImpl@2fc9bd66 (visible: true, active: false) (gridUnit: 10, diagramTypeId: AADL Component Implementation, name: systems::AGVs.impl, snapToGrid: true, showGuides: false, verticalGridUnit: -1, version: 0.10.0)
+
+!ENTRY org.osate.ge 1 0 2014-11-29 10:15:52.290
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram synchronously - current thread is the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-29 10:15:52.290
+!MESSAGE org.osate.ge.diagrams.componentImplementation.features.ComponentImplementationUpdateDiagramFeature.update(): called with context: UpdateContext pictogramElement: org.eclipse.graphiti.mm.pictograms.impl.DiagramImpl@56d141b4 (visible: true, active: false) (gridUnit: 10, diagramTypeId: AADL Component Implementation, name: systems::ARRs_Ground.impl, snapToGrid: true, showGuides: false, verticalGridUnit: -1, version: 0.10.0)
+
+!ENTRY org.osate.ge 1 0 2014-11-29 10:16:01.370
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram synchronously - current thread is the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-29 10:16:01.370
+!MESSAGE org.osate.ge.diagrams.pkg.features.PackageUpdateDiagramFeature.update(): called with context: UpdateContext pictogramElement: org.eclipse.graphiti.mm.pictograms.impl.DiagramImpl@75439a63 (visible: true, active: false) (gridUnit: 10, diagramTypeId: AADL Package, name: systems, snapToGrid: true, showGuides: false, verticalGridUnit: -1, version: 0.10.0)
+
+!ENTRY org.osate.ge 1 0 2014-11-29 10:16:22.084
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-29 10:16:22.084
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-29 10:16:29.304
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram synchronously - current thread is the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-29 10:16:29.320
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram synchronously - current thread is the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-29 10:16:29.758
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-29 10:16:29.758
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-29 10:16:57.939
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram synchronously - current thread is the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-29 10:16:57.939
+!MESSAGE org.osate.ge.diagrams.componentImplementation.features.ComponentImplementationUpdateDiagramFeature.update(): called with context: UpdateContext pictogramElement: org.eclipse.graphiti.mm.pictograms.impl.DiagramImpl@56d141b4 (visible: true, active: false) (gridUnit: 10, diagramTypeId: AADL Component Implementation, name: systems::ARRs_Ground.impl, snapToGrid: true, showGuides: false, verticalGridUnit: -1, version: 0.10.0)
+
+!ENTRY org.osate.ge 1 0 2014-11-29 10:17:34.839
+!MESSAGE org.osate.ge.services.impl.DefaultAadlModificationService.modify(): Executing modification without a thread switch
+
+!ENTRY org.osate.ge 1 0 2014-11-29 10:17:35.808
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram synchronously - current thread is the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-29 10:17:35.824
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram synchronously - current thread is the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-29 10:17:35.824
+!MESSAGE org.osate.ge.diagrams.componentImplementation.features.ComponentImplementationUpdateDiagramFeature.update(): called with context: UpdateContext pictogramElement: org.eclipse.graphiti.mm.pictograms.impl.DiagramImpl@56d141b4 (visible: true, active: false) (gridUnit: 10, diagramTypeId: AADL Component Implementation, name: systems::ARRs_Ground.impl, snapToGrid: true, showGuides: false, verticalGridUnit: -1, version: 0.10.0)
+
+!ENTRY org.osate.ge 1 0 2014-11-29 10:17:39.386
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-29 10:17:39.386
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-29 10:17:39.965
+!MESSAGE org.osate.ge.diagrams.componentImplementation.features.ComponentImplementationUpdateDiagramFeature.update(): called with context: UpdateContext pictogramElement: org.eclipse.graphiti.mm.pictograms.impl.DiagramImpl@56d141b4 (visible: true, active: false) (gridUnit: 10, diagramTypeId: AADL Component Implementation, name: systems::ARRs_Ground.impl, snapToGrid: true, showGuides: false, verticalGridUnit: -1, version: 0.10.0)
+
+!ENTRY org.osate.ge 1 0 2014-11-29 10:17:50.231
+!MESSAGE org.osate.ge.services.impl.DefaultAadlModificationService.modify(): Executing modification without a thread switch
+
+!ENTRY org.osate.ge 1 0 2014-11-29 10:17:50.841
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram synchronously - current thread is the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-29 10:17:50.841
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram synchronously - current thread is the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-29 10:17:50.841
+!MESSAGE org.osate.ge.diagrams.componentImplementation.features.ComponentImplementationUpdateDiagramFeature.update(): called with context: UpdateContext pictogramElement: org.eclipse.graphiti.mm.pictograms.impl.DiagramImpl@56d141b4 (visible: true, active: false) (gridUnit: 10, diagramTypeId: AADL Component Implementation, name: systems::ARRs_Ground.impl, snapToGrid: true, showGuides: false, verticalGridUnit: -1, version: 0.10.0)
+
+!ENTRY org.osate.ge 1 0 2014-11-29 10:17:54.748
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-29 10:17:54.748
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-29 10:17:55.435
+!MESSAGE org.osate.ge.diagrams.componentImplementation.features.ComponentImplementationUpdateDiagramFeature.update(): called with context: UpdateContext pictogramElement: org.eclipse.graphiti.mm.pictograms.impl.DiagramImpl@56d141b4 (visible: true, active: false) (gridUnit: 10, diagramTypeId: AADL Component Implementation, name: systems::ARRs_Ground.impl, snapToGrid: true, showGuides: false, verticalGridUnit: -1, version: 0.10.0)
+
+!ENTRY org.osate.ge 1 0 2014-11-29 10:18:02.404
+!MESSAGE org.osate.ge.services.impl.DefaultAadlModificationService.modify(): Executing modification without a thread switch
+
+!ENTRY org.osate.ge 1 0 2014-11-29 10:18:02.983
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram synchronously - current thread is the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-29 10:18:02.983
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram synchronously - current thread is the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-29 10:18:02.983
+!MESSAGE org.osate.ge.diagrams.componentImplementation.features.ComponentImplementationUpdateDiagramFeature.update(): called with context: UpdateContext pictogramElement: org.eclipse.graphiti.mm.pictograms.impl.DiagramImpl@56d141b4 (visible: true, active: false) (gridUnit: 10, diagramTypeId: AADL Component Implementation, name: systems::ARRs_Ground.impl, snapToGrid: true, showGuides: false, verticalGridUnit: -1, version: 0.10.0)
+
+!ENTRY org.osate.ge 1 0 2014-11-29 10:18:07.186
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-29 10:18:07.186
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-29 10:18:07.967
+!MESSAGE org.osate.ge.diagrams.componentImplementation.features.ComponentImplementationUpdateDiagramFeature.update(): called with context: UpdateContext pictogramElement: org.eclipse.graphiti.mm.pictograms.impl.DiagramImpl@56d141b4 (visible: true, active: false) (gridUnit: 10, diagramTypeId: AADL Component Implementation, name: systems::ARRs_Ground.impl, snapToGrid: true, showGuides: false, verticalGridUnit: -1, version: 0.10.0)
+
+!ENTRY org.osate.ge 1 0 2014-11-29 10:19:31.104
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-29 10:19:31.104
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-29 10:19:40.702
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram synchronously - current thread is the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-29 10:19:40.702
+!MESSAGE org.osate.ge.diagrams.componentImplementation.features.ComponentImplementationUpdateDiagramFeature.update(): called with context: UpdateContext pictogramElement: org.eclipse.graphiti.mm.pictograms.impl.DiagramImpl@56d141b4 (visible: true, active: false) (gridUnit: 10, diagramTypeId: AADL Component Implementation, name: systems::ARRs_Ground.impl, snapToGrid: true, showGuides: false, verticalGridUnit: -1, version: 0.10.0)
+
+!ENTRY org.osate.ge 1 0 2014-11-29 10:19:53.251
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-29 10:19:53.251
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-29 10:19:57.315
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram synchronously - current thread is the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-29 10:19:57.330
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram synchronously - current thread is the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-29 10:19:57.815
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-29 10:19:57.815
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-29 10:20:01.816
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-29 10:20:01.816
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-29 10:20:04.629
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-29 10:20:04.629
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-29 10:20:22.637
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram synchronously - current thread is the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-29 10:20:22.637
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram synchronously - current thread is the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-29 10:20:23.184
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-29 10:20:23.184
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-29 10:20:27.155
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram synchronously - current thread is the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-29 10:20:27.155
+!MESSAGE org.osate.ge.diagrams.componentImplementation.features.ComponentImplementationUpdateDiagramFeature.update(): called with context: UpdateContext pictogramElement: org.eclipse.graphiti.mm.pictograms.impl.DiagramImpl@56d141b4 (visible: true, active: false) (gridUnit: 10, diagramTypeId: AADL Component Implementation, name: systems::ARRs_Ground.impl, snapToGrid: true, showGuides: false, verticalGridUnit: -1, version: 0.10.0)
+
+!ENTRY org.osate.ge 1 0 2014-11-29 10:20:35.624
+!MESSAGE org.osate.ge.services.impl.DefaultDiagramService.openOrCreateDiagramForRootBusinessObject(): Existing diagram found. Opening...
+
+!ENTRY org.osate.ge 1 0 2014-11-29 10:20:35.656
+!MESSAGE org.osate.ge.diagrams.componentImplementation.features.ComponentImplementationUpdateDiagramFeature.update(): called with context: UpdateContext pictogramElement: org.eclipse.graphiti.mm.pictograms.impl.DiagramImpl@542d4da1 (visible: true, active: false) (gridUnit: 10, diagramTypeId: AADL Component Implementation, name: ARR_subsystems::mission_processing.impl, snapToGrid: true, showGuides: false, verticalGridUnit: -1, version: 0.10.0)
+
+!ENTRY org.osate.ge 1 0 2014-11-29 10:21:07.556
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram synchronously - current thread is the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-29 10:21:07.556
+!MESSAGE org.osate.ge.diagrams.pkg.features.PackageUpdateDiagramFeature.update(): called with context: UpdateContext pictogramElement: org.eclipse.graphiti.mm.pictograms.impl.DiagramImpl@75439a63 (visible: true, active: false) (gridUnit: 10, diagramTypeId: AADL Package, name: systems, snapToGrid: true, showGuides: false, verticalGridUnit: -1, version: 0.10.0)
+
+!ENTRY org.osate.ge 1 0 2014-11-29 10:21:36.392
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-29 10:21:57.570
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram synchronously - current thread is the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-29 10:21:57.585
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-29 10:22:08.650
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-29 10:22:08.650
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-29 10:23:07.869
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram synchronously - current thread is the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-29 10:23:07.869
+!MESSAGE org.osate.ge.diagrams.componentImplementation.features.ComponentImplementationUpdateDiagramFeature.update(): called with context: UpdateContext pictogramElement: org.eclipse.graphiti.mm.pictograms.impl.DiagramImpl@56d141b4 (visible: true, active: false) (gridUnit: 10, diagramTypeId: AADL Component Implementation, name: systems::ARRs_Ground.impl, snapToGrid: true, showGuides: false, verticalGridUnit: -1, version: 0.10.0)
+
+!ENTRY org.osate.ge 1 0 2014-11-29 10:23:48.549
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram synchronously - current thread is the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-29 10:23:48.549
+!MESSAGE org.osate.ge.diagrams.componentImplementation.features.ComponentImplementationUpdateDiagramFeature.update(): called with context: UpdateContext pictogramElement: org.eclipse.graphiti.mm.pictograms.impl.DiagramImpl@542d4da1 (visible: true, active: false) (gridUnit: 10, diagramTypeId: AADL Component Implementation, name: ARR_subsystems::mission_processing.impl, snapToGrid: true, showGuides: false, verticalGridUnit: -1, version: 0.10.0)
+
+!ENTRY org.osate.ge 0 0 2014-11-29 10:24:34.249
+!MESSAGE org.osate.ge.ui.handlers.OpenPackageDiagramHandler.execute(): OpenPackageDiagramHandler Started
+
+!ENTRY org.osate.ge 1 0 2014-11-29 10:24:34.953
+!MESSAGE org.osate.ge.services.impl.DefaultDiagramService.openOrCreateDiagramForRootBusinessObject(): Existing diagram found. Opening...
+
+!ENTRY org.osate.ge 1 0 2014-11-29 10:24:34.968
+!MESSAGE org.osate.ge.diagrams.pkg.features.PackageUpdateDiagramFeature.update(): called with context: UpdateContext pictogramElement: org.eclipse.graphiti.mm.pictograms.impl.DiagramImpl@333e81d7 (visible: true, active: false) (gridUnit: 10, diagramTypeId: AADL Package, name: ARR_subsystems, snapToGrid: true, showGuides: false, verticalGridUnit: -1, version: 0.10.0)
+
+!ENTRY org.osate.ge 0 0 2014-11-29 10:24:35.093
+!MESSAGE org.osate.ge.ui.handlers.OpenPackageDiagramHandler.execute(): OpenPackageDiagramHandler Finished
+
+!ENTRY org.osate.ge 1 0 2014-11-29 10:24:38.250
+!MESSAGE org.osate.ge.services.impl.DefaultDiagramService.openOrCreateDiagramForRootBusinessObject(): Existing diagram found. Opening...
+
+!ENTRY org.osate.ge 1 0 2014-11-29 10:25:47.110
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram synchronously - current thread is the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-29 10:25:47.110
+!MESSAGE org.osate.ge.diagrams.pkg.features.PackageUpdateDiagramFeature.update(): called with context: UpdateContext pictogramElement: org.eclipse.graphiti.mm.pictograms.impl.DiagramImpl@75439a63 (visible: true, active: false) (gridUnit: 10, diagramTypeId: AADL Package, name: systems, snapToGrid: true, showGuides: false, verticalGridUnit: -1, version: 0.10.0)
+
+!ENTRY org.osate.ge 1 0 2014-11-29 10:36:50.435
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-29 10:36:50.435
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-29 10:36:52.373
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-29 10:36:52.373
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-29 10:54:21.272
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-29 10:54:21.272
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-29 10:54:21.803
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram synchronously - current thread is the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-29 10:54:21.803
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram synchronously - current thread is the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-29 10:54:21.818
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-29 10:54:21.818
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-29 10:54:21.834
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-29 10:54:21.834
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-29 10:57:32.522
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-29 10:57:32.522
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-29 10:57:33.491
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-29 10:57:33.491
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-29 10:57:34.460
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-29 10:57:34.460
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-29 10:57:41.228
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-29 10:57:41.243
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-29 10:57:42.290
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-29 10:57:42.306
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-29 10:57:46.369
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-29 10:57:46.369
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-29 10:58:00.498
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-29 10:58:00.498
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-29 10:58:04.905
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram synchronously - current thread is the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-29 10:58:04.905
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram synchronously - current thread is the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-29 10:58:05.218
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-29 10:58:05.218
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-29 10:58:05.577
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram synchronously - current thread is the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-29 10:58:05.593
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram synchronously - current thread is the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-29 10:58:06.124
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-29 10:58:06.124
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-29 10:58:19.438
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-29 10:58:19.438
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-29 10:58:20.814
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-29 10:58:20.814
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-29 10:58:21.907
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-29 10:58:21.907
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-29 10:58:28.956
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-29 10:58:28.956
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-29 10:58:30.019
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-29 10:58:30.019
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-29 10:58:38.989
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-29 10:58:38.989
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-29 10:58:40.129
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-29 10:58:40.129
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-29 10:58:40.692
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram synchronously - current thread is the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-29 10:58:40.692
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram synchronously - current thread is the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-29 10:58:41.239
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-29 10:58:41.239
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-29 10:58:43.208
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-29 10:58:43.223
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-29 10:58:43.333
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram synchronously - current thread is the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-29 10:58:43.333
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram synchronously - current thread is the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-29 10:58:43.739
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-29 10:58:43.739
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-29 10:58:44.989
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-29 10:58:45.005
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-29 10:58:45.567
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-29 10:58:45.567
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-29 10:58:45.770
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-29 10:58:45.770
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-29 10:58:55.602
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-29 10:58:55.602
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-29 10:59:36.062
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-29 10:59:36.078
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-29 10:59:36.984
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-29 10:59:36.984
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-29 11:00:18.077
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-29 11:00:18.077
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-29 11:00:18.093
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-29 11:00:18.093
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-29 11:00:22.563
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-29 11:00:22.563
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-29 11:00:30.519
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-29 11:00:30.519
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-29 11:00:31.363
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-29 11:00:31.379
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-29 11:00:35.942
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-29 11:00:35.942
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-29 11:00:35.958
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-29 11:00:35.958
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-29 11:01:38.459
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-29 11:01:38.459
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-29 11:01:40.225
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-29 11:01:40.225
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-29 11:02:45.305
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-29 11:02:45.305
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-29 11:02:51.619
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-29 11:02:51.634
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-29 11:02:52.150
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-29 11:02:52.150
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-29 11:02:55.104
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-29 11:02:55.104
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-29 11:02:56.667
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-29 11:02:56.667
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-29 11:02:57.246
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram synchronously - current thread is the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-29 11:02:57.246
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram synchronously - current thread is the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-29 11:02:57.324
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-29 11:02:57.324
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-29 11:03:02.904
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-29 11:03:02.904
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-29 11:03:03.466
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-29 11:03:03.482
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-29 11:03:05.874
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram synchronously - current thread is the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-29 11:03:05.874
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram synchronously - current thread is the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-29 11:03:07.062
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-29 11:03:07.062
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-29 11:03:17.393
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-29 11:03:17.393
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-29 11:03:22.472
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-29 11:03:22.472
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-29 11:03:24.160
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-29 11:03:24.160
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-29 11:03:25.145
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-29 11:03:25.145
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-29 11:04:20.389
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-29 11:04:20.389
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-29 11:04:20.404
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-29 11:04:20.404
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-29 11:04:32.579
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram synchronously - current thread is the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-29 11:04:32.579
+!MESSAGE org.osate.ge.diagrams.componentImplementation.features.ComponentImplementationUpdateDiagramFeature.update(): called with context: UpdateContext pictogramElement: org.eclipse.graphiti.mm.pictograms.impl.DiagramImpl@56d141b4 (visible: true, active: false) (gridUnit: 10, diagramTypeId: AADL Component Implementation, name: systems::ARRs_Ground.impl, snapToGrid: true, showGuides: false, verticalGridUnit: -1, version: 0.10.0)
+
+!ENTRY org.osate.ge 1 0 2014-11-29 11:04:36.594
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram synchronously - current thread is the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-29 11:04:36.594
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram synchronously - current thread is the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-29 11:04:40.080
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram synchronously - current thread is the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-29 11:04:40.080
+!MESSAGE org.osate.ge.diagrams.pkg.features.PackageUpdateDiagramFeature.update(): called with context: UpdateContext pictogramElement: org.eclipse.graphiti.mm.pictograms.impl.DiagramImpl@333e81d7 (visible: true, active: false) (gridUnit: 10, diagramTypeId: AADL Package, name: ARR_subsystems, snapToGrid: true, showGuides: false, verticalGridUnit: -1, version: 0.10.0)
+
+!ENTRY org.osate.ge 1 0 2014-11-29 11:04:43.191
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram synchronously - current thread is the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-29 11:04:43.191
+!MESSAGE org.osate.ge.diagrams.componentImplementation.features.ComponentImplementationUpdateDiagramFeature.update(): called with context: UpdateContext pictogramElement: org.eclipse.graphiti.mm.pictograms.impl.DiagramImpl@542d4da1 (visible: true, active: false) (gridUnit: 10, diagramTypeId: AADL Component Implementation, name: ARR_subsystems::mission_processing.impl, snapToGrid: true, showGuides: false, verticalGridUnit: -1, version: 0.10.0)
+
+!ENTRY org.osate.ge 1 0 2014-11-29 11:04:49.895
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram synchronously - current thread is the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-29 11:04:49.895
+!MESSAGE org.osate.ge.diagrams.componentImplementation.features.ComponentImplementationUpdateDiagramFeature.update(): called with context: UpdateContext pictogramElement: org.eclipse.graphiti.mm.pictograms.impl.DiagramImpl@542d4da1 (visible: true, active: false) (gridUnit: 10, diagramTypeId: AADL Component Implementation, name: ARR_subsystems::mission_processing.impl, snapToGrid: true, showGuides: false, verticalGridUnit: -1, version: 0.10.0)
+
+!ENTRY org.osate.ge 1 0 2014-11-29 11:04:53.849
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram synchronously - current thread is the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-29 11:05:22.950
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram synchronously - current thread is the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-29 11:05:22.950
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram synchronously - current thread is the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-29 11:05:24.388
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-29 11:05:24.388
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-29 11:05:28.984
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram synchronously - current thread is the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-29 11:05:28.999
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram synchronously - current thread is the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-29 11:05:30.391
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-29 11:05:30.391
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-29 11:05:31.141
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram synchronously - current thread is the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-29 11:05:31.141
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram synchronously - current thread is the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-29 11:05:32.157
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-29 11:05:32.157
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-29 11:05:38.314
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-29 11:05:38.314
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-29 15:04:51.652
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-29 15:04:51.652
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-29 15:09:47.565
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram synchronously - current thread is the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-29 15:09:47.565
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram synchronously - current thread is the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-29 15:09:48.128
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-29 15:09:48.128
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-29 15:09:58.692
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-29 15:09:58.692
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-29 15:10:08.990
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-29 15:10:08.990
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-29 15:10:12.475
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-29 15:10:12.491
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 0 0 2014-11-29 16:37:21.099
+!MESSAGE org.osate.ge.ui.handlers.OpenPackageDiagramHandler.execute(): OpenPackageDiagramHandler Started
+
+!ENTRY org.osate.ge 1 0 2014-11-29 16:37:21.599
+!MESSAGE org.osate.ge.services.impl.DefaultDiagramService.openOrCreateDiagramForRootBusinessObject(): Existing diagram found. Opening...
+
+!ENTRY org.osate.ge 1 0 2014-11-29 16:37:21.615
+!MESSAGE org.osate.ge.diagrams.pkg.features.PackageUpdateDiagramFeature.update(): called with context: UpdateContext pictogramElement: org.eclipse.graphiti.mm.pictograms.impl.DiagramImpl@a9c15e4 (visible: true, active: false) (gridUnit: 10, diagramTypeId: AADL Package, name: ARR_subsystems, snapToGrid: true, showGuides: false, verticalGridUnit: -1, version: 0.10.0)
+
+!ENTRY org.eclipse.ui.views.properties.tabbed 4 4 2014-11-29 16:37:22.084
+!MESSAGE Contributor org.osate.ge.editor.AgeDiagramEditor cannot be created.
+
+!ENTRY org.osate.ge 0 0 2014-11-29 16:37:22.100
+!MESSAGE org.osate.ge.ui.handlers.OpenPackageDiagramHandler.execute(): OpenPackageDiagramHandler Finished
+
+!ENTRY org.osate.ge 1 0 2014-11-29 16:37:24.748
+!MESSAGE org.osate.ge.services.impl.DefaultDiagramService.openOrCreateDiagramForRootBusinessObject(): Existing diagram found. Opening...
+
+!ENTRY org.osate.ge 1 0 2014-11-29 16:37:24.786
+!MESSAGE org.osate.ge.diagrams.componentImplementation.features.ComponentImplementationUpdateDiagramFeature.update(): called with context: UpdateContext pictogramElement: org.eclipse.graphiti.mm.pictograms.impl.DiagramImpl@1144d2e5 (visible: true, active: false) (gridUnit: 10, diagramTypeId: AADL Component Implementation, name: ARR_subsystems::mission_processing.impl, snapToGrid: true, showGuides: false, verticalGridUnit: -1, version: 0.10.0)
+
+!ENTRY org.osate.ge 1 0 2014-11-29 16:37:45.852
+!MESSAGE org.osate.ge.services.impl.DefaultDiagramService.openOrCreateDiagramForRootBusinessObject(): Existing diagram found. Opening...
+
+!ENTRY org.osate.ge 1 0 2014-11-29 16:37:45.875
+!MESSAGE org.osate.ge.diagrams.componentImplementation.features.ComponentImplementationUpdateDiagramFeature.update(): called with context: UpdateContext pictogramElement: org.eclipse.graphiti.mm.pictograms.impl.DiagramImpl@680ce9f7 (visible: true, active: false) (gridUnit: 10, diagramTypeId: AADL Component Implementation, name: ARR_subsystems::mission_processing.impl, snapToGrid: true, showGuides: false, verticalGridUnit: -1, version: 0.10.0)
+
+!ENTRY org.osate.ge 1 0 2014-11-29 16:38:05.096
+!MESSAGE org.osate.ge.services.impl.DefaultDiagramService.openOrCreateDiagramForRootBusinessObject(): Existing diagram found. Opening...
+
+!ENTRY org.osate.ge 1 0 2014-11-29 16:38:05.114
+!MESSAGE org.osate.ge.diagrams.componentImplementation.features.ComponentImplementationUpdateDiagramFeature.update(): called with context: UpdateContext pictogramElement: org.eclipse.graphiti.mm.pictograms.impl.DiagramImpl@2cb44617 (visible: true, active: false) (gridUnit: 10, diagramTypeId: AADL Component Implementation, name: processes::mission_handler.impl, snapToGrid: true, showGuides: false, verticalGridUnit: -1, version: 0.10.0)
+
+!ENTRY org.osate.ge 1 0 2014-11-29 16:38:29.572
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-29 16:38:29.572
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-29 16:39:06.157
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-29 16:39:06.159
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-29 16:39:24.930
+!MESSAGE org.osate.ge.services.impl.DefaultAadlModificationService.modify(): Executing modification without a thread switch
+
+!ENTRY org.osate.aadl2.modelsupport 4 0 2014-11-29 16:39:24.993
+!MESSAGE An error occured modifying the AADL model.
+!STACK 0
+java.lang.RuntimeException: Unexpected case: resource already has an editing domain
+	at org.osate.ge.services.impl.DefaultAadlModificationService.modifySafely(DefaultAadlModificationService.java:172)
+	at org.osate.ge.services.impl.DefaultAadlModificationService.access$0(DefaultAadlModificationService.java:165)
+	at org.osate.ge.services.impl.DefaultAadlModificationService$1ModifyRunnable.run(DefaultAadlModificationService.java:67)
+	at org.osate.ge.services.impl.DefaultAadlModificationService.modify(DefaultAadlModificationService.java:129)
+	at org.osate.ge.diagrams.componentImplementation.features.SetSubcomponentClassifierFeature.execute(SetSubcomponentClassifierFeature.java:122)
+	at org.eclipse.graphiti.features.custom.AbstractCustomFeature.execute(AbstractCustomFeature.java:83)
+	at org.eclipse.graphiti.internal.command.GenericFeatureCommandWithContext.execute(GenericFeatureCommandWithContext.java:64)
+	at org.eclipse.graphiti.internal.command.CommandContainer.execute(CommandContainer.java:81)
+	at org.eclipse.graphiti.ui.internal.command.GefCommandWrapper.execute(GefCommandWrapper.java:51)
+	at org.eclipse.graphiti.ui.internal.editor.EmfOnGefCommand.execute(EmfOnGefCommand.java:54)
+	at org.eclipse.graphiti.internal.command.GFPreparableCommand2.doExecute(GFPreparableCommand2.java:37)
+	at org.eclipse.emf.transaction.RecordingCommand.execute(RecordingCommand.java:135)
+	at org.eclipse.emf.workspace.EMFCommandOperation.doExecute(EMFCommandOperation.java:119)
+	at org.eclipse.emf.workspace.AbstractEMFOperation.execute(AbstractEMFOperation.java:150)
+	at org.eclipse.core.commands.operations.DefaultOperationHistory.execute(DefaultOperationHistory.java:513)
+	at org.eclipse.emf.workspace.impl.WorkspaceCommandStackImpl.doExecute(WorkspaceCommandStackImpl.java:208)
+	at org.eclipse.emf.transaction.impl.AbstractTransactionalCommandStack.execute(AbstractTransactionalCommandStack.java:165)
+	at org.eclipse.graphiti.ui.internal.editor.GFWorkspaceCommandStackImpl.execute(GFWorkspaceCommandStackImpl.java:84)
+	at org.eclipse.graphiti.ui.internal.editor.GFCommandStack.execute(GFCommandStack.java:138)
+	at org.eclipse.graphiti.ui.internal.action.CustomAction.executeOnCommandStack(CustomAction.java:65)
+	at org.eclipse.graphiti.ui.internal.action.CustomAction.run(CustomAction.java:60)
+	at org.eclipse.jface.action.Action.runWithEvent(Action.java:499)
+	at org.eclipse.jface.action.ActionContributionItem.handleWidgetSelection(ActionContributionItem.java:584)
+	at org.eclipse.jface.action.ActionContributionItem.access$2(ActionContributionItem.java:501)
+	at org.eclipse.jface.action.ActionContributionItem$5.handleEvent(ActionContributionItem.java:411)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:84)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1057)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4170)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3759)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$9.run(PartRenderingEngine.java:1113)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:997)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:140)
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:611)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:567)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:150)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:124)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:110)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:79)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:354)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:181)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:636)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:591)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1450)
+	at org.eclipse.equinox.launcher.Main.main(Main.java:1426)
+
+!ENTRY org.eclipse.graphiti.ui 4 0 2014-11-29 16:39:24.993
+!MESSAGE GFCommandStack.execute(Command) java.lang.RuntimeException: Unexpected case: resource already has an editing domain
+!STACK 0
+java.lang.RuntimeException: Unexpected case: resource already has an editing domain
+	at org.osate.ge.services.impl.DefaultAadlModificationService.modifySafely(DefaultAadlModificationService.java:172)
+	at org.osate.ge.services.impl.DefaultAadlModificationService.access$0(DefaultAadlModificationService.java:165)
+	at org.osate.ge.services.impl.DefaultAadlModificationService$1ModifyRunnable.run(DefaultAadlModificationService.java:67)
+	at org.osate.ge.services.impl.DefaultAadlModificationService.modify(DefaultAadlModificationService.java:129)
+	at org.osate.ge.diagrams.componentImplementation.features.SetSubcomponentClassifierFeature.execute(SetSubcomponentClassifierFeature.java:122)
+	at org.eclipse.graphiti.features.custom.AbstractCustomFeature.execute(AbstractCustomFeature.java:83)
+	at org.eclipse.graphiti.internal.command.GenericFeatureCommandWithContext.execute(GenericFeatureCommandWithContext.java:64)
+	at org.eclipse.graphiti.internal.command.CommandContainer.execute(CommandContainer.java:81)
+	at org.eclipse.graphiti.ui.internal.command.GefCommandWrapper.execute(GefCommandWrapper.java:51)
+	at org.eclipse.graphiti.ui.internal.editor.EmfOnGefCommand.execute(EmfOnGefCommand.java:54)
+	at org.eclipse.graphiti.internal.command.GFPreparableCommand2.doExecute(GFPreparableCommand2.java:37)
+	at org.eclipse.emf.transaction.RecordingCommand.execute(RecordingCommand.java:135)
+	at org.eclipse.emf.workspace.EMFCommandOperation.doExecute(EMFCommandOperation.java:119)
+	at org.eclipse.emf.workspace.AbstractEMFOperation.execute(AbstractEMFOperation.java:150)
+	at org.eclipse.core.commands.operations.DefaultOperationHistory.execute(DefaultOperationHistory.java:513)
+	at org.eclipse.emf.workspace.impl.WorkspaceCommandStackImpl.doExecute(WorkspaceCommandStackImpl.java:208)
+	at org.eclipse.emf.transaction.impl.AbstractTransactionalCommandStack.execute(AbstractTransactionalCommandStack.java:165)
+	at org.eclipse.graphiti.ui.internal.editor.GFWorkspaceCommandStackImpl.execute(GFWorkspaceCommandStackImpl.java:84)
+	at org.eclipse.graphiti.ui.internal.editor.GFCommandStack.execute(GFCommandStack.java:138)
+	at org.eclipse.graphiti.ui.internal.action.CustomAction.executeOnCommandStack(CustomAction.java:65)
+	at org.eclipse.graphiti.ui.internal.action.CustomAction.run(CustomAction.java:60)
+	at org.eclipse.jface.action.Action.runWithEvent(Action.java:499)
+	at org.eclipse.jface.action.ActionContributionItem.handleWidgetSelection(ActionContributionItem.java:584)
+	at org.eclipse.jface.action.ActionContributionItem.access$2(ActionContributionItem.java:501)
+	at org.eclipse.jface.action.ActionContributionItem$5.handleEvent(ActionContributionItem.java:411)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:84)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1057)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4170)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3759)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$9.run(PartRenderingEngine.java:1113)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:997)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:140)
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:611)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:567)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:150)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:124)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:110)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:79)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:354)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:181)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:636)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:591)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1450)
+	at org.eclipse.equinox.launcher.Main.main(Main.java:1426)
+
+!ENTRY org.osate.ge 1 0 2014-11-29 16:39:33.448
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram synchronously - current thread is the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-29 16:39:33.448
+!MESSAGE org.osate.ge.diagrams.componentImplementation.features.ComponentImplementationUpdateDiagramFeature.update(): called with context: UpdateContext pictogramElement: org.eclipse.graphiti.mm.pictograms.impl.DiagramImpl@2cb44617 (visible: true, active: false) (gridUnit: 10, diagramTypeId: AADL Component Implementation, name: processes::mission_handler.impl, snapToGrid: true, showGuides: false, verticalGridUnit: -1, version: 0.10.0)
+
+!ENTRY org.osate.ge 1 0 2014-11-29 16:39:40.648
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-29 16:39:44.383
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-29 16:39:46.883
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-29 16:39:47.805
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-29 16:39:48.493
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-29 16:39:51.400
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram synchronously - current thread is the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-29 16:39:51.415
+!MESSAGE org.osate.ge.diagrams.componentImplementation.features.ComponentImplementationUpdateDiagramFeature.update(): called with context: UpdateContext pictogramElement: org.eclipse.graphiti.mm.pictograms.impl.DiagramImpl@2cb44617 (visible: true, active: false) (gridUnit: 10, diagramTypeId: AADL Component Implementation, name: processes::mission_handler.impl, snapToGrid: true, showGuides: false, verticalGridUnit: -1, version: 0.10.0)
+
+!ENTRY org.osate.ge 1 0 2014-11-29 16:39:59.515
+!MESSAGE org.osate.ge.services.impl.DefaultAadlModificationService.modify(): Executing modification without a thread switch
+
+!ENTRY org.osate.ge 1 0 2014-11-29 16:39:59.562
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram synchronously - current thread is the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-29 16:39:59.562
+!MESSAGE org.osate.ge.diagrams.componentImplementation.features.ComponentImplementationUpdateDiagramFeature.update(): called with context: UpdateContext pictogramElement: org.eclipse.graphiti.mm.pictograms.impl.DiagramImpl@2cb44617 (visible: true, active: false) (gridUnit: 10, diagramTypeId: AADL Component Implementation, name: processes::mission_handler.impl, snapToGrid: true, showGuides: false, verticalGridUnit: -1, version: 0.10.0)
+
+!ENTRY org.osate.ge 1 0 2014-11-29 16:40:01.965
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-29 16:40:02.199
+!MESSAGE org.osate.ge.diagrams.componentImplementation.features.ComponentImplementationUpdateDiagramFeature.update(): called with context: UpdateContext pictogramElement: org.eclipse.graphiti.mm.pictograms.impl.DiagramImpl@2cb44617 (visible: true, active: false) (gridUnit: 10, diagramTypeId: AADL Component Implementation, name: processes::mission_handler.impl, snapToGrid: true, showGuides: false, verticalGridUnit: -1, version: 0.10.0)
+
+!ENTRY org.osate.ge 1 0 2014-11-29 16:40:06.458
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-29 16:40:06.458
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-29 16:40:07.921
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-29 16:40:07.921
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-29 16:41:06.175
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram synchronously - current thread is the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-29 16:41:06.722
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-29 16:41:17.248
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-29 16:41:17.248
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-29 16:41:18.374
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram synchronously - current thread is the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-29 16:41:18.374
+!MESSAGE org.osate.ge.diagrams.componentImplementation.features.ComponentImplementationUpdateDiagramFeature.update(): called with context: UpdateContext pictogramElement: org.eclipse.graphiti.mm.pictograms.impl.DiagramImpl@2cb44617 (visible: true, active: false) (gridUnit: 10, diagramTypeId: AADL Component Implementation, name: processes::mission_handler.impl, snapToGrid: true, showGuides: false, verticalGridUnit: -1, version: 0.10.0)
+
+!ENTRY org.osate.ge 1 0 2014-11-29 16:41:30.177
+!MESSAGE org.osate.ge.services.impl.DefaultAadlModificationService.modify(): Executing modification without a thread switch
+
+!ENTRY org.osate.ge 1 0 2014-11-29 16:41:31.502
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram synchronously - current thread is the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-29 16:41:31.502
+!MESSAGE org.osate.ge.diagrams.componentImplementation.features.ComponentImplementationUpdateDiagramFeature.update(): called with context: UpdateContext pictogramElement: org.eclipse.graphiti.mm.pictograms.impl.DiagramImpl@2cb44617 (visible: true, active: false) (gridUnit: 10, diagramTypeId: AADL Component Implementation, name: processes::mission_handler.impl, snapToGrid: true, showGuides: false, verticalGridUnit: -1, version: 0.10.0)
+
+!ENTRY org.osate.ge 1 0 2014-11-29 16:41:33.711
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-29 16:41:33.868
+!MESSAGE org.osate.ge.diagrams.componentImplementation.features.ComponentImplementationUpdateDiagramFeature.update(): called with context: UpdateContext pictogramElement: org.eclipse.graphiti.mm.pictograms.impl.DiagramImpl@2cb44617 (visible: true, active: false) (gridUnit: 10, diagramTypeId: AADL Component Implementation, name: processes::mission_handler.impl, snapToGrid: true, showGuides: false, verticalGridUnit: -1, version: 0.10.0)
+
+!ENTRY org.osate.ge 1 0 2014-11-29 16:41:41.591
+!MESSAGE org.osate.ge.services.impl.DefaultAadlModificationService.modify(): Executing modification without a thread switch
+
+!ENTRY org.osate.ge 1 0 2014-11-29 16:41:42.060
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram synchronously - current thread is the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-29 16:41:42.060
+!MESSAGE org.osate.ge.diagrams.componentImplementation.features.ComponentImplementationUpdateDiagramFeature.update(): called with context: UpdateContext pictogramElement: org.eclipse.graphiti.mm.pictograms.impl.DiagramImpl@2cb44617 (visible: true, active: false) (gridUnit: 10, diagramTypeId: AADL Component Implementation, name: processes::mission_handler.impl, snapToGrid: true, showGuides: false, verticalGridUnit: -1, version: 0.10.0)
+
+!ENTRY org.osate.ge 1 0 2014-11-29 16:41:44.870
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-29 16:41:45.744
+!MESSAGE org.osate.ge.diagrams.componentImplementation.features.ComponentImplementationUpdateDiagramFeature.update(): called with context: UpdateContext pictogramElement: org.eclipse.graphiti.mm.pictograms.impl.DiagramImpl@2cb44617 (visible: true, active: false) (gridUnit: 10, diagramTypeId: AADL Component Implementation, name: processes::mission_handler.impl, snapToGrid: true, showGuides: false, verticalGridUnit: -1, version: 0.10.0)
+
+!ENTRY org.osate.ge 1 0 2014-11-29 16:41:50.701
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-29 16:41:50.702
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-29 16:41:51.280
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-29 16:41:51.280
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-29 16:51:48.033
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-29 16:51:48.036
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-29 16:51:48.059
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-29 16:51:51.064
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-29 16:51:57.058
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-29 16:52:16.688
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-29 16:52:17.532
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-29 16:52:19.610
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram synchronously - current thread is the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-29 16:52:19.610
+!MESSAGE org.osate.ge.diagrams.componentImplementation.features.ComponentImplementationUpdateDiagramFeature.update(): called with context: UpdateContext pictogramElement: org.eclipse.graphiti.mm.pictograms.impl.DiagramImpl@2cb44617 (visible: true, active: false) (gridUnit: 10, diagramTypeId: AADL Component Implementation, name: processes::mission_handler.impl, snapToGrid: true, showGuides: false, verticalGridUnit: -1, version: 0.10.0)
+
+!ENTRY org.osate.ge 1 0 2014-11-29 16:52:33.700
+!MESSAGE org.osate.ge.services.impl.DefaultAadlModificationService.modify(): Executing modification without a thread switch
+
+!ENTRY org.osate.ge 1 0 2014-11-29 16:52:35.667
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram synchronously - current thread is the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-29 16:52:35.669
+!MESSAGE org.osate.ge.diagrams.componentImplementation.features.ComponentImplementationUpdateDiagramFeature.update(): called with context: UpdateContext pictogramElement: org.eclipse.graphiti.mm.pictograms.impl.DiagramImpl@2cb44617 (visible: true, active: false) (gridUnit: 10, diagramTypeId: AADL Component Implementation, name: processes::mission_handler.impl, snapToGrid: true, showGuides: false, verticalGridUnit: -1, version: 0.10.0)
+
+!ENTRY org.osate.ge 1 0 2014-11-29 16:52:38.674
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-29 16:52:38.831
+!MESSAGE org.osate.ge.diagrams.componentImplementation.features.ComponentImplementationUpdateDiagramFeature.update(): called with context: UpdateContext pictogramElement: org.eclipse.graphiti.mm.pictograms.impl.DiagramImpl@2cb44617 (visible: true, active: false) (gridUnit: 10, diagramTypeId: AADL Component Implementation, name: processes::mission_handler.impl, snapToGrid: true, showGuides: false, verticalGridUnit: -1, version: 0.10.0)
+
+!ENTRY org.osate.ge 1 0 2014-11-29 16:52:45.067
+!MESSAGE org.osate.ge.services.impl.DefaultAadlModificationService.modify(): Executing modification without a thread switch
+
+!ENTRY org.osate.ge 1 0 2014-11-29 16:52:46.358
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram synchronously - current thread is the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-29 16:52:46.360
+!MESSAGE org.osate.ge.diagrams.componentImplementation.features.ComponentImplementationUpdateDiagramFeature.update(): called with context: UpdateContext pictogramElement: org.eclipse.graphiti.mm.pictograms.impl.DiagramImpl@2cb44617 (visible: true, active: false) (gridUnit: 10, diagramTypeId: AADL Component Implementation, name: processes::mission_handler.impl, snapToGrid: true, showGuides: false, verticalGridUnit: -1, version: 0.10.0)
+
+!ENTRY org.osate.ge 1 0 2014-11-29 16:52:50.045
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-29 16:52:51.024
+!MESSAGE org.osate.ge.diagrams.componentImplementation.features.ComponentImplementationUpdateDiagramFeature.update(): called with context: UpdateContext pictogramElement: org.eclipse.graphiti.mm.pictograms.impl.DiagramImpl@2cb44617 (visible: true, active: false) (gridUnit: 10, diagramTypeId: AADL Component Implementation, name: processes::mission_handler.impl, snapToGrid: true, showGuides: false, verticalGridUnit: -1, version: 0.10.0)
+
+!ENTRY org.osate.ge 1 0 2014-11-29 16:52:59.946
+!MESSAGE org.osate.ge.services.impl.DefaultAadlModificationService.modify(): Executing modification without a thread switch
+
+!ENTRY org.osate.ge 1 0 2014-11-29 16:53:02.097
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram synchronously - current thread is the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-29 16:53:02.113
+!MESSAGE org.osate.ge.diagrams.componentImplementation.features.ComponentImplementationUpdateDiagramFeature.update(): called with context: UpdateContext pictogramElement: org.eclipse.graphiti.mm.pictograms.impl.DiagramImpl@2cb44617 (visible: true, active: false) (gridUnit: 10, diagramTypeId: AADL Component Implementation, name: processes::mission_handler.impl, snapToGrid: true, showGuides: false, verticalGridUnit: -1, version: 0.10.0)
+
+!ENTRY org.osate.ge 1 0 2014-11-29 16:53:08.376
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-29 16:53:09.408
+!MESSAGE org.osate.ge.diagrams.componentImplementation.features.ComponentImplementationUpdateDiagramFeature.update(): called with context: UpdateContext pictogramElement: org.eclipse.graphiti.mm.pictograms.impl.DiagramImpl@2cb44617 (visible: true, active: false) (gridUnit: 10, diagramTypeId: AADL Component Implementation, name: processes::mission_handler.impl, snapToGrid: true, showGuides: false, verticalGridUnit: -1, version: 0.10.0)
+
+!ENTRY org.osate.ge 1 0 2014-11-29 16:53:21.268
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-29 16:53:21.284
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-29 16:54:11.573
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-29 16:54:13.429
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-29 16:54:15.773
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-29 16:54:37.488
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-29 16:54:57.136
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-29 16:55:08.106
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram synchronously - current thread is the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-29 16:55:08.108
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram synchronously - current thread is the display thread
+!SESSION 2014-11-29 16:55:16.203 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=1.7.0_60
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  --launcher.XXPermSize 64M
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 --launcher.XXPermSize 64M
+
+!ENTRY org.osate.ge 1 0 2014-11-29 16:56:22.478
+!MESSAGE org.osate.ge.diagrams.componentImplementation.features.ComponentImplementationUpdateDiagramFeature.update(): called with context: UpdateContext pictogramElement: org.eclipse.graphiti.mm.pictograms.impl.DiagramImpl@2e9ef9e2 (visible: true, active: false) (gridUnit: 10, diagramTypeId: AADL Component Implementation, name: processes::mission_handler.impl, snapToGrid: true, showGuides: false, verticalGridUnit: -1, version: 0.10.0)
+
+!ENTRY org.eclipse.jface 2 0 2014-11-29 17:00:53.539
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2014-11-29 17:00:53.539
+!MESSAGE A conflict occurred for CTRL+O:
+Binding(CTRL+O,
+	ParameterizedCommand(Command(org.eclipse.graphiti.ui.internal.action.SaveImageAction,Export Diagram,
+		Export Diagram,
+		Category(org.eclipse.graphiti.ui.Graphiti_Category,Edit,Graphiti Diagram Editor,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@535fc4b8,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.graphiti.ui.diagramEditor,,,system)
+Binding(CTRL+O,
+	ParameterizedCommand(Command(org.eclipse.xtext.ui.editor.outline.QuickOutline,Quick Outline,
+		Open the quick outline.,
+		Category(org.eclipse.core.commands.categories.autogenerated,Uncategorized,Commands that were either auto-generated or have no category,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@346c36cb,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.xtext.ui.XtextEditorScope,,,system)
+
+!ENTRY org.osate.ge 1 0 2014-11-29 17:01:19.219
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram synchronously - current thread is the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-29 17:01:19.579
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-29 17:01:22.799
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-29 17:01:24.174
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-29 17:01:24.612
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram synchronously - current thread is the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-29 17:01:25.034
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-29 17:01:25.659
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-29 17:01:26.253
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram synchronously - current thread is the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-29 17:01:26.722
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-29 17:01:35.521
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-29 17:01:40.116
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram synchronously - current thread is the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-29 17:01:40.132
+!MESSAGE org.osate.ge.diagrams.componentImplementation.features.ComponentImplementationUpdateDiagramFeature.update(): called with context: UpdateContext pictogramElement: org.eclipse.graphiti.mm.pictograms.impl.DiagramImpl@2e9ef9e2 (visible: true, active: false) (gridUnit: 10, diagramTypeId: AADL Component Implementation, name: processes::mission_handler.impl, snapToGrid: true, showGuides: false, verticalGridUnit: -1, version: 0.10.0)
+
+!ENTRY org.osate.ge 1 0 2014-11-29 17:01:40.945
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram synchronously - current thread is the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-29 17:01:40.945
+!MESSAGE org.osate.ge.diagrams.componentImplementation.features.ComponentImplementationUpdateDiagramFeature.update(): called with context: UpdateContext pictogramElement: org.eclipse.graphiti.mm.pictograms.impl.DiagramImpl@2e9ef9e2 (visible: true, active: false) (gridUnit: 10, diagramTypeId: AADL Component Implementation, name: processes::mission_handler.impl, snapToGrid: true, showGuides: false, verticalGridUnit: -1, version: 0.10.0)
+
+!ENTRY org.osate.ge 0 0 2014-11-29 18:41:00.499
+!MESSAGE org.osate.ge.ui.handlers.OpenPackageDiagramHandler.execute(): OpenPackageDiagramHandler Started
+
+!ENTRY org.osate.ge 1 0 2014-11-29 18:41:01.593
+!MESSAGE org.osate.ge.services.impl.DefaultDiagramService.openOrCreateDiagramForRootBusinessObject(): Existing diagram found. Opening...
+
+!ENTRY org.osate.ge 1 0 2014-11-29 18:41:01.609
+!MESSAGE org.osate.ge.diagrams.pkg.features.PackageUpdateDiagramFeature.update(): called with context: UpdateContext pictogramElement: org.eclipse.graphiti.mm.pictograms.impl.DiagramImpl@740f1589 (visible: true, active: false) (gridUnit: 10, diagramTypeId: AADL Package, name: ARR_subsystems, snapToGrid: true, showGuides: false, verticalGridUnit: -1, version: 0.10.0)
+
+!ENTRY org.osate.ge 0 0 2014-11-29 18:41:02.093
+!MESSAGE org.osate.ge.ui.handlers.OpenPackageDiagramHandler.execute(): OpenPackageDiagramHandler Finished
+
+!ENTRY org.osate.ge 1 0 2014-11-29 18:41:11.001
+!MESSAGE org.osate.ge.services.impl.DefaultDiagramService.openOrCreateDiagramForRootBusinessObject(): Existing diagram found. Opening...
+
+!ENTRY org.osate.ge 1 0 2014-11-29 18:41:11.047
+!MESSAGE org.osate.ge.diagrams.componentImplementation.features.ComponentImplementationUpdateDiagramFeature.update(): called with context: UpdateContext pictogramElement: org.eclipse.graphiti.mm.pictograms.impl.DiagramImpl@40c8987c (visible: true, active: false) (gridUnit: 10, diagramTypeId: AADL Component Implementation, name: ARR_subsystems::mission_processing.impl, snapToGrid: true, showGuides: false, verticalGridUnit: -1, version: 0.10.0)
+
+!ENTRY org.osate.ge 1 0 2014-11-29 18:47:57.659
+!MESSAGE org.osate.ge.services.impl.DefaultDiagramService.openOrCreateDiagramForRootBusinessObject(): Existing diagram found. Opening...
+
+!ENTRY org.osate.ge 1 0 2014-11-29 18:49:07.806
+!MESSAGE org.osate.ge.services.impl.DefaultAadlModificationService.modify(): Executing modification without a thread switch
+
+!ENTRY org.osate.ge 1 0 2014-11-29 18:49:10.931
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram synchronously - current thread is the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-29 18:49:10.931
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram synchronously - current thread is the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-29 18:49:10.931
+!MESSAGE org.osate.ge.diagrams.componentImplementation.features.ComponentImplementationUpdateDiagramFeature.update(): called with context: UpdateContext pictogramElement: org.eclipse.graphiti.mm.pictograms.impl.DiagramImpl@40c8987c (visible: true, active: false) (gridUnit: 10, diagramTypeId: AADL Component Implementation, name: ARR_subsystems::mission_processing.impl, snapToGrid: true, showGuides: false, verticalGridUnit: -1, version: 0.10.0)
+
+!ENTRY org.osate.ge 1 0 2014-11-29 18:49:15.150
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-29 18:49:15.150
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-29 18:49:15.790
+!MESSAGE org.osate.ge.diagrams.componentImplementation.features.ComponentImplementationUpdateDiagramFeature.update(): called with context: UpdateContext pictogramElement: org.eclipse.graphiti.mm.pictograms.impl.DiagramImpl@40c8987c (visible: true, active: false) (gridUnit: 10, diagramTypeId: AADL Component Implementation, name: ARR_subsystems::mission_processing.impl, snapToGrid: true, showGuides: false, verticalGridUnit: -1, version: 0.10.0)
+
+!ENTRY org.osate.ge 1 0 2014-11-29 18:49:26.947
+!MESSAGE org.osate.ge.services.impl.DefaultAadlModificationService.modify(): Executing modification without a thread switch
+
+!ENTRY org.osate.ge 1 0 2014-11-29 18:49:27.791
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram synchronously - current thread is the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-29 18:49:27.807
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram synchronously - current thread is the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-29 18:49:27.807
+!MESSAGE org.osate.ge.diagrams.componentImplementation.features.ComponentImplementationUpdateDiagramFeature.update(): called with context: UpdateContext pictogramElement: org.eclipse.graphiti.mm.pictograms.impl.DiagramImpl@40c8987c (visible: true, active: false) (gridUnit: 10, diagramTypeId: AADL Component Implementation, name: ARR_subsystems::mission_processing.impl, snapToGrid: true, showGuides: false, verticalGridUnit: -1, version: 0.10.0)
+
+!ENTRY org.osate.ge 1 0 2014-11-29 18:49:34.079
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-29 18:49:34.079
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram asynchronously - current thread is not the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-29 18:49:34.782
+!MESSAGE org.osate.ge.diagrams.componentImplementation.features.ComponentImplementationUpdateDiagramFeature.update(): called with context: UpdateContext pictogramElement: org.eclipse.graphiti.mm.pictograms.impl.DiagramImpl@40c8987c (visible: true, active: false) (gridUnit: 10, diagramTypeId: AADL Component Implementation, name: ARR_subsystems::mission_processing.impl, snapToGrid: true, showGuides: false, verticalGridUnit: -1, version: 0.10.0)
+
+!ENTRY org.osate.ge 1 0 2014-11-29 18:50:37.674
+!MESSAGE org.osate.ge.ui.editor.AgeDiagramBehavior.update(): Updating diagram synchronously - current thread is the display thread
+
+!ENTRY org.osate.ge 1 0 2014-11-29 18:50:37.674
+!MESSAGE org.osate.ge.diagrams.pkg.features.PackageUpdateDiagramFeature.update(): called with context: UpdateContext pictogramElement: org.eclipse.graphiti.mm.pictograms.impl.DiagramImpl@740f1589 (visible: true, active: false) (gridUnit: 10, diagramTypeId: AADL Package, name: ARR_subsystems, snapToGrid: true, showGuides: false, verticalGridUnit: -1, version: 0.10.0)

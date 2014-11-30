@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="ASCII"?>
+<instance:SystemInstance xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:instance="http://aadl.info/AADL/2.0/instance" xmi:id="_EsW-QHT7EeSNFPQmMCI06g" name="mission_processing_impl_Instance" category="system">
+  <systemImplementation href="../packages/ARR_subsystems.aadl#ARR_subsystems::mission_processing.impl"/>
+</instance:SystemInstance>

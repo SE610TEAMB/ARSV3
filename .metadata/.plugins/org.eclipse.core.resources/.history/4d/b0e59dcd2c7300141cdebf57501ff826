@@ -1,0 +1,18 @@
+package buses
+public
+	bus power_bus
+	features
+		provide : provides bus access;
+		require : requires bus access;
+	end power_bus;
+
+	bus data_bus
+	end data_bus;
+
+	bus implementation data_bus.impl
+	end data_bus.impl;
+
+	bus implementation power_bus.impl
+	end power_bus.impl;
+
+end buses;

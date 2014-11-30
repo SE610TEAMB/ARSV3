@@ -1,0 +1,6 @@
+package processors
+public
+	processor x86_processor
+	end x86_processor;
+
+end processors;
